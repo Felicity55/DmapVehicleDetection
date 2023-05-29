@@ -1,0 +1,713 @@
+2022-09-21 17:37:50,949 - main - INFO - CSRNet-Epochs-100_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 17:37:52,986 - main - INFO - Epoch 1/100
+2022-09-21 17:37:52,986 - main - INFO - ----------------------------
+2022-09-21 17:37:52,987 - main - INFO - training...
+2022-09-21 17:42:07,512 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 15088.8605, running SE = 2313003.2295
+2022-09-21 17:43:28,182 - main - INFO - Epoch 1 - train: epoch loss = 0.0000, MAE = 141.6133, MSE = 143.5976
+2022-09-21 17:43:28,182 - main - INFO - validating...
+2022-09-21 17:45:53,298 - main - INFO - Epoch 1 - val: epoch loss = 0.0000, MAE = 66.6615, MSE = 100.7800
+2022-09-21 17:45:53,412 - main - INFO - Saved the best model at epoch 1.
+2022-09-21 17:45:53,413 - main - INFO - Epoch 2/100
+2022-09-21 17:45:53,414 - main - INFO - ----------------------------
+2022-09-21 17:45:53,416 - main - INFO - training...
+2022-09-21 17:47:12,503 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 8567.8169, running SE = 754572.9309
+2022-09-21 17:47:39,156 - main - INFO - Epoch 2 - train: epoch loss = 0.0000, MAE = 80.4018, MSE = 81.9407
+2022-09-21 17:47:39,156 - main - INFO - validating...
+2022-09-21 17:48:27,554 - main - INFO - Epoch 2 - val: epoch loss = 0.0000, MAE = 56.8773, MSE = 84.0561
+2022-09-21 17:48:27,562 - main - INFO - Saved the best model at epoch 2.
+2022-09-21 17:48:27,562 - main - INFO - Epoch 3/100
+2022-09-21 17:48:27,563 - main - INFO - ----------------------------
+2022-09-21 17:48:27,563 - main - INFO - training...
+2022-09-21 17:49:48,207 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 4778.8449, running SE = 240122.7533
+2022-09-21 17:50:17,618 - main - INFO - Epoch 3 - train: epoch loss = 0.0000, MAE = 44.7876, MSE = 46.2830
+2022-09-21 17:50:17,619 - main - INFO - validating...
+2022-09-21 17:51:13,273 - main - INFO - Epoch 3 - val: epoch loss = 0.0000, MAE = 64.1053, MSE = 85.1348
+2022-09-21 17:51:13,273 - main - INFO - Epoch 4/100
+2022-09-21 17:51:13,274 - main - INFO - ----------------------------
+2022-09-21 17:51:13,274 - main - INFO - training...
+2022-09-21 17:52:37,082 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 2640.5204, running SE = 78043.4244
+2022-09-21 17:53:05,926 - main - INFO - Epoch 4 - train: epoch loss = 0.0000, MAE = 24.7411, MSE = 26.4190
+2022-09-21 17:53:05,927 - main - INFO - validating...
+2022-09-21 17:53:57,046 - main - INFO - Epoch 4 - val: epoch loss = 0.0000, MAE = 71.2978, MSE = 89.0862
+2022-09-21 17:53:57,047 - main - INFO - Epoch 5/100
+2022-09-21 17:53:57,047 - main - INFO - ----------------------------
+2022-09-21 17:53:57,047 - main - INFO - training...
+2022-09-21 17:55:17,870 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 1449.7638, running SE = 27633.3435
+2022-09-21 17:55:45,420 - main - INFO - Epoch 5 - train: epoch loss = 0.0000, MAE = 14.0716, MSE = 16.1209
+2022-09-21 17:55:45,421 - main - INFO - validating...
+2022-09-21 17:56:36,295 - main - INFO - Epoch 5 - val: epoch loss = 0.0000, MAE = 75.9386, MSE = 92.1704
+2022-09-21 17:56:36,296 - main - INFO - Epoch 6/100
+2022-09-21 17:56:36,296 - main - INFO - ----------------------------
+2022-09-21 17:56:36,296 - main - INFO - training...
+2022-09-21 17:57:57,356 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 975.3559, running SE = 14456.4774
+2022-09-21 17:58:24,579 - main - INFO - Epoch 6 - train: epoch loss = 0.0000, MAE = 9.0734, MSE = 11.3194
+2022-09-21 17:58:24,579 - main - INFO - validating...
+2022-09-21 17:59:15,079 - main - INFO - Epoch 6 - val: epoch loss = 0.0000, MAE = 78.6150, MSE = 94.1986
+2022-09-21 17:59:15,079 - main - INFO - Epoch 7/100
+2022-09-21 17:59:15,079 - main - INFO - ----------------------------
+2022-09-21 17:59:15,080 - main - INFO - training...
+2022-09-21 18:00:35,461 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 751.4866, running SE = 9045.6353
+2022-09-21 18:01:02,678 - main - INFO - Epoch 7 - train: epoch loss = 0.0000, MAE = 7.7726, MSE = 9.6891
+2022-09-21 18:01:02,679 - main - INFO - validating...
+2022-09-21 18:01:52,597 - main - INFO - Epoch 7 - val: epoch loss = 0.0000, MAE = 80.0289, MSE = 95.3187
+2022-09-21 18:01:52,598 - main - INFO - Epoch 8/100
+2022-09-21 18:01:52,598 - main - INFO - ----------------------------
+2022-09-21 18:01:52,598 - main - INFO - training...
+2022-09-21 18:03:11,904 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 704.1573, running SE = 7568.6362
+2022-09-21 18:03:38,917 - main - INFO - Epoch 8 - train: epoch loss = 0.0000, MAE = 6.9448, MSE = 8.7004
+2022-09-21 18:03:38,917 - main - INFO - validating...
+2022-09-21 18:04:28,649 - main - INFO - Epoch 8 - val: epoch loss = 0.0000, MAE = 81.0224, MSE = 96.0946
+2022-09-21 18:04:28,650 - main - INFO - Epoch 9/100
+2022-09-21 18:04:28,650 - main - INFO - ----------------------------
+2022-09-21 18:04:28,651 - main - INFO - training...
+2022-09-21 18:05:48,285 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 668.4330, running SE = 6636.1071
+2022-09-21 18:06:15,285 - main - INFO - Epoch 9 - train: epoch loss = 0.0000, MAE = 6.4420, MSE = 7.9179
+2022-09-21 18:06:15,286 - main - INFO - validating...
+2022-09-21 18:07:05,405 - main - INFO - Epoch 9 - val: epoch loss = 0.0000, MAE = 81.5483, MSE = 96.4949
+2022-09-21 18:07:05,405 - main - INFO - Epoch 10/100
+2022-09-21 18:07:05,405 - main - INFO - ----------------------------
+2022-09-21 18:07:05,406 - main - INFO - training...
+2022-09-21 18:08:25,147 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 726.7298, running SE = 7774.9657
+2022-09-21 18:08:52,144 - main - INFO - Epoch 10 - train: epoch loss = 0.0000, MAE = 7.0154, MSE = 8.4999
+2022-09-21 18:08:52,145 - main - INFO - validating...
+2022-09-21 18:09:42,764 - main - INFO - Epoch 10 - val: epoch loss = 0.0000, MAE = 81.8556, MSE = 96.7278
+2022-09-21 18:09:42,771 - main - INFO - Saved the model at epoch 10.
+2022-09-21 18:09:42,771 - main - INFO - Epoch 11/100
+2022-09-21 18:09:42,771 - main - INFO - ----------------------------
+2022-09-21 18:09:42,772 - main - INFO - training...
+2022-09-21 18:11:03,538 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 732.1704, running SE = 8726.7455
+2022-09-21 18:11:30,555 - main - INFO - Epoch 11 - train: epoch loss = 0.0000, MAE = 7.1256, MSE = 9.3156
+2022-09-21 18:11:30,556 - main - INFO - validating...
+2022-09-21 18:12:20,333 - main - INFO - Epoch 11 - val: epoch loss = 0.0000, MAE = 81.8803, MSE = 96.7466
+2022-09-21 18:12:20,334 - main - INFO - Epoch 12/100
+2022-09-21 18:12:20,334 - main - INFO - ----------------------------
+2022-09-21 18:12:20,334 - main - INFO - training...
+2022-09-21 18:13:39,941 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 619.3778, running SE = 5702.9782
+2022-09-21 18:14:07,201 - main - INFO - Epoch 12 - train: epoch loss = 0.0000, MAE = 6.0917, MSE = 7.6304
+2022-09-21 18:14:07,202 - main - INFO - validating...
+2022-09-21 18:14:57,532 - main - INFO - Epoch 12 - val: epoch loss = 0.0000, MAE = 81.9972, MSE = 96.8356
+2022-09-21 18:14:57,533 - main - INFO - Epoch 13/100
+2022-09-21 18:14:57,533 - main - INFO - ----------------------------
+2022-09-21 18:14:57,533 - main - INFO - training...
+2022-09-21 18:16:17,667 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 666.9483, running SE = 6841.6102
+2022-09-21 18:16:45,199 - main - INFO - Epoch 13 - train: epoch loss = 0.0000, MAE = 6.1313, MSE = 7.7806
+2022-09-21 18:16:45,200 - main - INFO - validating...
+2022-09-21 18:17:38,087 - main - INFO - Epoch 13 - val: epoch loss = 0.0000, MAE = 81.9702, MSE = 96.8150
+2022-09-21 18:17:38,088 - main - INFO - Epoch 14/100
+2022-09-21 18:17:38,088 - main - INFO - ----------------------------
+2022-09-21 18:17:38,089 - main - INFO - training...
+2022-09-21 18:19:01,759 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 736.4133, running SE = 8421.5053
+2022-09-21 18:19:29,806 - main - INFO - Epoch 14 - train: epoch loss = 0.0000, MAE = 7.4624, MSE = 9.0908
+2022-09-21 18:19:29,807 - main - INFO - validating...
+2022-09-21 18:20:21,914 - main - INFO - Epoch 14 - val: epoch loss = 0.0000, MAE = 81.9837, MSE = 96.8254
+2022-09-21 18:20:21,915 - main - INFO - Epoch 15/100
+2022-09-21 18:20:21,915 - main - INFO - ----------------------------
+2022-09-21 18:20:21,915 - main - INFO - training...
+2022-09-21 18:21:45,678 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 717.9116, running SE = 8012.6058
+2022-09-21 18:22:13,745 - main - INFO - Epoch 15 - train: epoch loss = 0.0000, MAE = 7.2621, MSE = 8.9284
+2022-09-21 18:22:13,745 - main - INFO - validating...
+2022-09-21 18:23:05,746 - main - INFO - Epoch 15 - val: epoch loss = 0.0000, MAE = 82.1011, MSE = 96.9150
+2022-09-21 18:23:05,746 - main - INFO - Epoch 16/100
+2022-09-21 18:23:05,746 - main - INFO - ----------------------------
+2022-09-21 18:23:05,747 - main - INFO - training...
+2022-09-21 18:24:27,801 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 623.7533, running SE = 6294.5702
+2022-09-21 18:24:55,759 - main - INFO - Epoch 16 - train: epoch loss = 0.0000, MAE = 6.1998, MSE = 7.8293
+2022-09-21 18:24:55,760 - main - INFO - validating...
+2022-09-21 18:25:48,789 - main - INFO - Epoch 16 - val: epoch loss = 0.0000, MAE = 82.2002, MSE = 96.9908
+2022-09-21 18:25:48,789 - main - INFO - Epoch 17/100
+2022-09-21 18:25:48,790 - main - INFO - ----------------------------
+2022-09-21 18:25:48,790 - main - INFO - training...
+2022-09-21 18:27:10,607 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 703.5272, running SE = 7488.6737
+2022-09-21 18:27:38,329 - main - INFO - Epoch 17 - train: epoch loss = 0.0000, MAE = 7.3087, MSE = 9.1001
+2022-09-21 18:27:38,330 - main - INFO - validating...
+2022-09-21 18:28:31,820 - main - INFO - Epoch 17 - val: epoch loss = 0.0000, MAE = 82.1479, MSE = 96.9508
+2022-09-21 18:28:31,821 - main - INFO - Epoch 18/100
+2022-09-21 18:28:31,821 - main - INFO - ----------------------------
+2022-09-21 18:28:31,822 - main - INFO - training...
+2022-09-21 18:29:54,676 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 703.5758, running SE = 7905.3171
+2022-09-21 18:30:22,048 - main - INFO - Epoch 18 - train: epoch loss = 0.0000, MAE = 6.8021, MSE = 8.5083
+2022-09-21 18:30:22,049 - main - INFO - validating...
+2022-09-21 18:31:15,006 - main - INFO - Epoch 18 - val: epoch loss = 0.0000, MAE = 82.0901, MSE = 96.9065
+2022-09-21 18:31:15,007 - main - INFO - Epoch 19/100
+2022-09-21 18:31:15,007 - main - INFO - ----------------------------
+2022-09-21 18:31:15,008 - main - INFO - training...
+2022-09-21 18:32:36,216 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 703.7538, running SE = 7325.2768
+2022-09-21 18:33:04,255 - main - INFO - Epoch 19 - train: epoch loss = 0.0000, MAE = 6.9442, MSE = 8.4404
+2022-09-21 18:33:04,256 - main - INFO - validating...
+2022-09-21 18:33:56,888 - main - INFO - Epoch 19 - val: epoch loss = 0.0000, MAE = 82.1214, MSE = 96.9305
+2022-09-21 18:33:56,889 - main - INFO - Epoch 20/100
+2022-09-21 18:33:56,889 - main - INFO - ----------------------------
+2022-09-21 18:33:56,889 - main - INFO - training...
+2022-09-21 18:35:18,857 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 580.7630, running SE = 5400.8906
+2022-09-21 18:35:46,855 - main - INFO - Epoch 20 - train: epoch loss = 0.0000, MAE = 6.1248, MSE = 7.7576
+2022-09-21 18:35:46,856 - main - INFO - validating...
+2022-09-21 18:36:37,257 - main - INFO - Epoch 20 - val: epoch loss = 0.0000, MAE = 82.2117, MSE = 96.9996
+2022-09-21 18:36:37,263 - main - INFO - Saved the model at epoch 20.
+2022-09-21 18:36:37,264 - main - INFO - Epoch 21/100
+2022-09-21 18:36:37,264 - main - INFO - ----------------------------
+2022-09-21 18:36:37,264 - main - INFO - training...
+2022-09-21 18:38:00,695 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 670.8664, running SE = 6835.1554
+2022-09-21 18:38:30,015 - main - INFO - Epoch 21 - train: epoch loss = 0.0000, MAE = 6.5874, MSE = 8.2491
+2022-09-21 18:38:30,015 - main - INFO - validating...
+2022-09-21 18:39:21,390 - main - INFO - Epoch 21 - val: epoch loss = 0.0000, MAE = 82.1325, MSE = 96.9390
+2022-09-21 18:39:21,391 - main - INFO - Epoch 22/100
+2022-09-21 18:39:21,391 - main - INFO - ----------------------------
+2022-09-21 18:39:21,391 - main - INFO - training...
+2022-09-21 18:40:45,119 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 677.9550, running SE = 7244.2146
+2022-09-21 18:41:14,265 - main - INFO - Epoch 22 - train: epoch loss = 0.0000, MAE = 6.8709, MSE = 8.5205
+2022-09-21 18:41:14,266 - main - INFO - validating...
+2022-09-21 18:42:06,458 - main - INFO - Epoch 22 - val: epoch loss = 0.0000, MAE = 82.1716, MSE = 96.9689
+2022-09-21 18:42:06,459 - main - INFO - Epoch 23/100
+2022-09-21 18:42:06,459 - main - INFO - ----------------------------
+2022-09-21 18:42:06,460 - main - INFO - training...
+2022-09-21 18:43:30,348 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 640.8920, running SE = 6234.4771
+2022-09-21 18:44:00,048 - main - INFO - Epoch 23 - train: epoch loss = 0.0000, MAE = 6.6930, MSE = 8.3148
+2022-09-21 18:44:00,048 - main - INFO - validating...
+2022-09-21 18:44:53,285 - main - INFO - Epoch 23 - val: epoch loss = 0.0000, MAE = 82.0944, MSE = 96.9098
+2022-09-21 18:44:53,286 - main - INFO - Epoch 24/100
+2022-09-21 18:44:53,286 - main - INFO - ----------------------------
+2022-09-21 18:44:53,287 - main - INFO - training...
+2022-09-21 18:46:16,591 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 614.6142, running SE = 5882.9344
+2022-09-21 18:46:44,634 - main - INFO - Epoch 24 - train: epoch loss = 0.0000, MAE = 6.4412, MSE = 8.2268
+2022-09-21 18:46:44,635 - main - INFO - validating...
+2022-09-21 18:47:37,283 - main - INFO - Epoch 24 - val: epoch loss = 0.0000, MAE = 82.0585, MSE = 96.8823
+2022-09-21 18:47:37,284 - main - INFO - Epoch 25/100
+2022-09-21 18:47:37,284 - main - INFO - ----------------------------
+2022-09-21 18:47:37,285 - main - INFO - training...
+2022-09-21 18:48:59,886 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 645.8841, running SE = 6763.7412
+2022-09-21 18:49:28,104 - main - INFO - Epoch 25 - train: epoch loss = 0.0000, MAE = 7.0305, MSE = 8.8162
+2022-09-21 18:49:28,104 - main - INFO - validating...
+2022-09-21 18:50:20,403 - main - INFO - Epoch 25 - val: epoch loss = 0.0000, MAE = 82.0343, MSE = 96.8639
+2022-09-21 18:50:20,403 - main - INFO - Epoch 26/100
+2022-09-21 18:50:20,403 - main - INFO - ----------------------------
+2022-09-21 18:50:20,404 - main - INFO - training...
+2022-09-21 18:51:42,292 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 700.6209, running SE = 7432.8283
+2022-09-21 18:52:10,127 - main - INFO - Epoch 26 - train: epoch loss = 0.0000, MAE = 7.0639, MSE = 8.8092
+2022-09-21 18:52:10,127 - main - INFO - validating...
+2022-09-21 18:53:02,139 - main - INFO - Epoch 26 - val: epoch loss = 0.0000, MAE = 82.1285, MSE = 96.9359
+2022-09-21 18:53:02,139 - main - INFO - Epoch 27/100
+2022-09-21 18:53:02,139 - main - INFO - ----------------------------
+2022-09-21 18:53:02,139 - main - INFO - training...
+2022-09-21 18:54:24,149 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 634.6054, running SE = 6658.4354
+2022-09-21 18:54:52,278 - main - INFO - Epoch 27 - train: epoch loss = 0.0000, MAE = 6.5282, MSE = 8.2552
+2022-09-21 18:54:52,278 - main - INFO - validating...
+2022-09-21 18:55:44,580 - main - INFO - Epoch 27 - val: epoch loss = 0.0000, MAE = 82.1224, MSE = 96.9312
+2022-09-21 18:55:44,581 - main - INFO - Epoch 28/100
+2022-09-21 18:55:44,581 - main - INFO - ----------------------------
+2022-09-21 18:55:44,581 - main - INFO - training...
+2022-09-21 18:57:06,367 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 670.7246, running SE = 7177.3594
+2022-09-21 18:57:33,943 - main - INFO - Epoch 28 - train: epoch loss = 0.0000, MAE = 6.6499, MSE = 8.2687
+2022-09-21 18:57:33,943 - main - INFO - validating...
+2022-09-21 18:58:26,788 - main - INFO - Epoch 28 - val: epoch loss = 0.0000, MAE = 82.0973, MSE = 96.9120
+2022-09-21 18:58:26,788 - main - INFO - Epoch 29/100
+2022-09-21 18:58:26,789 - main - INFO - ----------------------------
+2022-09-21 18:58:26,789 - main - INFO - training...
+2022-09-21 18:59:50,880 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 711.0127, running SE = 8040.2165
+2022-09-21 19:00:19,165 - main - INFO - Epoch 29 - train: epoch loss = 0.0000, MAE = 6.5677, MSE = 8.4357
+2022-09-21 19:00:19,166 - main - INFO - validating...
+2022-09-21 19:01:12,529 - main - INFO - Epoch 29 - val: epoch loss = 0.0000, MAE = 82.1437, MSE = 96.9475
+2022-09-21 19:01:12,529 - main - INFO - Epoch 30/100
+2022-09-21 19:01:12,529 - main - INFO - ----------------------------
+2022-09-21 19:01:12,530 - main - INFO - training...
+2022-09-21 19:02:34,031 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 616.2855, running SE = 5894.3401
+2022-09-21 19:03:01,842 - main - INFO - Epoch 30 - train: epoch loss = 0.0000, MAE = 6.1903, MSE = 7.7192
+2022-09-21 19:03:01,843 - main - INFO - validating...
+2022-09-21 19:03:54,049 - main - INFO - Epoch 30 - val: epoch loss = 0.0000, MAE = 82.1566, MSE = 96.9573
+2022-09-21 19:03:54,055 - main - INFO - Saved the model at epoch 30.
+2022-09-21 19:03:54,056 - main - INFO - Epoch 31/100
+2022-09-21 19:03:54,056 - main - INFO - ----------------------------
+2022-09-21 19:03:54,057 - main - INFO - training...
+2022-09-21 19:05:18,248 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 654.3033, running SE = 7130.6794
+2022-09-21 19:05:46,459 - main - INFO - Epoch 31 - train: epoch loss = 0.0000, MAE = 6.9801, MSE = 8.9341
+2022-09-21 19:05:46,459 - main - INFO - validating...
+2022-09-21 19:06:38,454 - main - INFO - Epoch 31 - val: epoch loss = 0.0000, MAE = 82.0249, MSE = 96.8566
+2022-09-21 19:06:38,454 - main - INFO - Epoch 32/100
+2022-09-21 19:06:38,454 - main - INFO - ----------------------------
+2022-09-21 19:06:38,455 - main - INFO - training...
+2022-09-21 19:08:00,815 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 680.1082, running SE = 7570.8862
+2022-09-21 19:08:29,211 - main - INFO - Epoch 32 - train: epoch loss = 0.0000, MAE = 6.5484, MSE = 8.3929
+2022-09-21 19:08:29,212 - main - INFO - validating...
+2022-09-21 19:09:21,894 - main - INFO - Epoch 32 - val: epoch loss = 0.0000, MAE = 82.1007, MSE = 96.9146
+2022-09-21 19:09:21,894 - main - INFO - Epoch 33/100
+2022-09-21 19:09:21,895 - main - INFO - ----------------------------
+2022-09-21 19:09:21,895 - main - INFO - training...
+2022-09-21 19:10:44,884 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 619.3959, running SE = 5957.0974
+2022-09-21 19:11:12,504 - main - INFO - Epoch 33 - train: epoch loss = 0.0000, MAE = 6.3436, MSE = 7.8080
+2022-09-21 19:11:12,505 - main - INFO - validating...
+2022-09-21 19:12:04,689 - main - INFO - Epoch 33 - val: epoch loss = 0.0000, MAE = 82.0311, MSE = 96.8614
+2022-09-21 19:12:04,690 - main - INFO - Epoch 34/100
+2022-09-21 19:12:04,690 - main - INFO - ----------------------------
+2022-09-21 19:12:04,690 - main - INFO - training...
+2022-09-21 19:13:27,350 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 706.6771, running SE = 8051.0171
+2022-09-21 19:13:55,505 - main - INFO - Epoch 34 - train: epoch loss = 0.0000, MAE = 6.9272, MSE = 8.8699
+2022-09-21 19:13:55,506 - main - INFO - validating...
+2022-09-21 19:14:48,262 - main - INFO - Epoch 34 - val: epoch loss = 0.0000, MAE = 82.2328, MSE = 97.0158
+2022-09-21 19:14:48,262 - main - INFO - Epoch 35/100
+2022-09-21 19:14:48,262 - main - INFO - ----------------------------
+2022-09-21 19:14:48,263 - main - INFO - training...
+2022-09-21 19:16:12,462 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 649.6580, running SE = 6407.2811
+2022-09-21 19:16:41,025 - main - INFO - Epoch 35 - train: epoch loss = 0.0000, MAE = 6.4721, MSE = 8.0676
+2022-09-21 19:16:41,025 - main - INFO - validating...
+2022-09-21 19:17:33,730 - main - INFO - Epoch 35 - val: epoch loss = 0.0000, MAE = 82.1237, MSE = 96.9321
+2022-09-21 19:17:33,730 - main - INFO - Epoch 36/100
+2022-09-21 19:17:33,730 - main - INFO - ----------------------------
+2022-09-21 19:17:33,731 - main - INFO - training...
+2022-09-21 19:18:57,555 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 652.4361, running SE = 7128.3611
+2022-09-21 19:19:26,214 - main - INFO - Epoch 36 - train: epoch loss = 0.0000, MAE = 6.9320, MSE = 8.8360
+2022-09-21 19:19:26,214 - main - INFO - validating...
+2022-09-21 19:20:19,962 - main - INFO - Epoch 36 - val: epoch loss = 0.0000, MAE = 82.0827, MSE = 96.9008
+2022-09-21 19:20:19,962 - main - INFO - Epoch 37/100
+2022-09-21 19:20:19,962 - main - INFO - ----------------------------
+2022-09-21 19:20:19,963 - main - INFO - training...
+2022-09-21 19:21:45,044 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 757.2752, running SE = 8373.4298
+2022-09-21 19:22:13,158 - main - INFO - Epoch 37 - train: epoch loss = 0.0000, MAE = 7.0174, MSE = 8.6299
+2022-09-21 19:22:13,158 - main - INFO - validating...
+2022-09-21 19:23:04,533 - main - INFO - Epoch 37 - val: epoch loss = 0.0000, MAE = 82.1360, MSE = 96.9416
+2022-09-21 19:23:04,534 - main - INFO - Epoch 38/100
+2022-09-21 19:23:04,534 - main - INFO - ----------------------------
+2022-09-21 19:23:04,534 - main - INFO - training...
+2022-09-21 19:24:27,875 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 623.4565, running SE = 6000.0013
+2022-09-21 19:24:56,822 - main - INFO - Epoch 38 - train: epoch loss = 0.0000, MAE = 6.3678, MSE = 7.9981
+2022-09-21 19:24:56,822 - main - INFO - validating...
+2022-09-21 19:25:48,433 - main - INFO - Epoch 38 - val: epoch loss = 0.0000, MAE = 82.1136, MSE = 96.9245
+2022-09-21 19:25:48,434 - main - INFO - Epoch 39/100
+2022-09-21 19:25:48,434 - main - INFO - ----------------------------
+2022-09-21 19:25:48,434 - main - INFO - training...
+2022-09-21 19:27:11,254 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 673.1506, running SE = 6568.9071
+2022-09-21 19:27:39,038 - main - INFO - Epoch 39 - train: epoch loss = 0.0000, MAE = 6.7960, MSE = 8.3285
+2022-09-21 19:27:39,039 - main - INFO - validating...
+2022-09-21 19:28:30,873 - main - INFO - Epoch 39 - val: epoch loss = 0.0000, MAE = 82.0646, MSE = 96.8870
+2022-09-21 19:28:30,874 - main - INFO - Epoch 40/100
+2022-09-21 19:28:30,874 - main - INFO - ----------------------------
+2022-09-21 19:28:30,875 - main - INFO - training...
+2022-09-21 19:29:55,861 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 655.8252, running SE = 6589.4553
+2022-09-21 19:30:24,549 - main - INFO - Epoch 40 - train: epoch loss = 0.0000, MAE = 6.3879, MSE = 7.9469
+2022-09-21 19:30:24,550 - main - INFO - validating...
+2022-09-21 19:31:18,788 - main - INFO - Epoch 40 - val: epoch loss = 0.0000, MAE = 82.1997, MSE = 96.9903
+2022-09-21 19:31:18,795 - main - INFO - Saved the model at epoch 40.
+2022-09-21 19:31:18,796 - main - INFO - Epoch 41/100
+2022-09-21 19:31:18,796 - main - INFO - ----------------------------
+2022-09-21 19:31:18,797 - main - INFO - training...
+2022-09-21 19:32:38,664 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 614.1424, running SE = 5775.7617
+2022-09-21 19:33:05,482 - main - INFO - Epoch 41 - train: epoch loss = 0.0000, MAE = 6.6704, MSE = 8.2262
+2022-09-21 19:33:05,482 - main - INFO - validating...
+2022-09-21 19:33:55,189 - main - INFO - Epoch 41 - val: epoch loss = 0.0000, MAE = 82.1492, MSE = 96.9516
+2022-09-21 19:33:55,189 - main - INFO - Epoch 42/100
+2022-09-21 19:33:55,189 - main - INFO - ----------------------------
+2022-09-21 19:33:55,190 - main - INFO - training...
+2022-09-21 19:35:13,960 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 603.7681, running SE = 5941.9991
+2022-09-21 19:35:40,928 - main - INFO - Epoch 42 - train: epoch loss = 0.0000, MAE = 6.3410, MSE = 7.9447
+2022-09-21 19:35:40,928 - main - INFO - validating...
+2022-09-21 19:36:30,349 - main - INFO - Epoch 42 - val: epoch loss = 0.0000, MAE = 82.1375, MSE = 96.9427
+2022-09-21 19:36:30,349 - main - INFO - Epoch 43/100
+2022-09-21 19:36:30,350 - main - INFO - ----------------------------
+2022-09-21 19:36:30,350 - main - INFO - training...
+2022-09-21 19:37:49,420 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 581.9872, running SE = 5373.8115
+2022-09-21 19:38:16,378 - main - INFO - Epoch 43 - train: epoch loss = 0.0000, MAE = 5.8337, MSE = 7.3716
+2022-09-21 19:38:16,378 - main - INFO - validating...
+2022-09-21 19:39:05,995 - main - INFO - Epoch 43 - val: epoch loss = 0.0000, MAE = 82.0700, MSE = 96.8911
+2022-09-21 19:39:05,996 - main - INFO - Epoch 44/100
+2022-09-21 19:39:05,996 - main - INFO - ----------------------------
+2022-09-21 19:39:05,996 - main - INFO - training...
+2022-09-21 19:40:25,361 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 630.2713, running SE = 6383.6980
+2022-09-21 19:40:52,992 - main - INFO - Epoch 44 - train: epoch loss = 0.0000, MAE = 6.3361, MSE = 8.0128
+2022-09-21 19:40:52,993 - main - INFO - validating...
+2022-09-21 19:41:42,331 - main - INFO - Epoch 44 - val: epoch loss = 0.0000, MAE = 82.0738, MSE = 96.8940
+2022-09-21 19:41:42,331 - main - INFO - Epoch 45/100
+2022-09-21 19:41:42,331 - main - INFO - ----------------------------
+2022-09-21 19:41:42,332 - main - INFO - training...
+2022-09-21 19:43:01,589 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 639.4075, running SE = 7074.1332
+2022-09-21 19:43:28,700 - main - INFO - Epoch 45 - train: epoch loss = 0.0000, MAE = 6.0102, MSE = 7.9575
+2022-09-21 19:43:28,701 - main - INFO - validating...
+2022-09-21 19:44:18,020 - main - INFO - Epoch 45 - val: epoch loss = 0.0000, MAE = 82.0598, MSE = 96.8832
+2022-09-21 19:44:18,021 - main - INFO - Epoch 46/100
+2022-09-21 19:44:18,021 - main - INFO - ----------------------------
+2022-09-21 19:44:18,022 - main - INFO - training...
+2022-09-21 19:45:37,790 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 726.1136, running SE = 8085.9493
+2022-09-21 19:46:04,800 - main - INFO - Epoch 46 - train: epoch loss = 0.0000, MAE = 7.3850, MSE = 9.0449
+2022-09-21 19:46:04,801 - main - INFO - validating...
+2022-09-21 19:46:54,298 - main - INFO - Epoch 46 - val: epoch loss = 0.0000, MAE = 82.1230, MSE = 96.9316
+2022-09-21 19:46:54,299 - main - INFO - Epoch 47/100
+2022-09-21 19:46:54,299 - main - INFO - ----------------------------
+2022-09-21 19:46:54,300 - main - INFO - training...
+2022-09-21 19:48:13,509 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 635.5448, running SE = 6012.3510
+2022-09-21 19:48:40,378 - main - INFO - Epoch 47 - train: epoch loss = 0.0000, MAE = 6.6582, MSE = 8.0369
+2022-09-21 19:48:40,379 - main - INFO - validating...
+2022-09-21 19:49:29,899 - main - INFO - Epoch 47 - val: epoch loss = 0.0000, MAE = 82.1055, MSE = 96.9182
+2022-09-21 19:49:29,900 - main - INFO - Epoch 48/100
+2022-09-21 19:49:29,900 - main - INFO - ----------------------------
+2022-09-21 19:49:29,901 - main - INFO - training...
+2022-09-21 19:50:49,682 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 738.0034, running SE = 8263.8999
+2022-09-21 19:51:16,707 - main - INFO - Epoch 48 - train: epoch loss = 0.0000, MAE = 7.3287, MSE = 9.1118
+2022-09-21 19:51:16,708 - main - INFO - validating...
+2022-09-21 19:52:06,330 - main - INFO - Epoch 48 - val: epoch loss = 0.0000, MAE = 82.0759, MSE = 96.8956
+2022-09-21 19:52:06,331 - main - INFO - Epoch 49/100
+2022-09-21 19:52:06,331 - main - INFO - ----------------------------
+2022-09-21 19:52:06,332 - main - INFO - training...
+2022-09-21 19:53:24,979 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 729.5429, running SE = 7582.7592
+2022-09-21 19:53:51,924 - main - INFO - Epoch 49 - train: epoch loss = 0.0000, MAE = 7.0244, MSE = 8.4218
+2022-09-21 19:53:51,924 - main - INFO - validating...
+2022-09-21 19:54:41,462 - main - INFO - Epoch 49 - val: epoch loss = 0.0000, MAE = 82.0373, MSE = 96.8661
+2022-09-21 19:54:41,462 - main - INFO - Epoch 50/100
+2022-09-21 19:54:41,462 - main - INFO - ----------------------------
+2022-09-21 19:54:41,463 - main - INFO - training...
+2022-09-21 19:56:00,337 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 629.8451, running SE = 6016.5393
+2022-09-21 19:56:27,294 - main - INFO - Epoch 50 - train: epoch loss = 0.0000, MAE = 6.3878, MSE = 7.7985
+2022-09-21 19:56:27,294 - main - INFO - validating...
+2022-09-21 19:57:16,673 - main - INFO - Epoch 50 - val: epoch loss = 0.0000, MAE = 82.1271, MSE = 96.9347
+2022-09-21 19:57:16,681 - main - INFO - Saved the model at epoch 50.
+2022-09-21 19:57:16,682 - main - INFO - Epoch 51/100
+2022-09-21 19:57:16,682 - main - INFO - ----------------------------
+2022-09-21 19:57:16,682 - main - INFO - training...
+2022-09-21 19:58:35,924 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 644.1980, running SE = 6197.5803
+2022-09-21 19:59:02,819 - main - INFO - Epoch 51 - train: epoch loss = 0.0000, MAE = 6.3561, MSE = 7.8901
+2022-09-21 19:59:02,819 - main - INFO - validating...
+2022-09-21 19:59:52,519 - main - INFO - Epoch 51 - val: epoch loss = 0.0000, MAE = 82.1129, MSE = 96.9239
+2022-09-21 19:59:52,519 - main - INFO - Epoch 52/100
+2022-09-21 19:59:52,520 - main - INFO - ----------------------------
+2022-09-21 19:59:52,520 - main - INFO - training...
+2022-09-21 20:01:12,024 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 780.1513, running SE = 8595.1038
+2022-09-21 20:01:39,035 - main - INFO - Epoch 52 - train: epoch loss = 0.0000, MAE = 7.8170, MSE = 9.3430
+2022-09-21 20:01:39,036 - main - INFO - validating...
+2022-09-21 20:02:28,689 - main - INFO - Epoch 52 - val: epoch loss = 0.0000, MAE = 82.0596, MSE = 96.8831
+2022-09-21 20:02:28,689 - main - INFO - Epoch 53/100
+2022-09-21 20:02:28,689 - main - INFO - ----------------------------
+2022-09-21 20:02:28,690 - main - INFO - training...
+2022-09-21 20:03:47,539 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 552.7888, running SE = 5324.4203
+2022-09-21 20:04:14,275 - main - INFO - Epoch 53 - train: epoch loss = 0.0000, MAE = 5.3065, MSE = 6.9817
+2022-09-21 20:04:14,276 - main - INFO - validating...
+2022-09-21 20:05:03,813 - main - INFO - Epoch 53 - val: epoch loss = 0.0000, MAE = 82.1368, MSE = 96.9421
+2022-09-21 20:05:03,813 - main - INFO - Epoch 54/100
+2022-09-21 20:05:03,814 - main - INFO - ----------------------------
+2022-09-21 20:05:03,814 - main - INFO - training...
+2022-09-21 20:06:22,635 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 734.5511, running SE = 8741.5308
+2022-09-21 20:06:49,593 - main - INFO - Epoch 54 - train: epoch loss = 0.0000, MAE = 7.2610, MSE = 9.1568
+2022-09-21 20:06:49,594 - main - INFO - validating...
+2022-09-21 20:07:39,004 - main - INFO - Epoch 54 - val: epoch loss = 0.0000, MAE = 82.1022, MSE = 96.9157
+2022-09-21 20:07:39,004 - main - INFO - Epoch 55/100
+2022-09-21 20:07:39,005 - main - INFO - ----------------------------
+2022-09-21 20:07:39,005 - main - INFO - training...
+2022-09-21 20:08:57,514 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 736.2522, running SE = 8734.9201
+2022-09-21 20:09:24,408 - main - INFO - Epoch 55 - train: epoch loss = 0.0000, MAE = 7.2781, MSE = 9.0787
+2022-09-21 20:09:24,408 - main - INFO - validating...
+2022-09-21 20:10:14,574 - main - INFO - Epoch 55 - val: epoch loss = 0.0000, MAE = 82.0985, MSE = 96.9128
+2022-09-21 20:10:14,574 - main - INFO - Epoch 56/100
+2022-09-21 20:10:14,574 - main - INFO - ----------------------------
+2022-09-21 20:10:14,575 - main - INFO - training...
+2022-09-21 20:11:34,186 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 658.2218, running SE = 6178.1788
+2022-09-21 20:12:01,074 - main - INFO - Epoch 56 - train: epoch loss = 0.0000, MAE = 6.5914, MSE = 7.9002
+2022-09-21 20:12:01,074 - main - INFO - validating...
+2022-09-21 20:12:50,482 - main - INFO - Epoch 56 - val: epoch loss = 0.0000, MAE = 82.0738, MSE = 96.8939
+2022-09-21 20:12:50,483 - main - INFO - Epoch 57/100
+2022-09-21 20:12:50,483 - main - INFO - ----------------------------
+2022-09-21 20:12:50,484 - main - INFO - training...
+2022-09-21 20:14:09,169 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 686.8437, running SE = 7604.7823
+2022-09-21 20:14:35,916 - main - INFO - Epoch 57 - train: epoch loss = 0.0000, MAE = 6.8741, MSE = 8.6873
+2022-09-21 20:14:35,916 - main - INFO - validating...
+2022-09-21 20:15:25,536 - main - INFO - Epoch 57 - val: epoch loss = 0.0000, MAE = 82.1291, MSE = 96.9362
+2022-09-21 20:15:25,536 - main - INFO - Epoch 58/100
+2022-09-21 20:15:25,536 - main - INFO - ----------------------------
+2022-09-21 20:15:25,537 - main - INFO - training...
+2022-09-21 20:16:44,365 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 692.1696, running SE = 7966.1733
+2022-09-21 20:17:11,365 - main - INFO - Epoch 58 - train: epoch loss = 0.0000, MAE = 6.5742, MSE = 8.3641
+2022-09-21 20:17:11,366 - main - INFO - validating...
+2022-09-21 20:18:00,607 - main - INFO - Epoch 58 - val: epoch loss = 0.0000, MAE = 82.1343, MSE = 96.9402
+2022-09-21 20:18:00,608 - main - INFO - Epoch 59/100
+2022-09-21 20:18:00,608 - main - INFO - ----------------------------
+2022-09-21 20:18:00,609 - main - INFO - training...
+2022-09-21 20:19:19,440 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 780.7685, running SE = 9486.5915
+2022-09-21 20:19:46,532 - main - INFO - Epoch 59 - train: epoch loss = 0.0000, MAE = 7.5101, MSE = 9.3997
+2022-09-21 20:19:46,532 - main - INFO - validating...
+2022-09-21 20:20:36,828 - main - INFO - Epoch 59 - val: epoch loss = 0.0000, MAE = 82.1100, MSE = 96.9216
+2022-09-21 20:20:36,828 - main - INFO - Epoch 60/100
+2022-09-21 20:20:36,829 - main - INFO - ----------------------------
+2022-09-21 20:20:36,829 - main - INFO - training...
+2022-09-21 20:21:55,914 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 621.9484, running SE = 6330.4750
+2022-09-21 20:22:22,586 - main - INFO - Epoch 60 - train: epoch loss = 0.0000, MAE = 6.5911, MSE = 8.3958
+2022-09-21 20:22:22,586 - main - INFO - validating...
+2022-09-21 20:23:11,858 - main - INFO - Epoch 60 - val: epoch loss = 0.0000, MAE = 81.9879, MSE = 96.8284
+2022-09-21 20:23:11,865 - main - INFO - Saved the model at epoch 60.
+2022-09-21 20:23:11,867 - main - INFO - Epoch 61/100
+2022-09-21 20:23:11,867 - main - INFO - ----------------------------
+2022-09-21 20:23:11,867 - main - INFO - training...
+2022-09-21 20:24:31,142 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 648.7090, running SE = 6618.0552
+2022-09-21 20:24:58,106 - main - INFO - Epoch 61 - train: epoch loss = 0.0000, MAE = 6.4227, MSE = 8.1221
+2022-09-21 20:24:58,106 - main - INFO - validating...
+2022-09-21 20:25:47,784 - main - INFO - Epoch 61 - val: epoch loss = 0.0000, MAE = 82.0304, MSE = 96.8608
+2022-09-21 20:25:47,785 - main - INFO - Epoch 62/100
+2022-09-21 20:25:47,785 - main - INFO - ----------------------------
+2022-09-21 20:25:47,785 - main - INFO - training...
+2022-09-21 20:27:06,879 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 715.6037, running SE = 8063.8295
+2022-09-21 20:27:33,558 - main - INFO - Epoch 62 - train: epoch loss = 0.0000, MAE = 7.2794, MSE = 9.1261
+2022-09-21 20:27:33,558 - main - INFO - validating...
+2022-09-21 20:28:22,967 - main - INFO - Epoch 62 - val: epoch loss = 0.0000, MAE = 82.0951, MSE = 96.9102
+2022-09-21 20:28:22,968 - main - INFO - Epoch 63/100
+2022-09-21 20:28:22,968 - main - INFO - ----------------------------
+2022-09-21 20:28:22,968 - main - INFO - training...
+2022-09-21 20:29:42,046 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 590.1325, running SE = 5763.9816
+2022-09-21 20:30:08,963 - main - INFO - Epoch 63 - train: epoch loss = 0.0000, MAE = 6.2356, MSE = 7.8268
+2022-09-21 20:30:08,963 - main - INFO - validating...
+2022-09-21 20:30:59,189 - main - INFO - Epoch 63 - val: epoch loss = 0.0000, MAE = 82.0854, MSE = 96.9028
+2022-09-21 20:30:59,190 - main - INFO - Epoch 64/100
+2022-09-21 20:30:59,190 - main - INFO - ----------------------------
+2022-09-21 20:30:59,190 - main - INFO - training...
+2022-09-21 20:32:18,286 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 728.0917, running SE = 8210.5809
+2022-09-21 20:32:45,201 - main - INFO - Epoch 64 - train: epoch loss = 0.0000, MAE = 7.3019, MSE = 8.9953
+2022-09-21 20:32:45,202 - main - INFO - validating...
+2022-09-21 20:33:34,673 - main - INFO - Epoch 64 - val: epoch loss = 0.0000, MAE = 82.1235, MSE = 96.9319
+2022-09-21 20:33:34,673 - main - INFO - Epoch 65/100
+2022-09-21 20:33:34,674 - main - INFO - ----------------------------
+2022-09-21 20:33:34,674 - main - INFO - training...
+2022-09-21 20:34:53,989 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 646.9885, running SE = 6704.5561
+2022-09-21 20:35:20,890 - main - INFO - Epoch 65 - train: epoch loss = 0.0000, MAE = 6.4397, MSE = 8.0433
+2022-09-21 20:35:20,891 - main - INFO - validating...
+2022-09-21 20:36:10,439 - main - INFO - Epoch 65 - val: epoch loss = 0.0000, MAE = 82.0550, MSE = 96.8796
+2022-09-21 20:36:10,439 - main - INFO - Epoch 66/100
+2022-09-21 20:36:10,440 - main - INFO - ----------------------------
+2022-09-21 20:36:10,440 - main - INFO - training...
+2022-09-21 20:37:29,627 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 688.4893, running SE = 7231.2997
+2022-09-21 20:37:56,893 - main - INFO - Epoch 66 - train: epoch loss = 0.0000, MAE = 6.7738, MSE = 8.4594
+2022-09-21 20:37:56,894 - main - INFO - validating...
+2022-09-21 20:38:46,373 - main - INFO - Epoch 66 - val: epoch loss = 0.0000, MAE = 82.1332, MSE = 96.9394
+2022-09-21 20:38:46,373 - main - INFO - Epoch 67/100
+2022-09-21 20:38:46,373 - main - INFO - ----------------------------
+2022-09-21 20:38:46,374 - main - INFO - training...
+2022-09-21 20:40:05,174 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 683.3613, running SE = 6322.2368
+2022-09-21 20:40:32,281 - main - INFO - Epoch 67 - train: epoch loss = 0.0000, MAE = 6.6542, MSE = 7.7720
+2022-09-21 20:40:32,281 - main - INFO - validating...
+2022-09-21 20:41:22,173 - main - INFO - Epoch 67 - val: epoch loss = 0.0000, MAE = 82.0548, MSE = 96.8794
+2022-09-21 20:41:22,173 - main - INFO - Epoch 68/100
+2022-09-21 20:41:22,174 - main - INFO - ----------------------------
+2022-09-21 20:41:22,174 - main - INFO - training...
+2022-09-21 20:42:41,735 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 774.4554, running SE = 10477.6806
+2022-09-21 20:43:09,246 - main - INFO - Epoch 68 - train: epoch loss = 0.0000, MAE = 7.2518, MSE = 9.5339
+2022-09-21 20:43:09,246 - main - INFO - validating...
+2022-09-21 20:43:58,815 - main - INFO - Epoch 68 - val: epoch loss = 0.0000, MAE = 82.0717, MSE = 96.8923
+2022-09-21 20:43:58,815 - main - INFO - Epoch 69/100
+2022-09-21 20:43:58,815 - main - INFO - ----------------------------
+2022-09-21 20:43:58,816 - main - INFO - training...
+2022-09-21 20:45:20,646 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 768.4459, running SE = 9273.8184
+2022-09-21 20:45:48,397 - main - INFO - Epoch 69 - train: epoch loss = 0.0000, MAE = 7.2698, MSE = 9.0883
+2022-09-21 20:45:48,397 - main - INFO - validating...
+2022-09-21 20:46:37,869 - main - INFO - Epoch 69 - val: epoch loss = 0.0000, MAE = 82.0897, MSE = 96.9061
+2022-09-21 20:46:37,870 - main - INFO - Epoch 70/100
+2022-09-21 20:46:37,870 - main - INFO - ----------------------------
+2022-09-21 20:46:37,870 - main - INFO - training...
+2022-09-21 20:47:58,206 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 719.7897, running SE = 8851.2683
+2022-09-21 20:48:25,545 - main - INFO - Epoch 70 - train: epoch loss = 0.0000, MAE = 6.9019, MSE = 8.9675
+2022-09-21 20:48:25,545 - main - INFO - validating...
+2022-09-21 20:49:15,288 - main - INFO - Epoch 70 - val: epoch loss = 0.0000, MAE = 82.1471, MSE = 96.9499
+2022-09-21 20:49:15,296 - main - INFO - Saved the model at epoch 70.
+2022-09-21 20:49:15,296 - main - INFO - Epoch 71/100
+2022-09-21 20:49:15,297 - main - INFO - ----------------------------
+2022-09-21 20:49:15,297 - main - INFO - training...
+2022-09-21 20:50:35,967 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 643.0338, running SE = 7029.6385
+2022-09-21 20:51:03,024 - main - INFO - Epoch 71 - train: epoch loss = 0.0000, MAE = 6.8715, MSE = 8.8792
+2022-09-21 20:51:03,024 - main - INFO - validating...
+2022-09-21 20:51:53,134 - main - INFO - Epoch 71 - val: epoch loss = 0.0000, MAE = 82.2460, MSE = 97.0258
+2022-09-21 20:51:53,134 - main - INFO - Epoch 72/100
+2022-09-21 20:51:53,135 - main - INFO - ----------------------------
+2022-09-21 20:51:53,135 - main - INFO - training...
+2022-09-21 20:53:11,986 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 721.5647, running SE = 8088.4224
+2022-09-21 20:53:39,066 - main - INFO - Epoch 72 - train: epoch loss = 0.0000, MAE = 6.9015, MSE = 8.6656
+2022-09-21 20:53:39,067 - main - INFO - validating...
+2022-09-21 20:54:28,465 - main - INFO - Epoch 72 - val: epoch loss = 0.0000, MAE = 82.0771, MSE = 96.8964
+2022-09-21 20:54:28,465 - main - INFO - Epoch 73/100
+2022-09-21 20:54:28,466 - main - INFO - ----------------------------
+2022-09-21 20:54:28,466 - main - INFO - training...
+2022-09-21 20:55:47,587 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 680.3959, running SE = 7036.1755
+2022-09-21 20:56:14,683 - main - INFO - Epoch 73 - train: epoch loss = 0.0000, MAE = 6.7431, MSE = 8.4125
+2022-09-21 20:56:14,683 - main - INFO - validating...
+2022-09-21 20:57:04,029 - main - INFO - Epoch 73 - val: epoch loss = 0.0000, MAE = 82.1230, MSE = 96.9315
+2022-09-21 20:57:04,030 - main - INFO - Epoch 74/100
+2022-09-21 20:57:04,030 - main - INFO - ----------------------------
+2022-09-21 20:57:04,031 - main - INFO - training...
+2022-09-21 20:58:23,215 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 610.8131, running SE = 6521.5762
+2022-09-21 20:58:49,914 - main - INFO - Epoch 74 - train: epoch loss = 0.0000, MAE = 6.0107, MSE = 7.8101
+2022-09-21 20:58:49,914 - main - INFO - validating...
+2022-09-21 20:59:39,629 - main - INFO - Epoch 74 - val: epoch loss = 0.0000, MAE = 82.1416, MSE = 96.9457
+2022-09-21 20:59:39,630 - main - INFO - Epoch 75/100
+2022-09-21 20:59:39,630 - main - INFO - ----------------------------
+2022-09-21 20:59:39,631 - main - INFO - training...
+2022-09-21 21:00:59,945 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 703.7138, running SE = 7216.2728
+2022-09-21 21:01:26,853 - main - INFO - Epoch 75 - train: epoch loss = 0.0000, MAE = 6.5928, MSE = 8.0627
+2022-09-21 21:01:26,854 - main - INFO - validating...
+2022-09-21 21:02:16,579 - main - INFO - Epoch 75 - val: epoch loss = 0.0000, MAE = 82.0955, MSE = 96.9105
+2022-09-21 21:02:16,579 - main - INFO - Epoch 76/100
+2022-09-21 21:02:16,579 - main - INFO - ----------------------------
+2022-09-21 21:02:16,580 - main - INFO - training...
+2022-09-21 21:03:35,356 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 717.8426, running SE = 8634.7822
+2022-09-21 21:04:02,626 - main - INFO - Epoch 76 - train: epoch loss = 0.0000, MAE = 7.1601, MSE = 9.3482
+2022-09-21 21:04:02,626 - main - INFO - validating...
+2022-09-21 21:04:52,233 - main - INFO - Epoch 76 - val: epoch loss = 0.0000, MAE = 82.0517, MSE = 96.8770
+2022-09-21 21:04:52,233 - main - INFO - Epoch 77/100
+2022-09-21 21:04:52,234 - main - INFO - ----------------------------
+2022-09-21 21:04:52,234 - main - INFO - training...
+2022-09-21 21:06:11,607 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 655.7728, running SE = 6977.4476
+2022-09-21 21:06:38,964 - main - INFO - Epoch 77 - train: epoch loss = 0.0000, MAE = 6.3800, MSE = 8.0463
+2022-09-21 21:06:38,964 - main - INFO - validating...
+2022-09-21 21:07:28,535 - main - INFO - Epoch 77 - val: epoch loss = 0.0000, MAE = 82.1276, MSE = 96.9351
+2022-09-21 21:07:28,536 - main - INFO - Epoch 78/100
+2022-09-21 21:07:28,536 - main - INFO - ----------------------------
+2022-09-21 21:07:28,536 - main - INFO - training...
+2022-09-21 21:08:47,622 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 705.6099, running SE = 7230.4036
+2022-09-21 21:09:14,687 - main - INFO - Epoch 78 - train: epoch loss = 0.0000, MAE = 6.9519, MSE = 8.4916
+2022-09-21 21:09:14,687 - main - INFO - validating...
+2022-09-21 21:10:05,389 - main - INFO - Epoch 78 - val: epoch loss = 0.0000, MAE = 82.0894, MSE = 96.9059
+2022-09-21 21:10:05,389 - main - INFO - Epoch 79/100
+2022-09-21 21:10:05,390 - main - INFO - ----------------------------
+2022-09-21 21:10:05,390 - main - INFO - training...
+2022-09-21 21:11:25,400 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 680.7662, running SE = 7870.4021
+2022-09-21 21:11:52,307 - main - INFO - Epoch 79 - train: epoch loss = 0.0000, MAE = 6.4709, MSE = 8.4171
+2022-09-21 21:11:52,308 - main - INFO - validating...
+2022-09-21 21:12:41,846 - main - INFO - Epoch 79 - val: epoch loss = 0.0000, MAE = 82.0534, MSE = 96.8783
+2022-09-21 21:12:41,847 - main - INFO - Epoch 80/100
+2022-09-21 21:12:41,847 - main - INFO - ----------------------------
+2022-09-21 21:12:41,847 - main - INFO - training...
+2022-09-21 21:14:00,925 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 748.2984, running SE = 8338.4912
+2022-09-21 21:14:27,969 - main - INFO - Epoch 80 - train: epoch loss = 0.0000, MAE = 7.1334, MSE = 8.7807
+2022-09-21 21:14:27,969 - main - INFO - validating...
+2022-09-21 21:15:17,970 - main - INFO - Epoch 80 - val: epoch loss = 0.0000, MAE = 82.1014, MSE = 96.9150
+2022-09-21 21:15:17,976 - main - INFO - Saved the model at epoch 80.
+2022-09-21 21:15:17,977 - main - INFO - Epoch 81/100
+2022-09-21 21:15:17,977 - main - INFO - ----------------------------
+2022-09-21 21:15:17,978 - main - INFO - training...
+2022-09-21 21:16:37,710 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 620.4652, running SE = 5837.5527
+2022-09-21 21:17:04,775 - main - INFO - Epoch 81 - train: epoch loss = 0.0000, MAE = 6.3350, MSE = 7.6951
+2022-09-21 21:17:04,776 - main - INFO - validating...
+2022-09-21 21:17:54,330 - main - INFO - Epoch 81 - val: epoch loss = 0.0000, MAE = 82.1275, MSE = 96.9349
+2022-09-21 21:17:54,330 - main - INFO - Epoch 82/100
+2022-09-21 21:17:54,330 - main - INFO - ----------------------------
+2022-09-21 21:17:54,331 - main - INFO - training...
+2022-09-21 21:19:13,637 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 633.2345, running SE = 5908.1878
+2022-09-21 21:19:40,596 - main - INFO - Epoch 82 - train: epoch loss = 0.0000, MAE = 6.3073, MSE = 7.6049
+2022-09-21 21:19:40,597 - main - INFO - validating...
+2022-09-21 21:20:30,984 - main - INFO - Epoch 82 - val: epoch loss = 0.0000, MAE = 82.0653, MSE = 96.8874
+2022-09-21 21:20:30,985 - main - INFO - Epoch 83/100
+2022-09-21 21:20:30,985 - main - INFO - ----------------------------
+2022-09-21 21:20:30,985 - main - INFO - training...
+2022-09-21 21:21:51,037 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 720.5743, running SE = 8133.2532
+2022-09-21 21:22:18,082 - main - INFO - Epoch 83 - train: epoch loss = 0.0000, MAE = 6.8731, MSE = 8.6197
+2022-09-21 21:22:18,082 - main - INFO - validating...
+2022-09-21 21:23:07,705 - main - INFO - Epoch 83 - val: epoch loss = 0.0000, MAE = 82.0198, MSE = 96.8526
+2022-09-21 21:23:07,705 - main - INFO - Epoch 84/100
+2022-09-21 21:23:07,706 - main - INFO - ----------------------------
+2022-09-21 21:23:07,706 - main - INFO - training...
+2022-09-21 21:24:27,133 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 704.5790, running SE = 8021.7255
+2022-09-21 21:24:54,021 - main - INFO - Epoch 84 - train: epoch loss = 0.0000, MAE = 7.1149, MSE = 8.8952
+2022-09-21 21:24:54,021 - main - INFO - validating...
+2022-09-21 21:25:43,663 - main - INFO - Epoch 84 - val: epoch loss = 0.0000, MAE = 82.1571, MSE = 96.9576
+2022-09-21 21:25:43,664 - main - INFO - Epoch 85/100
+2022-09-21 21:25:43,664 - main - INFO - ----------------------------
+2022-09-21 21:25:43,664 - main - INFO - training...
+2022-09-21 21:27:02,771 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 627.6431, running SE = 6315.5025
+2022-09-21 21:27:30,138 - main - INFO - Epoch 85 - train: epoch loss = 0.0000, MAE = 6.2303, MSE = 7.8882
+2022-09-21 21:27:30,138 - main - INFO - validating...
+2022-09-21 21:28:19,567 - main - INFO - Epoch 85 - val: epoch loss = 0.0000, MAE = 82.1389, MSE = 96.9436
+2022-09-21 21:28:19,567 - main - INFO - Epoch 86/100
+2022-09-21 21:28:19,567 - main - INFO - ----------------------------
+2022-09-21 21:28:19,568 - main - INFO - training...
+2022-09-21 21:29:38,689 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 760.0078, running SE = 8858.1162
+2022-09-21 21:30:05,862 - main - INFO - Epoch 86 - train: epoch loss = 0.0000, MAE = 7.7452, MSE = 9.5303
+2022-09-21 21:30:05,862 - main - INFO - validating...
+2022-09-21 21:30:56,354 - main - INFO - Epoch 86 - val: epoch loss = 0.0000, MAE = 82.0501, MSE = 96.8758
+2022-09-21 21:30:56,355 - main - INFO - Epoch 87/100
+2022-09-21 21:30:56,355 - main - INFO - ----------------------------
+2022-09-21 21:30:56,356 - main - INFO - training...
+2022-09-21 21:32:15,524 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 706.6355, running SE = 8009.5918
+2022-09-21 21:32:42,819 - main - INFO - Epoch 87 - train: epoch loss = 0.0000, MAE = 6.9674, MSE = 8.8430
+2022-09-21 21:32:42,820 - main - INFO - validating...
+2022-09-21 21:33:32,435 - main - INFO - Epoch 87 - val: epoch loss = 0.0000, MAE = 82.1461, MSE = 96.9492
+2022-09-21 21:33:32,436 - main - INFO - Epoch 88/100
+2022-09-21 21:33:32,436 - main - INFO - ----------------------------
+2022-09-21 21:33:32,437 - main - INFO - training...
+2022-09-21 21:34:52,376 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 587.7207, running SE = 5208.9422
+2022-09-21 21:35:19,015 - main - INFO - Epoch 88 - train: epoch loss = 0.0000, MAE = 5.8481, MSE = 7.1903
+2022-09-21 21:35:19,016 - main - INFO - validating...
+2022-09-21 21:36:08,860 - main - INFO - Epoch 88 - val: epoch loss = 0.0000, MAE = 82.1245, MSE = 96.9327
+2022-09-21 21:36:08,860 - main - INFO - Epoch 89/100
+2022-09-21 21:36:08,861 - main - INFO - ----------------------------
+2022-09-21 21:36:08,861 - main - INFO - training...
+2022-09-21 21:37:28,120 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 671.6978, running SE = 6889.1808
+2022-09-21 21:37:55,382 - main - INFO - Epoch 89 - train: epoch loss = 0.0000, MAE = 6.5588, MSE = 7.9828
+2022-09-21 21:37:55,382 - main - INFO - validating...
+2022-09-21 21:38:45,064 - main - INFO - Epoch 89 - val: epoch loss = 0.0000, MAE = 82.1856, MSE = 96.9795
+2022-09-21 21:38:45,064 - main - INFO - Epoch 90/100
+2022-09-21 21:38:45,064 - main - INFO - ----------------------------
+2022-09-21 21:38:45,065 - main - INFO - training...
+2022-09-21 21:40:04,206 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 711.9154, running SE = 8133.4612
+2022-09-21 21:40:31,342 - main - INFO - Epoch 90 - train: epoch loss = 0.0000, MAE = 6.7413, MSE = 8.5514
+2022-09-21 21:40:31,342 - main - INFO - validating...
+2022-09-21 21:41:21,496 - main - INFO - Epoch 90 - val: epoch loss = 0.0000, MAE = 82.0474, MSE = 96.8737
+2022-09-21 21:41:21,502 - main - INFO - Saved the model at epoch 90.
+2022-09-21 21:41:21,503 - main - INFO - Epoch 91/100
+2022-09-21 21:41:21,503 - main - INFO - ----------------------------
+2022-09-21 21:41:21,504 - main - INFO - training...
+2022-09-21 21:42:41,381 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 697.7503, running SE = 7245.2043
+2022-09-21 21:43:08,522 - main - INFO - Epoch 91 - train: epoch loss = 0.0000, MAE = 7.1141, MSE = 8.8657
+2022-09-21 21:43:08,523 - main - INFO - validating...
+2022-09-21 21:43:58,261 - main - INFO - Epoch 91 - val: epoch loss = 0.0000, MAE = 81.9770, MSE = 96.8200
+2022-09-21 21:43:58,262 - main - INFO - Epoch 92/100
+2022-09-21 21:43:58,262 - main - INFO - ----------------------------
+2022-09-21 21:43:58,262 - main - INFO - training...
+2022-09-21 21:45:19,438 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 639.0798, running SE = 6564.0825
+2022-09-21 21:45:46,931 - main - INFO - Epoch 92 - train: epoch loss = 0.0000, MAE = 6.4896, MSE = 8.2152
+2022-09-21 21:45:46,931 - main - INFO - validating...
+2022-09-21 21:46:36,920 - main - INFO - Epoch 92 - val: epoch loss = 0.0000, MAE = 82.1335, MSE = 96.9395
+2022-09-21 21:46:36,920 - main - INFO - Epoch 93/100
+2022-09-21 21:46:36,921 - main - INFO - ----------------------------
+2022-09-21 21:46:36,921 - main - INFO - training...
+2022-09-21 21:47:57,952 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 807.4869, running SE = 10336.7612
+2022-09-21 21:48:25,851 - main - INFO - Epoch 93 - train: epoch loss = 0.0000, MAE = 7.6958, MSE = 9.7490
+2022-09-21 21:48:25,852 - main - INFO - validating...
+2022-09-21 21:49:15,905 - main - INFO - Epoch 93 - val: epoch loss = 0.0000, MAE = 82.0950, MSE = 96.9101
+2022-09-21 21:49:15,905 - main - INFO - Epoch 94/100
+2022-09-21 21:49:15,905 - main - INFO - ----------------------------
+2022-09-21 21:49:15,906 - main - INFO - training...
+2022-09-21 21:50:37,033 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 622.9042, running SE = 6087.3968
+2022-09-21 21:51:04,701 - main - INFO - Epoch 94 - train: epoch loss = 0.0000, MAE = 6.4469, MSE = 8.1205
+2022-09-21 21:51:04,702 - main - INFO - validating...
+2022-09-21 21:51:54,888 - main - INFO - Epoch 94 - val: epoch loss = 0.0000, MAE = 82.0867, MSE = 96.9038
+2022-09-21 21:51:54,889 - main - INFO - Epoch 95/100
+2022-09-21 21:51:54,889 - main - INFO - ----------------------------
+2022-09-21 21:51:54,889 - main - INFO - training...
+2022-09-21 21:53:14,364 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 650.7736, running SE = 6105.1157
+2022-09-21 21:53:41,601 - main - INFO - Epoch 95 - train: epoch loss = 0.0000, MAE = 6.8681, MSE = 8.3284
+2022-09-21 21:53:41,601 - main - INFO - validating...
+2022-09-21 21:54:31,328 - main - INFO - Epoch 95 - val: epoch loss = 0.0000, MAE = 82.1374, MSE = 96.9425
+2022-09-21 21:54:31,328 - main - INFO - Epoch 96/100
+2022-09-21 21:54:31,329 - main - INFO - ----------------------------
+2022-09-21 21:54:31,329 - main - INFO - training...
+2022-09-21 21:55:50,317 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 814.0769, running SE = 9998.3318
+2022-09-21 21:56:17,458 - main - INFO - Epoch 96 - train: epoch loss = 0.0000, MAE = 7.7926, MSE = 9.6150
+2022-09-21 21:56:17,459 - main - INFO - validating...
+2022-09-21 21:57:07,355 - main - INFO - Epoch 96 - val: epoch loss = 0.0000, MAE = 82.0437, MSE = 96.8709
+2022-09-21 21:57:07,356 - main - INFO - Epoch 97/100
+2022-09-21 21:57:07,356 - main - INFO - ----------------------------
+2022-09-21 21:57:07,357 - main - INFO - training...
+2022-09-21 21:58:26,512 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 670.5253, running SE = 7400.0176
+2022-09-21 21:58:53,680 - main - INFO - Epoch 97 - train: epoch loss = 0.0000, MAE = 6.8644, MSE = 8.7064
+2022-09-21 21:58:53,680 - main - INFO - validating...
+2022-09-21 21:59:43,361 - main - INFO - Epoch 97 - val: epoch loss = 0.0000, MAE = 82.0498, MSE = 96.8755
+2022-09-21 21:59:43,362 - main - INFO - Epoch 98/100
+2022-09-21 21:59:43,362 - main - INFO - ----------------------------
+2022-09-21 21:59:43,363 - main - INFO - training...
+2022-09-21 22:01:03,452 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 740.5899, running SE = 8637.9834
+2022-09-21 22:01:30,784 - main - INFO - Epoch 98 - train: epoch loss = 0.0000, MAE = 7.4440, MSE = 9.2715
+2022-09-21 22:01:30,784 - main - INFO - validating...
+2022-09-21 22:02:20,446 - main - INFO - Epoch 98 - val: epoch loss = 0.0000, MAE = 82.1960, MSE = 96.9874
+2022-09-21 22:02:20,447 - main - INFO - Epoch 99/100
+2022-09-21 22:02:20,447 - main - INFO - ----------------------------
+2022-09-21 22:02:20,448 - main - INFO - training...
+2022-09-21 22:03:40,178 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 650.9173, running SE = 7014.2942
+2022-09-21 22:04:07,235 - main - INFO - Epoch 99 - train: epoch loss = 0.0000, MAE = 7.0174, MSE = 8.8791
+2022-09-21 22:04:07,235 - main - INFO - validating...
+2022-09-21 22:04:56,854 - main - INFO - Epoch 99 - val: epoch loss = 0.0000, MAE = 82.1749, MSE = 96.9712
+2022-09-21 22:04:56,855 - main - INFO - Epoch 100/100
+2022-09-21 22:04:56,855 - main - INFO - ----------------------------
+2022-09-21 22:04:56,855 - main - INFO - training...
+2022-09-21 22:06:16,217 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 685.3909, running SE = 7790.7250
+2022-09-21 22:06:43,499 - main - INFO - Epoch 100 - train: epoch loss = 0.0000, MAE = 7.0137, MSE = 8.9672
+2022-09-21 22:06:43,500 - main - INFO - validating...
+2022-09-21 22:07:33,455 - main - INFO - Epoch 100 - val: epoch loss = 0.0000, MAE = 82.0996, MSE = 96.9136
+2022-09-21 22:07:33,461 - main - INFO - Saved the model at epoch 100.

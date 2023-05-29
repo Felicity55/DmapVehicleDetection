@@ -1,0 +1,1024 @@
+2022-12-04 17:15:28,996 - main - INFO - CSRNet-Epochs-2000_BatchSize-8_LR-1e-05_Momentum-0.95_Gamma-0.5_Version-1
+2022-12-04 17:15:30,631 - main - INFO - Epoch 1/2000
+2022-12-04 17:15:30,637 - main - INFO - ----------------------------
+2022-12-04 17:15:30,638 - main - INFO - training...
+2022-12-04 17:15:54,048 - main - DEBUG - Batch 100: running loss = 13.9046, running AE = 581462.2183, running SE = 3601364414.0000
+2022-12-04 17:16:15,477 - main - DEBUG - Batch 200: running loss = 27.6654, running AE = 1140607.7114, running SE = 6922634335.0000
+2022-12-04 17:16:36,204 - main - DEBUG - Batch 300: running loss = 41.2196, running AE = 1674845.5112, running SE = 9989492761.5000
+2022-12-04 17:16:57,006 - main - DEBUG - Batch 400: running loss = 54.8769, running AE = 2197766.3157, running SE = 12883978574.5000
+2022-12-04 17:17:17,372 - main - DEBUG - Batch 500: running loss = 68.4615, running AE = 2701863.0088, running SE = 15568857253.5000
+2022-12-04 17:17:38,179 - main - DEBUG - Batch 600: running loss = 81.7668, running AE = 3178793.0437, running SE = 17983533065.0000
+2022-12-04 17:17:58,927 - main - DEBUG - Batch 700: running loss = 95.2231, running AE = 3647959.7598, running SE = 20371413053.0000
+2022-12-04 17:18:19,967 - main - DEBUG - Batch 800: running loss = 108.9622, running AE = 4115471.3831, running SE = 22753300112.7500
+2022-12-04 17:18:41,085 - main - DEBUG - Batch 900: running loss = 122.2446, running AE = 4548277.8160, running SE = 24870635621.6250
+2022-12-04 17:19:03,452 - main - DEBUG - Batch 1000: running loss = 135.3814, running AE = 4960913.7617, running SE = 26754367805.1250
+2022-12-04 17:19:24,850 - main - DEBUG - Batch 1100: running loss = 148.1154, running AE = 5342270.5746, running SE = 28391295135.1250
+2022-12-04 17:19:46,670 - main - DEBUG - Batch 1200: running loss = 161.1284, running AE = 5724163.7025, running SE = 30055047548.3750
+2022-12-04 17:20:08,139 - main - DEBUG - Batch 1300: running loss = 174.3882, running AE = 6105694.1078, running SE = 31710417540.7500
+2022-12-04 17:20:29,653 - main - DEBUG - Batch 1400: running loss = 187.8758, running AE = 6486160.0477, running SE = 33319893037.0000
+2022-12-04 17:20:50,410 - main - DEBUG - Batch 1500: running loss = 200.5344, running AE = 6814975.9471, running SE = 34630052764.6118
+2022-12-04 17:21:11,697 - main - DEBUG - Batch 1600: running loss = 213.3857, running AE = 7142754.9464, running SE = 35958570659.9829
+2022-12-04 17:21:32,938 - main - DEBUG - Batch 1700: running loss = 226.2149, running AE = 7458038.1573, running SE = 37144753245.6860
+2022-12-04 17:21:54,777 - main - DEBUG - Batch 1800: running loss = 238.9155, running AE = 7757498.9169, running SE = 38213471441.8735
+2022-12-04 17:22:16,105 - main - DEBUG - Batch 1900: running loss = 250.9848, running AE = 8016589.6090, running SE = 39041676631.5649
+2022-12-04 17:22:37,784 - main - DEBUG - Batch 2000: running loss = 263.8614, running AE = 8305499.9186, running SE = 40015544713.5493
+2022-12-04 17:22:59,411 - main - DEBUG - Batch 2100: running loss = 276.2039, running AE = 8559336.7748, running SE = 40890157426.9067
+2022-12-04 17:23:21,513 - main - DEBUG - Batch 2200: running loss = 288.7694, running AE = 8816678.0131, running SE = 41743084167.5959
+2022-12-04 17:23:24,306 - main - INFO - Epoch 1 - train: epoch loss = 0.1313, MAE = 4000.0534, MSE = 4349.1768
+2022-12-04 17:23:24,306 - main - INFO - validating...
+2022-12-04 17:23:50,705 - main - DEBUG - Batch 100: running loss = 8.1966, running AE = 172902.2922, running SE = 495060997.6504
+2022-12-04 17:24:17,407 - main - DEBUG - Batch 200: running loss = 14.7336, running AE = 297056.2539, running SE = 731304097.4114
+2022-12-04 17:24:44,014 - main - DEBUG - Batch 300: running loss = 24.2898, running AE = 467980.3301, running SE = 1317891225.4615
+2022-12-04 17:25:10,631 - main - DEBUG - Batch 400: running loss = 36.0812, running AE = 802545.8208, running SE = 3205546269.3384
+2022-12-04 17:25:36,945 - main - DEBUG - Batch 500: running loss = 40.0952, running AE = 1024665.2617, running SE = 3797751723.7269
+2022-12-04 17:26:04,035 - main - DEBUG - Batch 600: running loss = 48.2726, running AE = 1217645.2485, running SE = 4373235897.8514
+2022-12-04 17:26:30,595 - main - DEBUG - Batch 700: running loss = 65.4917, running AE = 1705540.4778, running SE = 8289870663.6404
+2022-12-04 17:26:57,001 - main - DEBUG - Batch 800: running loss = 77.0209, running AE = 1929847.0952, running SE = 9234533942.4968
+2022-12-04 17:27:23,647 - main - DEBUG - Batch 900: running loss = 91.1914, running AE = 2329296.5920, running SE = 11594829737.2922
+2022-12-04 17:27:49,845 - main - DEBUG - Batch 1000: running loss = 98.7257, running AE = 2552027.8030, running SE = 12301952554.4152
+2022-12-04 17:28:02,896 - main - INFO - Epoch 1 - val: epoch loss = 0.0981, MAE = 2507.4953, MSE = 3453.4887
+2022-12-04 17:28:02,923 - main - INFO - Saved the best model at epoch 1.
+2022-12-04 17:28:02,923 - main - INFO - Epoch 2/2000
+2022-12-04 17:28:02,923 - main - INFO - ----------------------------
+2022-12-04 17:28:02,924 - main - INFO - training...
+2022-12-04 17:28:20,571 - main - DEBUG - Batch 100: running loss = 12.4536, running AE = 240057.0784, running SE = 747925002.1094
+2022-12-04 17:28:38,861 - main - DEBUG - Batch 200: running loss = 24.8674, running AE = 470160.5625, running SE = 1470922124.8065
+2022-12-04 17:28:57,455 - main - DEBUG - Batch 300: running loss = 37.8671, running AE = 722784.9285, running SE = 2296858714.4910
+2022-12-04 17:29:16,616 - main - DEBUG - Batch 400: running loss = 50.0164, running AE = 927021.3586, running SE = 2866455344.2818
+2022-12-04 17:29:36,919 - main - DEBUG - Batch 500: running loss = 62.6998, running AE = 1153390.8579, running SE = 3577219143.0572
+2022-12-04 17:29:57,075 - main - DEBUG - Batch 600: running loss = 75.1371, running AE = 1356916.7986, running SE = 4161407793.0810
+2022-12-04 17:30:18,230 - main - DEBUG - Batch 700: running loss = 87.1564, running AE = 1540474.3455, running SE = 4626756108.8251
+2022-12-04 17:30:39,579 - main - DEBUG - Batch 800: running loss = 99.6957, running AE = 1734900.4104, running SE = 5150525398.6103
+2022-12-04 17:31:02,577 - main - DEBUG - Batch 900: running loss = 112.2424, running AE = 1932391.8542, running SE = 5739077059.0771
+2022-12-04 17:31:26,353 - main - DEBUG - Batch 1000: running loss = 124.6893, running AE = 2111740.9417, running SE = 6225147936.0890
+2022-12-04 17:31:50,791 - main - DEBUG - Batch 1100: running loss = 136.5092, running AE = 2259792.7605, running SE = 6602989739.6416
+2022-12-04 17:32:15,762 - main - DEBUG - Batch 1200: running loss = 148.4445, running AE = 2409322.4299, running SE = 6958417639.3048
+2022-12-04 17:32:40,759 - main - DEBUG - Batch 1300: running loss = 160.7998, running AE = 2574112.2493, running SE = 7402127153.9305
+2022-12-04 17:33:05,796 - main - DEBUG - Batch 1400: running loss = 172.9851, running AE = 2732300.8323, running SE = 7782722556.6727
+2022-12-04 17:33:30,801 - main - DEBUG - Batch 1500: running loss = 185.1000, running AE = 2884142.4167, running SE = 8136700234.3936
+2022-12-04 17:33:55,843 - main - DEBUG - Batch 1600: running loss = 197.3987, running AE = 3042598.3894, running SE = 8567144179.7971
+2022-12-04 17:34:20,851 - main - DEBUG - Batch 1700: running loss = 209.9555, running AE = 3207024.9905, running SE = 8995174028.7100
+2022-12-04 17:34:46,116 - main - DEBUG - Batch 1800: running loss = 222.4552, running AE = 3364481.7717, running SE = 9364823821.4461
+2022-12-04 17:35:11,125 - main - DEBUG - Batch 1900: running loss = 235.1193, running AE = 3517745.0217, running SE = 9748458107.8738
+2022-12-04 17:35:36,162 - main - DEBUG - Batch 2000: running loss = 247.3884, running AE = 3652266.6902, running SE = 10031007922.4574
+2022-12-04 17:36:01,153 - main - DEBUG - Batch 2100: running loss = 259.4171, running AE = 3777584.8743, running SE = 10272562316.5126
+2022-12-04 17:36:26,158 - main - DEBUG - Batch 2200: running loss = 271.3722, running AE = 3921580.8606, running SE = 10601401951.3880
+2022-12-04 17:36:29,410 - main - INFO - Epoch 2 - train: epoch loss = 0.1233, MAE = 1779.3274, MSE = 2191.8316
+2022-12-04 17:36:29,411 - main - INFO - validating...
+2022-12-04 17:36:55,188 - main - DEBUG - Batch 100: running loss = 8.2699, running AE = 208309.1338, running SE = 625705919.5551
+2022-12-04 17:37:19,616 - main - DEBUG - Batch 200: running loss = 15.0175, running AE = 438496.6187, running SE = 1237824092.4135
+2022-12-04 17:37:46,387 - main - DEBUG - Batch 300: running loss = 24.5343, running AE = 623897.2207, running SE = 1754169047.3795
+2022-12-04 17:38:12,867 - main - DEBUG - Batch 400: running loss = 36.1013, running AE = 928964.9736, running SE = 3241319430.7721
+2022-12-04 17:38:39,405 - main - DEBUG - Batch 500: running loss = 40.5348, running AE = 1267730.2021, running SE = 4582181595.6588
+2022-12-04 17:39:05,776 - main - DEBUG - Batch 600: running loss = 48.7870, running AE = 1494428.9014, running SE = 5291143198.2968
+2022-12-04 17:39:32,106 - main - DEBUG - Batch 700: running loss = 65.3322, running AE = 1864557.3989, running SE = 8005307617.2574
+2022-12-04 17:39:58,522 - main - DEBUG - Batch 800: running loss = 76.6587, running AE = 2055242.3682, running SE = 8588218123.7963
+2022-12-04 17:40:25,068 - main - DEBUG - Batch 900: running loss = 90.4077, running AE = 2408894.7109, running SE = 10196491351.0844
+2022-12-04 17:40:51,389 - main - DEBUG - Batch 1000: running loss = 98.0701, running AE = 2697153.3911, running SE = 11132110425.3578
+2022-12-04 17:41:04,333 - main - INFO - Epoch 2 - val: epoch loss = 0.0975, MAE = 2666.4876, MSE = 3293.9318
+2022-12-04 17:41:04,333 - main - INFO - Epoch 3/2000
+2022-12-04 17:41:04,333 - main - INFO - ----------------------------
+2022-12-04 17:41:04,334 - main - INFO - training...
+2022-12-04 17:41:21,557 - main - DEBUG - Batch 100: running loss = 12.3165, running AE = 137411.4590, running SE = 301354512.3365
+2022-12-04 17:41:40,232 - main - DEBUG - Batch 200: running loss = 24.8483, running AE = 283689.3262, running SE = 665494675.2697
+2022-12-04 17:41:59,550 - main - DEBUG - Batch 300: running loss = 37.3374, running AE = 422063.4556, running SE = 976223393.7477
+2022-12-04 17:42:19,096 - main - DEBUG - Batch 400: running loss = 49.2990, running AE = 546923.9116, running SE = 1223015421.8496
+2022-12-04 17:42:39,605 - main - DEBUG - Batch 500: running loss = 61.5766, running AE = 664552.5322, running SE = 1493482707.4542
+2022-12-04 17:42:59,919 - main - DEBUG - Batch 600: running loss = 73.6899, running AE = 780590.8628, running SE = 1700079349.3358
+2022-12-04 17:43:20,711 - main - DEBUG - Batch 700: running loss = 86.3656, running AE = 916945.2866, running SE = 2028157110.9244
+2022-12-04 17:43:42,466 - main - DEBUG - Batch 800: running loss = 98.3822, running AE = 1027872.9644, running SE = 2225868308.5543
+2022-12-04 17:44:05,025 - main - DEBUG - Batch 900: running loss = 111.0906, running AE = 1173446.7671, running SE = 2566213094.6304
+2022-12-04 17:44:28,497 - main - DEBUG - Batch 1000: running loss = 122.9401, running AE = 1273370.3193, running SE = 2742823489.7957
+2022-12-04 17:44:53,329 - main - DEBUG - Batch 1100: running loss = 134.9087, running AE = 1382977.0059, running SE = 2937720732.0216
+2022-12-04 17:45:18,250 - main - DEBUG - Batch 1200: running loss = 147.0636, running AE = 1507886.0220, running SE = 3170082573.5513
+2022-12-04 17:45:43,247 - main - DEBUG - Batch 1300: running loss = 159.0743, running AE = 1617492.7285, running SE = 3360584194.3408
+2022-12-04 17:46:08,231 - main - DEBUG - Batch 1400: running loss = 170.8164, running AE = 1744771.9014, running SE = 3628056966.5647
+2022-12-04 17:46:33,234 - main - DEBUG - Batch 1500: running loss = 183.1603, running AE = 1867209.7910, running SE = 3889318305.2636
+2022-12-04 17:46:58,221 - main - DEBUG - Batch 1600: running loss = 195.1749, running AE = 1994157.1470, running SE = 4145306232.2009
+2022-12-04 17:47:23,262 - main - DEBUG - Batch 1700: running loss = 207.4213, running AE = 2106255.8677, running SE = 4389178205.9394
+2022-12-04 17:47:48,297 - main - DEBUG - Batch 1800: running loss = 219.5831, running AE = 2212870.8525, running SE = 4576103134.6659
+2022-12-04 17:48:13,288 - main - DEBUG - Batch 1900: running loss = 231.5125, running AE = 2314046.9688, running SE = 4745873361.8084
+2022-12-04 17:48:38,296 - main - DEBUG - Batch 2000: running loss = 243.6995, running AE = 2410004.8662, running SE = 4896662788.8997
+2022-12-04 17:49:03,530 - main - DEBUG - Batch 2100: running loss = 256.2346, running AE = 2523433.1626, running SE = 5128872746.7714
+2022-12-04 17:49:28,529 - main - DEBUG - Batch 2200: running loss = 268.4216, running AE = 2637833.1167, running SE = 5343310936.1674
+2022-12-04 17:49:31,814 - main - INFO - Epoch 3 - train: epoch loss = 0.1220, MAE = 1200.1616, MSE = 1558.7862
+2022-12-04 17:49:31,815 - main - INFO - validating...
+2022-12-04 17:49:58,042 - main - DEBUG - Batch 100: running loss = 8.3681, running AE = 241989.5645, running SE = 801033739.2599
+2022-12-04 17:50:24,440 - main - DEBUG - Batch 200: running loss = 15.2701, running AE = 522127.3247, running SE = 1688544559.1974
+2022-12-04 17:50:50,808 - main - DEBUG - Batch 300: running loss = 24.8393, running AE = 734029.1196, running SE = 2298245721.0218
+2022-12-04 17:51:17,214 - main - DEBUG - Batch 400: running loss = 36.3830, running AE = 1037878.2803, running SE = 3743989576.7542
+2022-12-04 17:51:43,609 - main - DEBUG - Batch 500: running loss = 41.0561, running AE = 1429614.3970, running SE = 5512358556.6524
+2022-12-04 17:52:09,491 - main - DEBUG - Batch 600: running loss = 49.4073, running AE = 1684429.5132, running SE = 6397803361.1975
+2022-12-04 17:52:36,406 - main - DEBUG - Batch 700: running loss = 65.7459, running AE = 2019216.0195, running SE = 8743322675.3069
+2022-12-04 17:53:03,504 - main - DEBUG - Batch 800: running loss = 77.0579, running AE = 2213414.4595, running SE = 9300639267.2074
+2022-12-04 17:53:30,236 - main - DEBUG - Batch 900: running loss = 90.7033, running AE = 2558728.9463, running SE = 10724070276.3012
+2022-12-04 17:53:56,473 - main - DEBUG - Batch 1000: running loss = 98.4864, running AE = 2876720.0039, running SE = 11874944593.5525
+2022-12-04 17:54:09,373 - main - INFO - Epoch 3 - val: epoch loss = 0.0979, MAE = 2852.1603, MSE = 3410.2595
+2022-12-04 17:54:09,374 - main - INFO - Epoch 4/2000
+2022-12-04 17:54:09,374 - main - INFO - ----------------------------
+2022-12-04 17:54:09,375 - main - INFO - training...
+2022-12-04 17:54:26,956 - main - DEBUG - Batch 100: running loss = 11.9257, running AE = 109189.9287, running SE = 210743130.3988
+2022-12-04 17:54:45,298 - main - DEBUG - Batch 200: running loss = 24.3261, running AE = 230466.1973, running SE = 450062585.5887
+2022-12-04 17:55:03,965 - main - DEBUG - Batch 300: running loss = 36.5047, running AE = 352430.1343, running SE = 702753406.0758
+2022-12-04 17:55:23,948 - main - DEBUG - Batch 400: running loss = 48.8636, running AE = 482935.5854, running SE = 998125283.8893
+2022-12-04 17:55:43,920 - main - DEBUG - Batch 500: running loss = 61.0002, running AE = 583583.0923, running SE = 1176188744.9209
+2022-12-04 17:56:04,607 - main - DEBUG - Batch 600: running loss = 73.4583, running AE = 705084.5947, running SE = 1421510714.1426
+2022-12-04 17:56:25,817 - main - DEBUG - Batch 700: running loss = 85.6731, running AE = 819065.1655, running SE = 1626189380.6704
+2022-12-04 17:56:47,492 - main - DEBUG - Batch 800: running loss = 97.8650, running AE = 945088.6040, running SE = 1874608555.0000
+2022-12-04 17:57:10,004 - main - DEBUG - Batch 900: running loss = 110.1198, running AE = 1058806.1206, running SE = 2088128239.5769
+2022-12-04 17:57:33,409 - main - DEBUG - Batch 1000: running loss = 122.5906, running AE = 1165305.0708, running SE = 2280775136.6432
+2022-12-04 17:57:58,299 - main - DEBUG - Batch 1100: running loss = 134.6137, running AE = 1272385.6909, running SE = 2465459509.1354
+2022-12-04 17:58:23,211 - main - DEBUG - Batch 1200: running loss = 146.4143, running AE = 1366773.7856, running SE = 2607487570.8941
+2022-12-04 17:58:48,246 - main - DEBUG - Batch 1300: running loss = 158.9480, running AE = 1472627.2505, running SE = 2817330678.6458
+2022-12-04 17:59:13,348 - main - DEBUG - Batch 1400: running loss = 171.3092, running AE = 1591170.1650, running SE = 3047818977.5182
+2022-12-04 17:59:38,401 - main - DEBUG - Batch 1500: running loss = 183.4640, running AE = 1695577.5635, running SE = 3235221756.6364
+2022-12-04 18:00:03,418 - main - DEBUG - Batch 1600: running loss = 195.3419, running AE = 1800745.6846, running SE = 3419557681.9166
+2022-12-04 18:00:28,420 - main - DEBUG - Batch 1700: running loss = 207.2925, running AE = 1907309.2432, running SE = 3601633413.3897
+2022-12-04 18:00:53,436 - main - DEBUG - Batch 1800: running loss = 220.0833, running AE = 2034958.7622, running SE = 3843458274.0600
+2022-12-04 18:01:18,413 - main - DEBUG - Batch 1900: running loss = 232.1040, running AE = 2142819.4795, running SE = 4030655527.1978
+2022-12-04 18:01:43,499 - main - DEBUG - Batch 2000: running loss = 243.7756, running AE = 2252577.9487, running SE = 4214233784.3565
+2022-12-04 18:02:08,556 - main - DEBUG - Batch 2100: running loss = 255.8112, running AE = 2378601.0195, running SE = 4452600285.9274
+2022-12-04 18:02:33,559 - main - DEBUG - Batch 2200: running loss = 267.9487, running AE = 2487720.8716, running SE = 4635688401.6312
+2022-12-04 18:02:36,809 - main - INFO - Epoch 4 - train: epoch loss = 0.1218, MAE = 1130.0157, MSE = 1450.3645
+2022-12-04 18:02:36,809 - main - INFO - validating...
+2022-12-04 18:03:02,904 - main - DEBUG - Batch 100: running loss = 8.4194, running AE = 258076.7832, running SE = 892514667.5352
+2022-12-04 18:03:29,130 - main - DEBUG - Batch 200: running loss = 15.3954, running AE = 558517.8535, running SE = 1912179580.6621
+2022-12-04 18:03:55,573 - main - DEBUG - Batch 300: running loss = 24.9972, running AE = 783540.3931, running SE = 2580042734.7159
+2022-12-04 18:04:22,084 - main - DEBUG - Batch 400: running loss = 36.5428, running AE = 1089480.2339, running SE = 4029170912.9307
+2022-12-04 18:04:48,345 - main - DEBUG - Batch 500: running loss = 41.3247, running AE = 1504240.9736, running SE = 5991525359.9151
+2022-12-04 18:05:14,804 - main - DEBUG - Batch 600: running loss = 49.7274, running AE = 1772749.6484, running SE = 6968920912.9337
+2022-12-04 18:05:41,276 - main - DEBUG - Batch 700: running loss = 65.9933, running AE = 2096497.7397, running SE = 9184812233.4766
+2022-12-04 18:06:07,878 - main - DEBUG - Batch 800: running loss = 77.3109, running AE = 2294456.0186, running SE = 9751940545.1535
+2022-12-04 18:06:33,062 - main - DEBUG - Batch 900: running loss = 90.9255, running AE = 2636386.5576, running SE = 11120453523.7316
+2022-12-04 18:06:59,258 - main - DEBUG - Batch 1000: running loss = 98.7689, running AE = 2967212.8574, running SE = 12379037720.3888
+2022-12-04 18:07:12,223 - main - INFO - Epoch 4 - val: epoch loss = 0.0982, MAE = 2944.6456, MSE = 3485.5211
+2022-12-04 18:07:12,224 - main - INFO - Epoch 5/2000
+2022-12-04 18:07:12,224 - main - INFO - ----------------------------
+2022-12-04 18:07:12,225 - main - INFO - training...
+2022-12-04 18:07:29,019 - main - DEBUG - Batch 100: running loss = 12.1140, running AE = 94144.7896, running SE = 127495932.6705
+2022-12-04 18:07:46,999 - main - DEBUG - Batch 200: running loss = 24.4088, running AE = 193513.5024, running SE = 282308371.4435
+2022-12-04 18:08:05,659 - main - DEBUG - Batch 300: running loss = 36.2143, running AE = 294121.3813, running SE = 445102208.2240
+2022-12-04 18:08:24,883 - main - DEBUG - Batch 400: running loss = 48.3378, running AE = 404240.2988, running SE = 639028644.3317
+2022-12-04 18:08:44,437 - main - DEBUG - Batch 500: running loss = 60.5863, running AE = 516886.9819, running SE = 843517834.8469
+2022-12-04 18:09:05,349 - main - DEBUG - Batch 600: running loss = 72.9281, running AE = 621890.5479, running SE = 1025054777.1791
+2022-12-04 18:09:26,103 - main - DEBUG - Batch 700: running loss = 84.9209, running AE = 735580.2583, running SE = 1223186532.9855
+2022-12-04 18:09:47,697 - main - DEBUG - Batch 800: running loss = 97.5560, running AE = 852255.7812, running SE = 1459978841.9185
+2022-12-04 18:10:10,164 - main - DEBUG - Batch 900: running loss = 109.8335, running AE = 966484.2900, running SE = 1679359904.1481
+2022-12-04 18:10:33,971 - main - DEBUG - Batch 1000: running loss = 121.8566, running AE = 1078074.8115, running SE = 1879533679.4208
+2022-12-04 18:10:59,264 - main - DEBUG - Batch 1100: running loss = 133.8658, running AE = 1179998.6079, running SE = 2041193354.8112
+2022-12-04 18:11:24,846 - main - DEBUG - Batch 1200: running loss = 146.0739, running AE = 1286680.4238, running SE = 2218280607.0785
+2022-12-04 18:11:50,014 - main - DEBUG - Batch 1300: running loss = 157.7018, running AE = 1414914.4443, running SE = 2468242300.3479
+2022-12-04 18:12:15,432 - main - DEBUG - Batch 1400: running loss = 169.7176, running AE = 1517924.0430, running SE = 2635300777.8029
+2022-12-04 18:12:40,615 - main - DEBUG - Batch 1500: running loss = 181.9736, running AE = 1622583.2983, running SE = 2848123081.3905
+2022-12-04 18:13:06,191 - main - DEBUG - Batch 1600: running loss = 194.0153, running AE = 1719665.6958, running SE = 3019872683.7637
+2022-12-04 18:13:31,524 - main - DEBUG - Batch 1700: running loss = 206.5794, running AE = 1846350.1104, running SE = 3273651475.7467
+2022-12-04 18:13:56,772 - main - DEBUG - Batch 1800: running loss = 218.5269, running AE = 1946629.0771, running SE = 3428622938.2591
+2022-12-04 18:14:21,727 - main - DEBUG - Batch 1900: running loss = 230.7177, running AE = 2056612.1963, running SE = 3607866731.7302
+2022-12-04 18:14:46,740 - main - DEBUG - Batch 2000: running loss = 243.0393, running AE = 2177897.9810, running SE = 3822508288.8585
+2022-12-04 18:15:11,781 - main - DEBUG - Batch 2100: running loss = 255.4048, running AE = 2277033.6309, running SE = 3981695763.9526
+2022-12-04 18:15:36,781 - main - DEBUG - Batch 2200: running loss = 267.8823, running AE = 2385618.7554, running SE = 4180008238.6080
+2022-12-04 18:15:40,031 - main - INFO - Epoch 5 - train: epoch loss = 0.1217, MAE = 1085.2999, MSE = 1379.4259
+2022-12-04 18:15:40,033 - main - INFO - validating...
+2022-12-04 18:16:06,268 - main - DEBUG - Batch 100: running loss = 8.4446, running AE = 265744.1177, running SE = 937399145.5952
+2022-12-04 18:16:32,818 - main - DEBUG - Batch 200: running loss = 15.4560, running AE = 575303.1309, running SE = 2020214547.3538
+2022-12-04 18:16:59,335 - main - DEBUG - Batch 300: running loss = 25.0745, running AE = 806599.4111, running SE = 2717999350.8326
+2022-12-04 18:17:25,989 - main - DEBUG - Batch 400: running loss = 36.6231, running AE = 1114036.8628, running SE = 4172449150.6426
+2022-12-04 18:17:52,392 - main - DEBUG - Batch 500: running loss = 41.4559, running AE = 1539218.3291, running SE = 6225722782.0147
+2022-12-04 18:18:18,836 - main - DEBUG - Batch 600: running loss = 49.8839, running AE = 1814456.9888, running SE = 7248214524.4776
+2022-12-04 18:18:45,258 - main - DEBUG - Batch 700: running loss = 66.1193, running AE = 2133514.1406, running SE = 9409693587.0287
+2022-12-04 18:19:11,547 - main - DEBUG - Batch 800: running loss = 77.4415, running AE = 2333637.2842, running SE = 9985029831.4711
+2022-12-04 18:19:37,903 - main - DEBUG - Batch 900: running loss = 91.0444, running AE = 2674048.1343, running SE = 11332681720.8461
+2022-12-04 18:20:04,340 - main - DEBUG - Batch 1000: running loss = 98.9171, running AE = 3010818.9946, running SE = 12643438565.2622
+2022-12-04 18:20:17,362 - main - INFO - Epoch 5 - val: epoch loss = 0.0984, MAE = 2989.0053, MSE = 3524.1901
+2022-12-04 18:20:17,363 - main - INFO - Epoch 6/2000
+2022-12-04 18:20:17,363 - main - INFO - ----------------------------
+2022-12-04 18:20:17,365 - main - INFO - training...
+2022-12-04 18:20:34,469 - main - DEBUG - Batch 100: running loss = 12.8015, running AE = 110598.6089, running SE = 191033040.3959
+2022-12-04 18:20:51,919 - main - DEBUG - Batch 200: running loss = 25.4049, running AE = 231871.6099, running SE = 445815456.6870
+2022-12-04 18:21:10,429 - main - DEBUG - Batch 300: running loss = 37.2469, running AE = 353660.0098, running SE = 663511819.9310
+2022-12-04 18:21:29,427 - main - DEBUG - Batch 400: running loss = 49.1913, running AE = 453274.5981, running SE = 814762800.5683
+2022-12-04 18:21:49,052 - main - DEBUG - Batch 500: running loss = 61.4600, running AE = 554478.6479, running SE = 999250457.4224
+2022-12-04 18:22:09,395 - main - DEBUG - Batch 600: running loss = 73.8664, running AE = 654748.2007, running SE = 1148203388.3644
+2022-12-04 18:22:30,348 - main - DEBUG - Batch 700: running loss = 85.4878, running AE = 763702.6509, running SE = 1327638191.9351
+2022-12-04 18:22:51,879 - main - DEBUG - Batch 800: running loss = 97.8742, running AE = 879343.1113, running SE = 1543429558.4913
+2022-12-04 18:23:13,978 - main - DEBUG - Batch 900: running loss = 110.0926, running AE = 1001459.4155, running SE = 1787939263.5909
+2022-12-04 18:23:37,719 - main - DEBUG - Batch 1000: running loss = 122.1014, running AE = 1104118.8066, running SE = 1957639699.6588
+2022-12-04 18:24:02,040 - main - DEBUG - Batch 1100: running loss = 134.2501, running AE = 1218725.9111, running SE = 2161855922.4456
+2022-12-04 18:24:27,126 - main - DEBUG - Batch 1200: running loss = 146.7445, running AE = 1345864.0264, running SE = 2408350587.8693
+2022-12-04 18:24:52,311 - main - DEBUG - Batch 1300: running loss = 158.7070, running AE = 1448927.8115, running SE = 2575530603.6543
+2022-12-04 18:25:17,464 - main - DEBUG - Batch 1400: running loss = 171.0874, running AE = 1559494.2500, running SE = 2764405776.8104
+2022-12-04 18:25:42,669 - main - DEBUG - Batch 1500: running loss = 183.0646, running AE = 1669937.3125, running SE = 2950808708.0685
+2022-12-04 18:26:07,813 - main - DEBUG - Batch 1600: running loss = 194.9839, running AE = 1785979.0020, running SE = 3143250867.6984
+2022-12-04 18:26:32,871 - main - DEBUG - Batch 1700: running loss = 207.1201, running AE = 1886690.7876, running SE = 3301505182.2055
+2022-12-04 18:26:57,948 - main - DEBUG - Batch 1800: running loss = 219.5606, running AE = 1989366.2749, running SE = 3474041359.7357
+2022-12-04 18:27:22,960 - main - DEBUG - Batch 1900: running loss = 231.9370, running AE = 2101008.0425, running SE = 3671053474.4971
+2022-12-04 18:27:48,018 - main - DEBUG - Batch 2000: running loss = 243.9248, running AE = 2216784.3066, running SE = 3870064739.2418
+2022-12-04 18:28:12,953 - main - DEBUG - Batch 2100: running loss = 256.0186, running AE = 2343198.3149, running SE = 4101217249.4621
+2022-12-04 18:28:38,063 - main - DEBUG - Batch 2200: running loss = 267.8181, running AE = 2454407.3984, running SE = 4296448102.7986
+2022-12-04 18:28:41,351 - main - INFO - Epoch 6 - train: epoch loss = 0.1217, MAE = 1116.2813, MSE = 1397.3816
+2022-12-04 18:28:41,352 - main - INFO - validating...
+2022-12-04 18:29:07,860 - main - DEBUG - Batch 100: running loss = 8.4528, running AE = 268213.1606, running SE = 952068968.8934
+2022-12-04 18:29:34,313 - main - DEBUG - Batch 200: running loss = 15.4756, running AE = 580652.8032, running SE = 2055325306.4091
+2022-12-04 18:30:00,676 - main - DEBUG - Batch 300: running loss = 25.0998, running AE = 813991.7622, running SE = 2763053027.7023
+2022-12-04 18:30:27,052 - main - DEBUG - Batch 400: running loss = 36.6496, running AE = 1121938.6260, running SE = 4219673937.8602
+2022-12-04 18:30:53,473 - main - DEBUG - Batch 500: running loss = 41.4988, running AE = 1550466.0786, running SE = 6302162289.5588
+2022-12-04 18:31:20,076 - main - DEBUG - Batch 600: running loss = 49.9350, running AE = 1827831.0000, running SE = 7339391587.4631
+2022-12-04 18:31:46,769 - main - DEBUG - Batch 700: running loss = 66.1610, running AE = 2145447.8706, running SE = 9484170191.5934
+2022-12-04 18:32:13,145 - main - DEBUG - Batch 800: running loss = 77.4849, running AE = 2346256.8320, running SE = 10062589266.8111
+2022-12-04 18:32:39,645 - main - DEBUG - Batch 900: running loss = 91.0844, running AE = 2686187.5659, running SE = 11404140399.2877
+2022-12-04 18:33:05,991 - main - DEBUG - Batch 1000: running loss = 98.9666, running AE = 3024878.8062, running SE = 12731869578.5563
+2022-12-04 18:33:18,943 - main - INFO - Epoch 6 - val: epoch loss = 0.0984, MAE = 3003.2897, MSE = 3537.0109
+2022-12-04 18:33:18,944 - main - INFO - Epoch 7/2000
+2022-12-04 18:33:18,945 - main - INFO - ----------------------------
+2022-12-04 18:33:18,945 - main - INFO - training...
+2022-12-04 18:33:36,163 - main - DEBUG - Batch 100: running loss = 12.2058, running AE = 116512.4238, running SE = 214436572.0645
+2022-12-04 18:33:53,808 - main - DEBUG - Batch 200: running loss = 24.0834, running AE = 228237.9375, running SE = 406621366.6114
+2022-12-04 18:34:11,630 - main - DEBUG - Batch 300: running loss = 36.5510, running AE = 338259.5293, running SE = 600403062.1891
+2022-12-04 18:34:30,893 - main - DEBUG - Batch 400: running loss = 48.5506, running AE = 448057.2144, running SE = 789856740.6448
+2022-12-04 18:34:50,905 - main - DEBUG - Batch 500: running loss = 60.7369, running AE = 542654.6353, running SE = 937138067.8411
+2022-12-04 18:35:10,965 - main - DEBUG - Batch 600: running loss = 73.1560, running AE = 649126.2881, running SE = 1124115184.4234
+2022-12-04 18:35:31,758 - main - DEBUG - Batch 700: running loss = 85.3736, running AE = 756281.8643, running SE = 1314793061.9282
+2022-12-04 18:35:53,182 - main - DEBUG - Batch 800: running loss = 97.4532, running AE = 860941.2305, running SE = 1490095780.5222
+2022-12-04 18:36:15,499 - main - DEBUG - Batch 900: running loss = 109.3544, running AE = 975940.2100, running SE = 1677118812.9005
+2022-12-04 18:36:39,649 - main - DEBUG - Batch 1000: running loss = 121.0834, running AE = 1074466.0195, running SE = 1832576286.1394
+2022-12-04 18:37:04,333 - main - DEBUG - Batch 1100: running loss = 133.0160, running AE = 1194858.2007, running SE = 2057214572.4534
+2022-12-04 18:37:29,659 - main - DEBUG - Batch 1200: running loss = 145.2980, running AE = 1295871.1768, running SE = 2217474606.5007
+2022-12-04 18:37:55,995 - main - DEBUG - Batch 1300: running loss = 157.2930, running AE = 1405001.1938, running SE = 2427727051.8956
+2022-12-04 18:38:21,634 - main - DEBUG - Batch 1400: running loss = 169.4083, running AE = 1521741.1914, running SE = 2639956532.3414
+2022-12-04 18:38:46,988 - main - DEBUG - Batch 1500: running loss = 181.7961, running AE = 1630303.1714, running SE = 2856637245.7351
+2022-12-04 18:39:13,011 - main - DEBUG - Batch 1600: running loss = 194.2868, running AE = 1736158.0083, running SE = 3052712154.2105
+2022-12-04 18:39:38,195 - main - DEBUG - Batch 1700: running loss = 206.5426, running AE = 1845018.1772, running SE = 3228560423.8440
+2022-12-04 18:40:03,298 - main - DEBUG - Batch 1800: running loss = 218.7324, running AE = 1957002.0615, running SE = 3442845234.5877
+2022-12-04 18:40:28,266 - main - DEBUG - Batch 1900: running loss = 231.2193, running AE = 2065644.8130, running SE = 3623972925.5076
+2022-12-04 18:40:53,341 - main - DEBUG - Batch 2000: running loss = 243.6154, running AE = 2170934.3413, running SE = 3801585603.7498
+2022-12-04 18:41:18,437 - main - DEBUG - Batch 2100: running loss = 255.6850, running AE = 2283538.1650, running SE = 3997762731.8101
+2022-12-04 18:41:43,513 - main - DEBUG - Batch 2200: running loss = 267.9054, running AE = 2411523.1875, running SE = 4252881955.3976
+2022-12-04 18:41:46,754 - main - INFO - Epoch 7 - train: epoch loss = 0.1217, MAE = 1096.0929, MSE = 1389.6048
+2022-12-04 18:41:46,755 - main - INFO - validating...
+2022-12-04 18:42:12,866 - main - DEBUG - Batch 100: running loss = 8.4590, running AE = 270048.0708, running SE = 963123399.0046
+2022-12-04 18:42:39,213 - main - DEBUG - Batch 200: running loss = 15.4904, running AE = 584667.1719, running SE = 2081723330.7749
+2022-12-04 18:43:05,467 - main - DEBUG - Batch 300: running loss = 25.1188, running AE = 819535.2510, running SE = 2796992590.9783
+2022-12-04 18:43:32,429 - main - DEBUG - Batch 400: running loss = 36.6696, running AE = 1127983.4829, running SE = 4255379456.9833
+2022-12-04 18:43:58,694 - main - DEBUG - Batch 500: running loss = 41.5310, running AE = 1559008.6577, running SE = 6359731784.4816
+2022-12-04 18:44:25,238 - main - DEBUG - Batch 600: running loss = 49.9735, running AE = 1837953.7734, running SE = 7408066109.1554
+2022-12-04 18:44:51,898 - main - DEBUG - Batch 700: running loss = 66.1927, running AE = 2154518.8911, running SE = 9540585573.8086
+2022-12-04 18:45:18,413 - main - DEBUG - Batch 800: running loss = 77.5179, running AE = 2355837.5356, running SE = 10121448049.3218
+2022-12-04 18:45:44,851 - main - DEBUG - Batch 900: running loss = 91.1150, running AE = 2695411.4590, running SE = 11458617558.7046
+2022-12-04 18:46:11,075 - main - DEBUG - Batch 1000: running loss = 99.0043, running AE = 3035529.8696, running SE = 12799112475.2493
+2022-12-04 18:46:24,008 - main - INFO - Epoch 7 - val: epoch loss = 0.0985, MAE = 3014.0981, MSE = 3546.7236
+2022-12-04 18:46:24,010 - main - INFO - Epoch 8/2000
+2022-12-04 18:46:24,010 - main - INFO - ----------------------------
+2022-12-04 18:46:24,011 - main - INFO - training...
+2022-12-04 18:46:40,682 - main - DEBUG - Batch 100: running loss = 12.7223, running AE = 119787.0425, running SE = 235972059.5024
+2022-12-04 18:46:58,464 - main - DEBUG - Batch 200: running loss = 24.5990, running AE = 221580.7061, running SE = 408704176.0995
+2022-12-04 18:47:16,082 - main - DEBUG - Batch 300: running loss = 36.7606, running AE = 339478.7588, running SE = 633527426.4063
+2022-12-04 18:47:34,911 - main - DEBUG - Batch 400: running loss = 48.5299, running AE = 454240.4219, running SE = 831015116.2590
+2022-12-04 18:47:54,127 - main - DEBUG - Batch 500: running loss = 60.7993, running AE = 554112.7671, running SE = 996579288.7737
+2022-12-04 18:48:14,275 - main - DEBUG - Batch 600: running loss = 73.3094, running AE = 658059.1484, running SE = 1166820021.1443
+2022-12-04 18:48:34,819 - main - DEBUG - Batch 700: running loss = 85.4637, running AE = 784351.4199, running SE = 1396185482.3489
+2022-12-04 18:48:55,857 - main - DEBUG - Batch 800: running loss = 97.4753, running AE = 885792.8223, running SE = 1559491398.7655
+2022-12-04 18:49:17,905 - main - DEBUG - Batch 900: running loss = 109.6569, running AE = 994924.2583, running SE = 1749504544.8137
+2022-12-04 18:49:40,519 - main - DEBUG - Batch 1000: running loss = 121.3833, running AE = 1085623.3379, running SE = 1875859809.9243
+2022-12-04 18:50:03,651 - main - DEBUG - Batch 1100: running loss = 133.5698, running AE = 1195394.4639, running SE = 2060147331.0295
+2022-12-04 18:50:27,979 - main - DEBUG - Batch 1200: running loss = 145.7731, running AE = 1310532.1343, running SE = 2283671388.9084
+2022-12-04 18:50:52,963 - main - DEBUG - Batch 1300: running loss = 157.9719, running AE = 1425217.9541, running SE = 2500707139.9424
+2022-12-04 18:51:18,062 - main - DEBUG - Batch 1400: running loss = 169.9697, running AE = 1533973.0474, running SE = 2697475266.0492
+2022-12-04 18:51:43,259 - main - DEBUG - Batch 1500: running loss = 182.1369, running AE = 1646799.8125, running SE = 2876941240.9848
+2022-12-04 18:52:08,431 - main - DEBUG - Batch 1600: running loss = 194.4540, running AE = 1765010.1611, running SE = 3079719134.2187
+2022-12-04 18:52:33,385 - main - DEBUG - Batch 1700: running loss = 207.1245, running AE = 1891439.9668, running SE = 3338563745.3202
+2022-12-04 18:52:58,374 - main - DEBUG - Batch 1800: running loss = 219.3597, running AE = 1992611.5518, running SE = 3501661505.5826
+2022-12-04 18:53:23,330 - main - DEBUG - Batch 1900: running loss = 231.2258, running AE = 2100567.5112, running SE = 3667627050.3949
+2022-12-04 18:53:48,728 - main - DEBUG - Batch 2000: running loss = 243.1538, running AE = 2212346.2173, running SE = 3860177354.2450
+2022-12-04 18:54:13,778 - main - DEBUG - Batch 2100: running loss = 255.4240, running AE = 2321612.0815, running SE = 4048034836.7481
+2022-12-04 18:54:39,016 - main - DEBUG - Batch 2200: running loss = 267.7263, running AE = 2438130.5273, running SE = 4255614394.4210
+2022-12-04 18:54:42,305 - main - INFO - Epoch 8 - train: epoch loss = 0.1217, MAE = 1109.5462, MSE = 1391.9618
+2022-12-04 18:54:42,306 - main - INFO - validating...
+2022-12-04 18:55:08,336 - main - DEBUG - Batch 100: running loss = 8.4598, running AE = 270295.7856, running SE = 964625704.3024
+2022-12-04 18:55:34,507 - main - DEBUG - Batch 200: running loss = 15.4924, running AE = 585210.8467, running SE = 2085307441.5256
+2022-12-04 18:56:00,873 - main - DEBUG - Batch 300: running loss = 25.1214, running AE = 820285.3652, running SE = 2801604784.4766
+2022-12-04 18:56:27,284 - main - DEBUG - Batch 400: running loss = 36.6723, running AE = 1128802.4219, running SE = 4260240093.5527
+2022-12-04 18:56:53,641 - main - DEBUG - Batch 500: running loss = 41.5354, running AE = 1560164.9199, running SE = 6367555223.8484
+2022-12-04 18:57:20,144 - main - DEBUG - Batch 600: running loss = 49.9787, running AE = 1839323.4443, running SE = 7417399298.8757
+2022-12-04 18:57:46,591 - main - DEBUG - Batch 700: running loss = 66.1970, running AE = 2155750.9199, running SE = 9548273386.3794
+2022-12-04 18:58:12,770 - main - DEBUG - Batch 800: running loss = 77.5224, running AE = 2357138.3608, running SE = 10129475640.8901
+2022-12-04 18:58:38,868 - main - DEBUG - Batch 900: running loss = 91.1191, running AE = 2696664.1030, running SE = 11466063489.4135
+2022-12-04 18:59:04,943 - main - DEBUG - Batch 1000: running loss = 99.0094, running AE = 3036975.1934, running SE = 12808291815.8588
+2022-12-04 18:59:17,791 - main - INFO - Epoch 8 - val: epoch loss = 0.0985, MAE = 3015.5643, MSE = 3548.0471
+2022-12-04 18:59:17,792 - main - INFO - Epoch 9/2000
+2022-12-04 18:59:17,792 - main - INFO - ----------------------------
+2022-12-04 18:59:17,793 - main - INFO - training...
+2022-12-04 18:59:32,198 - main - DEBUG - Batch 100: running loss = 11.8921, running AE = 104717.6875, running SE = 185497605.3457
+2022-12-04 18:59:47,102 - main - DEBUG - Batch 200: running loss = 23.9492, running AE = 207583.7617, running SE = 357726560.2664
+2022-12-04 19:00:02,752 - main - DEBUG - Batch 300: running loss = 36.1140, running AE = 334331.7773, running SE = 636384603.6249
+2022-12-04 19:00:19,985 - main - DEBUG - Batch 400: running loss = 48.1000, running AE = 443771.6196, running SE = 817373517.1218
+2022-12-04 19:00:36,685 - main - DEBUG - Batch 500: running loss = 60.3010, running AE = 552553.5806, running SE = 1005476281.3814
+2022-12-04 19:00:53,541 - main - DEBUG - Batch 600: running loss = 72.2167, running AE = 649960.7607, running SE = 1149965310.7872
+2022-12-04 19:01:11,053 - main - DEBUG - Batch 700: running loss = 84.3793, running AE = 746700.6064, running SE = 1295066051.8947
+2022-12-04 19:01:28,739 - main - DEBUG - Batch 800: running loss = 96.7079, running AE = 867872.9619, running SE = 1535480483.3311
+2022-12-04 19:01:47,316 - main - DEBUG - Batch 900: running loss = 108.6620, running AE = 990793.2271, running SE = 1765606204.2308
+2022-12-04 19:02:06,452 - main - DEBUG - Batch 1000: running loss = 121.0609, running AE = 1108148.9180, running SE = 1981962499.5482
+2022-12-04 19:02:26,932 - main - DEBUG - Batch 1100: running loss = 133.4021, running AE = 1232831.1021, running SE = 2212411359.1354
+2022-12-04 19:02:47,013 - main - DEBUG - Batch 1200: running loss = 145.7405, running AE = 1341357.0947, running SE = 2386710548.5391
+2022-12-04 19:03:08,840 - main - DEBUG - Batch 1300: running loss = 158.0376, running AE = 1455700.8281, running SE = 2611437460.0686
+2022-12-04 19:03:31,935 - main - DEBUG - Batch 1400: running loss = 170.1391, running AE = 1566105.2666, running SE = 2798471364.9417
+2022-12-04 19:03:56,323 - main - DEBUG - Batch 1500: running loss = 182.1937, running AE = 1688455.4365, running SE = 3030442692.8335
+2022-12-04 19:04:21,309 - main - DEBUG - Batch 1600: running loss = 194.8198, running AE = 1830888.4380, running SE = 3354853089.5193
+2022-12-04 19:04:46,360 - main - DEBUG - Batch 1700: running loss = 206.7193, running AE = 1935325.6226, running SE = 3512966177.4544
+2022-12-04 19:05:11,299 - main - DEBUG - Batch 1800: running loss = 218.8140, running AE = 2056663.1045, running SE = 3727906923.1469
+2022-12-04 19:05:36,303 - main - DEBUG - Batch 1900: running loss = 231.2192, running AE = 2176232.9751, running SE = 3944624949.7540
+2022-12-04 19:06:01,432 - main - DEBUG - Batch 2000: running loss = 243.1666, running AE = 2278501.5205, running SE = 4105384048.5163
+2022-12-04 19:06:26,364 - main - DEBUG - Batch 2100: running loss = 255.3650, running AE = 2379198.6504, running SE = 4275908430.4979
+2022-12-04 19:06:51,926 - main - DEBUG - Batch 2200: running loss = 267.6192, running AE = 2490136.5332, running SE = 4462033455.3181
+2022-12-04 19:06:55,171 - main - INFO - Epoch 9 - train: epoch loss = 0.1217, MAE = 1131.9470, MSE = 1423.7192
+2022-12-04 19:06:55,172 - main - INFO - validating...
+2022-12-04 19:07:21,072 - main - DEBUG - Batch 100: running loss = 8.4612, running AE = 270714.8643, running SE = 967142096.7238
+2022-12-04 19:07:47,196 - main - DEBUG - Batch 200: running loss = 15.4958, running AE = 586124.5420, running SE = 2091308327.9168
+2022-12-04 19:08:13,637 - main - DEBUG - Batch 300: running loss = 25.1257, running AE = 821544.0967, running SE = 2809329270.7510
+2022-12-04 19:08:40,104 - main - DEBUG - Batch 400: running loss = 36.6769, running AE = 1130176.1675, running SE = 4268384987.4844
+2022-12-04 19:09:06,289 - main - DEBUG - Batch 500: running loss = 41.5428, running AE = 1562102.3428, running SE = 6380656254.1060
+2022-12-04 19:09:32,564 - main - DEBUG - Batch 600: running loss = 49.9875, running AE = 1841617.4634, running SE = 7433028285.2837
+2022-12-04 19:09:58,841 - main - DEBUG - Batch 700: running loss = 66.2042, running AE = 2157814.8989, running SE = 9561157898.2283
+2022-12-04 19:10:25,062 - main - DEBUG - Batch 800: running loss = 77.5300, running AE = 2359317.3530, running SE = 10142933458.0603
+2022-12-04 19:10:51,681 - main - DEBUG - Batch 900: running loss = 91.1261, running AE = 2698762.5806, running SE = 11478554508.1306
+2022-12-04 19:11:17,722 - main - DEBUG - Batch 1000: running loss = 99.0180, running AE = 3039395.7188, running SE = 12823685386.5681
+2022-12-04 19:11:30,513 - main - INFO - Epoch 9 - val: epoch loss = 0.0985, MAE = 3018.0195, MSE = 3550.2652
+2022-12-04 19:11:30,513 - main - INFO - Epoch 10/2000
+2022-12-04 19:11:30,514 - main - INFO - ----------------------------
+2022-12-04 19:11:30,515 - main - INFO - training...
+2022-12-04 19:11:45,057 - main - DEBUG - Batch 100: running loss = 12.0106, running AE = 103602.5146, running SE = 163572771.6082
+2022-12-04 19:11:58,885 - main - DEBUG - Batch 200: running loss = 24.5722, running AE = 216021.5767, running SE = 373582125.3089
+2022-12-04 19:12:13,822 - main - DEBUG - Batch 300: running loss = 36.4180, running AE = 324466.3008, running SE = 568033273.2607
+2022-12-04 19:12:28,998 - main - DEBUG - Batch 400: running loss = 48.4899, running AE = 422003.7246, running SE = 730208838.5788
+2022-12-04 19:12:45,413 - main - DEBUG - Batch 500: running loss = 61.0468, running AE = 540859.5576, running SE = 960103594.3202
+2022-12-04 19:13:02,143 - main - DEBUG - Batch 600: running loss = 73.0699, running AE = 657627.2744, running SE = 1174811122.5955
+2022-12-04 19:13:19,744 - main - DEBUG - Batch 700: running loss = 85.2475, running AE = 763026.6611, running SE = 1349662404.7620
+2022-12-04 19:13:38,065 - main - DEBUG - Batch 800: running loss = 97.0086, running AE = 873845.2329, running SE = 1551235286.1361
+2022-12-04 19:13:56,625 - main - DEBUG - Batch 900: running loss = 109.2605, running AE = 977175.2510, running SE = 1724466212.7948
+2022-12-04 19:14:16,871 - main - DEBUG - Batch 1000: running loss = 121.6025, running AE = 1088893.0806, running SE = 1933502839.1415
+2022-12-04 19:14:36,929 - main - DEBUG - Batch 1100: running loss = 134.2662, running AE = 1203141.2769, running SE = 2130684582.1539
+2022-12-04 19:14:56,620 - main - DEBUG - Batch 1200: running loss = 146.7217, running AE = 1316376.7153, running SE = 2328749720.5753
+2022-12-04 19:15:18,172 - main - DEBUG - Batch 1300: running loss = 158.8569, running AE = 1421117.6440, running SE = 2506537394.7937
+2022-12-04 19:15:41,042 - main - DEBUG - Batch 1400: running loss = 170.2713, running AE = 1535126.3911, running SE = 2703476287.3443
+2022-12-04 19:16:04,869 - main - DEBUG - Batch 1500: running loss = 182.7869, running AE = 1644337.5698, running SE = 2907802528.0859
+2022-12-04 19:16:29,819 - main - DEBUG - Batch 1600: running loss = 194.8960, running AE = 1759501.3506, running SE = 3104694382.4504
+2022-12-04 19:16:54,782 - main - DEBUG - Batch 1700: running loss = 207.1401, running AE = 1869329.3340, running SE = 3312867092.3856
+2022-12-04 19:17:19,759 - main - DEBUG - Batch 1800: running loss = 219.3836, running AE = 1977848.8335, running SE = 3507709430.3008
+2022-12-04 19:17:44,819 - main - DEBUG - Batch 1900: running loss = 231.6248, running AE = 2105819.0166, running SE = 3772008149.4382
+2022-12-04 19:18:09,774 - main - DEBUG - Batch 2000: running loss = 243.6586, running AE = 2197868.4531, running SE = 3901106052.2551
+2022-12-04 19:18:34,617 - main - DEBUG - Batch 2100: running loss = 255.7051, running AE = 2313133.1475, running SE = 4103654051.0165
+2022-12-04 19:18:59,602 - main - DEBUG - Batch 2200: running loss = 267.9526, running AE = 2429970.0703, running SE = 4314951604.2491
+2022-12-04 19:19:02,854 - main - INFO - Epoch 10 - train: epoch loss = 0.1217, MAE = 1104.6178, MSE = 1400.3837
+2022-12-04 19:19:02,855 - main - INFO - validating...
+2022-12-04 19:19:28,772 - main - DEBUG - Batch 100: running loss = 8.4614, running AE = 270781.9302, running SE = 967539302.7725
+2022-12-04 19:19:54,994 - main - DEBUG - Batch 200: running loss = 15.4963, running AE = 586269.5767, running SE = 2092255437.5058
+2022-12-04 19:20:21,299 - main - DEBUG - Batch 300: running loss = 25.1264, running AE = 821743.4712, running SE = 2810548386.0156
+2022-12-04 19:20:47,737 - main - DEBUG - Batch 400: running loss = 36.6776, running AE = 1130393.6558, running SE = 4269670838.6036
+2022-12-04 19:21:14,040 - main - DEBUG - Batch 500: running loss = 41.5439, running AE = 1562408.7632, running SE = 6382724659.6880
+2022-12-04 19:21:40,277 - main - DEBUG - Batch 600: running loss = 49.9888, running AE = 1841980.0654, running SE = 7435495576.7544
+2022-12-04 19:22:05,310 - main - DEBUG - Batch 700: running loss = 66.2053, running AE = 2158141.2686, running SE = 9563193508.7393
+2022-12-04 19:22:31,005 - main - DEBUG - Batch 800: running loss = 77.5311, running AE = 2359661.8447, running SE = 10145060040.8780
+2022-12-04 19:22:57,316 - main - DEBUG - Batch 900: running loss = 91.1272, running AE = 2699094.3813, running SE = 11480529379.7139
+2022-12-04 19:23:23,573 - main - DEBUG - Batch 1000: running loss = 99.0194, running AE = 3039778.2808, running SE = 12826118289.7808
+2022-12-04 19:23:36,427 - main - INFO - Epoch 10 - val: epoch loss = 0.0985, MAE = 3018.4075, MSE = 3550.6156
+2022-12-04 19:23:36,446 - main - INFO - Saved the model at epoch 10.
+2022-12-04 19:23:36,449 - main - INFO - Epoch 11/2000
+2022-12-04 19:23:36,450 - main - INFO - ----------------------------
+2022-12-04 19:23:36,451 - main - INFO - training...
+2022-12-04 19:23:50,514 - main - DEBUG - Batch 100: running loss = 12.2407, running AE = 114365.8989, running SE = 204125107.9194
+2022-12-04 19:24:04,903 - main - DEBUG - Batch 200: running loss = 24.7343, running AE = 234622.4771, running SE = 423642585.9580
+2022-12-04 19:24:20,486 - main - DEBUG - Batch 300: running loss = 36.5254, running AE = 340240.4409, running SE = 593222903.0547
+2022-12-04 19:24:35,967 - main - DEBUG - Batch 400: running loss = 49.0239, running AE = 444733.4463, running SE = 758045151.8036
+2022-12-04 19:24:53,455 - main - DEBUG - Batch 500: running loss = 60.7864, running AE = 550550.6865, running SE = 938416236.3601
+2022-12-04 19:25:10,609 - main - DEBUG - Batch 600: running loss = 72.8738, running AE = 667822.7114, running SE = 1149921429.5940
+2022-12-04 19:25:27,570 - main - DEBUG - Batch 700: running loss = 84.8749, running AE = 777410.8091, running SE = 1349591307.3392
+2022-12-04 19:25:45,326 - main - DEBUG - Batch 800: running loss = 97.1368, running AE = 890567.8350, running SE = 1568178616.0714
+2022-12-04 19:26:04,098 - main - DEBUG - Batch 900: running loss = 109.0771, running AE = 996260.1860, running SE = 1749315225.4466
+2022-12-04 19:26:23,268 - main - DEBUG - Batch 1000: running loss = 121.3608, running AE = 1123547.5278, running SE = 2008811816.1253
+2022-12-04 19:26:43,240 - main - DEBUG - Batch 1100: running loss = 133.3427, running AE = 1240951.2554, running SE = 2221277926.7871
+2022-12-04 19:27:03,459 - main - DEBUG - Batch 1200: running loss = 146.0873, running AE = 1355909.1826, running SE = 2457837652.3137
+2022-12-04 19:27:25,124 - main - DEBUG - Batch 1300: running loss = 158.4803, running AE = 1458836.1909, running SE = 2621100941.6851
+2022-12-04 19:27:48,124 - main - DEBUG - Batch 1400: running loss = 170.7324, running AE = 1573824.0747, running SE = 2825675962.9869
+2022-12-04 19:28:11,957 - main - DEBUG - Batch 1500: running loss = 182.8234, running AE = 1677694.9268, running SE = 2991922515.1742
+2022-12-04 19:28:37,046 - main - DEBUG - Batch 1600: running loss = 194.7314, running AE = 1785630.1416, running SE = 3177873346.6871
+2022-12-04 19:29:02,267 - main - DEBUG - Batch 1700: running loss = 206.8888, running AE = 1891784.3428, running SE = 3346142753.0858
+2022-12-04 19:29:27,314 - main - DEBUG - Batch 1800: running loss = 219.1156, running AE = 1997702.1675, running SE = 3515174238.9721
+2022-12-04 19:29:52,441 - main - DEBUG - Batch 1900: running loss = 231.2574, running AE = 2111725.9067, running SE = 3717045413.4836
+2022-12-04 19:30:17,650 - main - DEBUG - Batch 2000: running loss = 243.6466, running AE = 2224210.0576, running SE = 3920420820.7932
+2022-12-04 19:30:42,865 - main - DEBUG - Batch 2100: running loss = 255.7624, running AE = 2323639.7925, running SE = 4072679949.3504
+2022-12-04 19:31:07,955 - main - DEBUG - Batch 2200: running loss = 267.9091, running AE = 2412799.6377, running SE = 4209245136.2125
+2022-12-04 19:31:11,207 - main - INFO - Epoch 11 - train: epoch loss = 0.1217, MAE = 1094.7617, MSE = 1380.7842
+2022-12-04 19:31:11,209 - main - INFO - validating...
+2022-12-04 19:31:37,097 - main - DEBUG - Batch 100: running loss = 8.4614, running AE = 270762.1802, running SE = 967422401.1171
+2022-12-04 19:32:03,225 - main - DEBUG - Batch 200: running loss = 15.4962, running AE = 586226.7769, running SE = 2091975969.9202
+2022-12-04 19:32:29,513 - main - DEBUG - Batch 300: running loss = 25.1262, running AE = 821684.5933, running SE = 2810188369.1153
+2022-12-04 19:32:55,893 - main - DEBUG - Batch 400: running loss = 36.6774, running AE = 1130329.3496, running SE = 4269290272.3056
+2022-12-04 19:33:22,007 - main - DEBUG - Batch 500: running loss = 41.5436, running AE = 1562318.5884, running SE = 6382116668.3114
+2022-12-04 19:33:48,284 - main - DEBUG - Batch 600: running loss = 49.9884, running AE = 1841873.2754, running SE = 7434769686.9404
+2022-12-04 19:34:14,657 - main - DEBUG - Batch 700: running loss = 66.2050, running AE = 2158045.3281, running SE = 9562596735.0352
+2022-12-04 19:34:40,898 - main - DEBUG - Batch 800: running loss = 77.5308, running AE = 2359560.5146, running SE = 10144436292.8101
+2022-12-04 19:35:07,099 - main - DEBUG - Batch 900: running loss = 91.1269, running AE = 2698996.7627, running SE = 11479950534.2632
+2022-12-04 19:35:33,168 - main - DEBUG - Batch 1000: running loss = 99.0190, running AE = 3039665.6650, running SE = 12825403622.5137
+2022-12-04 19:35:46,031 - main - INFO - Epoch 11 - val: epoch loss = 0.0985, MAE = 3018.2933, MSE = 3550.5127
+2022-12-04 19:35:46,031 - main - INFO - Epoch 12/2000
+2022-12-04 19:35:46,032 - main - INFO - ----------------------------
+2022-12-04 19:35:46,033 - main - INFO - training...
+2022-12-04 19:35:59,447 - main - DEBUG - Batch 100: running loss = 11.9960, running AE = 109239.8721, running SE = 175965640.2545
+2022-12-04 19:36:14,023 - main - DEBUG - Batch 200: running loss = 24.1233, running AE = 213509.1836, running SE = 359838587.8138
+2022-12-04 19:36:28,502 - main - DEBUG - Batch 300: running loss = 36.8282, running AE = 330348.9351, running SE = 580327987.9258
+2022-12-04 19:36:43,723 - main - DEBUG - Batch 400: running loss = 48.9569, running AE = 440258.4287, running SE = 767070118.5114
+2022-12-04 19:36:59,453 - main - DEBUG - Batch 500: running loss = 61.0980, running AE = 551860.9287, running SE = 979918448.9174
+2022-12-04 19:37:15,339 - main - DEBUG - Batch 600: running loss = 73.3724, running AE = 673114.4844, running SE = 1203379046.7931
+2022-12-04 19:37:32,433 - main - DEBUG - Batch 700: running loss = 85.7956, running AE = 793655.3735, running SE = 1441502368.0144
+2022-12-04 19:37:50,161 - main - DEBUG - Batch 800: running loss = 97.9512, running AE = 889256.5923, running SE = 1608734145.7754
+2022-12-04 19:38:08,269 - main - DEBUG - Batch 900: running loss = 110.1423, running AE = 987878.3706, running SE = 1770912229.8873
+2022-12-04 19:38:27,376 - main - DEBUG - Batch 1000: running loss = 122.1240, running AE = 1108553.2778, running SE = 1994046056.2348
+2022-12-04 19:38:47,173 - main - DEBUG - Batch 1100: running loss = 134.4499, running AE = 1212102.1260, running SE = 2157690664.3662
+2022-12-04 19:39:07,388 - main - DEBUG - Batch 1200: running loss = 146.4942, running AE = 1334748.2075, running SE = 2375309980.5834
+2022-12-04 19:39:28,838 - main - DEBUG - Batch 1300: running loss = 158.8208, running AE = 1455198.4946, running SE = 2606406584.1595
+2022-12-04 19:39:51,471 - main - DEBUG - Batch 1400: running loss = 171.2408, running AE = 1569895.0220, running SE = 2809918047.5670
+2022-12-04 19:40:15,804 - main - DEBUG - Batch 1500: running loss = 183.5163, running AE = 1668009.0117, running SE = 2962559110.6994
+2022-12-04 19:40:40,875 - main - DEBUG - Batch 1600: running loss = 195.7661, running AE = 1787160.2324, running SE = 3185652299.0143
+2022-12-04 19:41:05,877 - main - DEBUG - Batch 1700: running loss = 207.7616, running AE = 1903171.3936, running SE = 3378807614.5743
+2022-12-04 19:41:30,868 - main - DEBUG - Batch 1800: running loss = 219.8331, running AE = 2009240.4678, running SE = 3555022244.0011
+2022-12-04 19:41:55,892 - main - DEBUG - Batch 1900: running loss = 231.8429, running AE = 2110974.0015, running SE = 3719848086.0085
+2022-12-04 19:42:21,071 - main - DEBUG - Batch 2000: running loss = 243.8526, running AE = 2210843.9849, running SE = 3870682083.9163
+2022-12-04 19:42:46,030 - main - DEBUG - Batch 2100: running loss = 255.5306, running AE = 2310539.3394, running SE = 4034220536.7334
+2022-12-04 19:43:10,975 - main - DEBUG - Batch 2200: running loss = 267.6633, running AE = 2414920.5039, running SE = 4219307199.0953
+2022-12-04 19:43:14,229 - main - INFO - Epoch 12 - train: epoch loss = 0.1217, MAE = 1100.2729, MSE = 1388.1215
+2022-12-04 19:43:14,230 - main - INFO - validating...
+2022-12-04 19:43:40,109 - main - DEBUG - Batch 100: running loss = 8.4590, running AE = 270072.1968, running SE = 963269631.2296
+2022-12-04 19:44:06,164 - main - DEBUG - Batch 200: running loss = 15.4906, running AE = 584720.3516, running SE = 2082073810.9343
+2022-12-04 19:44:32,280 - main - DEBUG - Batch 300: running loss = 25.1190, running AE = 819608.4590, running SE = 2797442537.8017
+2022-12-04 19:44:58,603 - main - DEBUG - Batch 400: running loss = 36.6698, running AE = 1128063.2671, running SE = 4255852199.5068
+2022-12-04 19:45:24,694 - main - DEBUG - Batch 500: running loss = 41.5314, running AE = 1559122.7212, running SE = 6360506126.1211
+2022-12-04 19:45:50,912 - main - DEBUG - Batch 600: running loss = 49.9740, running AE = 1838089.0918, running SE = 7408991238.0527
+2022-12-04 19:46:17,039 - main - DEBUG - Batch 700: running loss = 66.1930, running AE = 2154640.9941, running SE = 9541352084.2839
+2022-12-04 19:46:43,018 - main - DEBUG - Batch 800: running loss = 77.5183, running AE = 2355966.1709, running SE = 10122246906.1306
+2022-12-04 19:47:09,082 - main - DEBUG - Batch 900: running loss = 91.1153, running AE = 2695535.2852, running SE = 11459359567.1931
+2022-12-04 19:47:35,169 - main - DEBUG - Batch 1000: running loss = 99.0047, running AE = 3035672.5190, running SE = 12800022548.2094
+2022-12-04 19:47:48,001 - main - INFO - Epoch 12 - val: epoch loss = 0.0985, MAE = 3014.2429, MSE = 3546.8548
+2022-12-04 19:47:48,001 - main - INFO - Epoch 13/2000
+2022-12-04 19:47:48,002 - main - INFO - ----------------------------
+2022-12-04 19:47:48,003 - main - INFO - training...
+2022-12-04 19:48:01,753 - main - DEBUG - Batch 100: running loss = 12.4421, running AE = 94552.6245, running SE = 141913799.7777
+2022-12-04 19:48:15,881 - main - DEBUG - Batch 200: running loss = 24.8658, running AE = 215305.0845, running SE = 351429351.8814
+2022-12-04 19:48:30,040 - main - DEBUG - Batch 300: running loss = 36.8746, running AE = 334689.9487, running SE = 564842672.4070
+2022-12-04 19:48:45,336 - main - DEBUG - Batch 400: running loss = 48.7534, running AE = 437955.4839, running SE = 713132649.0867
+2022-12-04 19:49:01,334 - main - DEBUG - Batch 500: running loss = 60.7693, running AE = 543032.3965, running SE = 886715826.9448
+2022-12-04 19:49:17,612 - main - DEBUG - Batch 600: running loss = 73.1090, running AE = 664336.9492, running SE = 1105710079.9525
+2022-12-04 19:49:34,478 - main - DEBUG - Batch 700: running loss = 85.1326, running AE = 770723.3433, running SE = 1281609687.7542
+2022-12-04 19:49:52,084 - main - DEBUG - Batch 800: running loss = 97.3365, running AE = 894413.2876, running SE = 1516847372.2664
+2022-12-04 19:50:10,533 - main - DEBUG - Batch 900: running loss = 109.6670, running AE = 1018455.8301, running SE = 1743804695.1168
+2022-12-04 19:50:28,959 - main - DEBUG - Batch 1000: running loss = 122.0580, running AE = 1137410.5122, running SE = 1966224313.8844
+2022-12-04 19:50:47,918 - main - DEBUG - Batch 1100: running loss = 134.3719, running AE = 1251614.1865, running SE = 2170784058.4117
+2022-12-04 19:51:07,543 - main - DEBUG - Batch 1200: running loss = 146.6602, running AE = 1372243.6025, running SE = 2413797736.3043
+2022-12-04 19:51:28,090 - main - DEBUG - Batch 1300: running loss = 158.7555, running AE = 1479559.3335, running SE = 2591615787.5203
+2022-12-04 19:51:50,570 - main - DEBUG - Batch 1400: running loss = 170.6932, running AE = 1597032.5972, running SE = 2807832619.4945
+2022-12-04 19:52:15,181 - main - DEBUG - Batch 1500: running loss = 182.7982, running AE = 1700961.0449, running SE = 2984974305.5674
+2022-12-04 19:52:40,044 - main - DEBUG - Batch 1600: running loss = 195.1991, running AE = 1809396.5122, running SE = 3181213703.9676
+2022-12-04 19:53:05,078 - main - DEBUG - Batch 1700: running loss = 207.0700, running AE = 1909801.1821, running SE = 3346881885.4152
+2022-12-04 19:53:30,027 - main - DEBUG - Batch 1800: running loss = 219.4488, running AE = 2031381.1699, running SE = 3583339960.0175
+2022-12-04 19:53:55,064 - main - DEBUG - Batch 1900: running loss = 231.6179, running AE = 2147256.7114, running SE = 3789851033.9637
+2022-12-04 19:54:19,903 - main - DEBUG - Batch 2000: running loss = 243.6971, running AE = 2262547.7134, running SE = 4008160565.4141
+2022-12-04 19:54:44,691 - main - DEBUG - Batch 2100: running loss = 255.7926, running AE = 2369166.3540, running SE = 4199788653.1024
+2022-12-04 19:55:09,765 - main - DEBUG - Batch 2200: running loss = 267.9118, running AE = 2478268.3540, running SE = 4390427014.9999
+2022-12-04 19:55:13,021 - main - INFO - Epoch 13 - train: epoch loss = 0.1217, MAE = 1128.7405, MSE = 1415.6047
+2022-12-04 19:55:13,022 - main - INFO - validating...
+2022-12-04 19:55:39,021 - main - DEBUG - Batch 100: running loss = 8.4603, running AE = 270454.8818, running SE = 965591840.8017
+2022-12-04 19:56:05,220 - main - DEBUG - Batch 200: running loss = 15.4937, running AE = 585560.2959, running SE = 2087613801.0793
+2022-12-04 19:56:31,750 - main - DEBUG - Batch 300: running loss = 25.1230, running AE = 820767.3218, running SE = 2804572104.6345
+2022-12-04 19:56:58,274 - main - DEBUG - Batch 400: running loss = 36.6741, running AE = 1129328.4551, running SE = 4263366926.4180
+2022-12-04 19:57:24,511 - main - DEBUG - Batch 500: running loss = 41.5382, running AE = 1560909.1309, running SE = 6372600237.2034
+2022-12-04 19:57:50,838 - main - DEBUG - Batch 600: running loss = 49.9820, running AE = 1840205.2251, running SE = 7423419380.9807
+2022-12-04 19:58:17,202 - main - DEBUG - Batch 700: running loss = 66.1997, running AE = 2156544.4722, running SE = 9553239572.6802
+2022-12-04 19:58:43,451 - main - DEBUG - Batch 800: running loss = 77.5253, running AE = 2357975.9194, running SE = 10134660562.1207
+2022-12-04 19:59:09,752 - main - DEBUG - Batch 900: running loss = 91.1218, running AE = 2697470.6152, running SE = 11470876125.1675
+2022-12-04 19:59:35,935 - main - DEBUG - Batch 1000: running loss = 99.0127, running AE = 3037905.5435, running SE = 12814218543.7419
+2022-12-04 19:59:48,859 - main - INFO - Epoch 13 - val: epoch loss = 0.0985, MAE = 3016.5081, MSE = 3548.9012
+2022-12-04 19:59:48,860 - main - INFO - Epoch 14/2000
+2022-12-04 19:59:48,861 - main - INFO - ----------------------------
+2022-12-04 19:59:48,862 - main - INFO - training...
+2022-12-04 20:00:02,882 - main - DEBUG - Batch 100: running loss = 12.2162, running AE = 106136.9219, running SE = 166676046.8698
+2022-12-04 20:00:16,650 - main - DEBUG - Batch 200: running loss = 24.5336, running AE = 216441.5435, running SE = 369762474.6186
+2022-12-04 20:00:31,481 - main - DEBUG - Batch 300: running loss = 36.6092, running AE = 345299.2070, running SE = 612984449.2628
+2022-12-04 20:00:46,925 - main - DEBUG - Batch 400: running loss = 49.0315, running AE = 452276.5151, running SE = 811730439.2896
+2022-12-04 20:01:02,863 - main - DEBUG - Batch 500: running loss = 61.2510, running AE = 569113.1729, running SE = 1015268365.9698
+2022-12-04 20:01:19,784 - main - DEBUG - Batch 600: running loss = 73.1081, running AE = 661458.9702, running SE = 1142744882.1459
+2022-12-04 20:01:37,052 - main - DEBUG - Batch 700: running loss = 85.7101, running AE = 774087.5908, running SE = 1344021592.8360
+2022-12-04 20:01:54,716 - main - DEBUG - Batch 800: running loss = 97.7937, running AE = 889196.0229, running SE = 1554072599.8953
+2022-12-04 20:02:12,680 - main - DEBUG - Batch 900: running loss = 110.1720, running AE = 997871.5923, running SE = 1759609693.8866
+2022-12-04 20:02:31,633 - main - DEBUG - Batch 1000: running loss = 122.1899, running AE = 1106413.3701, running SE = 1938182272.3013
+2022-12-04 20:02:51,150 - main - DEBUG - Batch 1100: running loss = 134.5338, running AE = 1230448.5420, running SE = 2171517435.0026
+2022-12-04 20:03:11,601 - main - DEBUG - Batch 1200: running loss = 146.5088, running AE = 1334743.6284, running SE = 2359370797.5069
+2022-12-04 20:03:32,502 - main - DEBUG - Batch 1300: running loss = 158.9939, running AE = 1448337.8315, running SE = 2560363852.7307
+2022-12-04 20:03:55,234 - main - DEBUG - Batch 1400: running loss = 170.9235, running AE = 1559801.2520, running SE = 2766827841.3506
+2022-12-04 20:04:19,342 - main - DEBUG - Batch 1500: running loss = 182.9895, running AE = 1684122.8945, running SE = 2995902719.7871
+2022-12-04 20:04:44,472 - main - DEBUG - Batch 1600: running loss = 194.9608, running AE = 1798347.5312, running SE = 3191101874.4380
+2022-12-04 20:05:09,414 - main - DEBUG - Batch 1700: running loss = 207.3309, running AE = 1908328.4780, running SE = 3387039499.9182
+2022-12-04 20:05:34,338 - main - DEBUG - Batch 1800: running loss = 219.5721, running AE = 2021428.6914, running SE = 3587579606.3371
+2022-12-04 20:05:59,308 - main - DEBUG - Batch 1900: running loss = 231.8518, running AE = 2126247.2354, running SE = 3763635265.0682
+2022-12-04 20:06:24,251 - main - DEBUG - Batch 2000: running loss = 244.1700, running AE = 2234047.7666, running SE = 3961500843.1836
+2022-12-04 20:06:49,481 - main - DEBUG - Batch 2100: running loss = 255.5933, running AE = 2345810.6357, running SE = 4149797827.0811
+2022-12-04 20:07:14,644 - main - DEBUG - Batch 2200: running loss = 267.8784, running AE = 2456018.1660, running SE = 4335341757.3512
+2022-12-04 20:07:17,878 - main - INFO - Epoch 14 - train: epoch loss = 0.1217, MAE = 1116.6111, MSE = 1403.4461
+2022-12-04 20:07:17,879 - main - INFO - validating...
+2022-12-04 20:07:43,838 - main - DEBUG - Batch 100: running loss = 8.4590, running AE = 270058.7988, running SE = 963188377.7207
+2022-12-04 20:08:10,207 - main - DEBUG - Batch 200: running loss = 15.4905, running AE = 584691.2075, running SE = 2081881856.3900
+2022-12-04 20:08:36,618 - main - DEBUG - Batch 300: running loss = 25.1189, running AE = 819568.1772, running SE = 2797195085.2537
+2022-12-04 20:09:03,014 - main - DEBUG - Batch 400: running loss = 36.6697, running AE = 1128019.3027, running SE = 4255591612.3185
+2022-12-04 20:09:29,350 - main - DEBUG - Batch 500: running loss = 41.5312, running AE = 1559061.0117, running SE = 6360089879.8463
+2022-12-04 20:09:55,823 - main - DEBUG - Batch 600: running loss = 49.9737, running AE = 1838016.1216, running SE = 7408495547.8658
+2022-12-04 20:10:22,363 - main - DEBUG - Batch 700: running loss = 66.1928, running AE = 2154575.3882, running SE = 9540944274.9082
+2022-12-04 20:10:48,809 - main - DEBUG - Batch 800: running loss = 77.5181, running AE = 2355896.8057, running SE = 10121820581.5796
+2022-12-04 20:11:15,454 - main - DEBUG - Batch 900: running loss = 91.1151, running AE = 2695468.5132, running SE = 11458964688.0874
+2022-12-04 20:11:41,891 - main - DEBUG - Batch 1000: running loss = 99.0044, running AE = 3035595.4131, running SE = 12799534615.1262
+2022-12-04 20:11:54,933 - main - INFO - Epoch 14 - val: epoch loss = 0.0985, MAE = 3014.1646, MSE = 3546.7843
+2022-12-04 20:11:54,934 - main - INFO - Epoch 15/2000
+2022-12-04 20:11:54,935 - main - INFO - ----------------------------
+2022-12-04 20:11:54,935 - main - INFO - training...
+2022-12-04 20:12:08,969 - main - DEBUG - Batch 100: running loss = 11.9618, running AE = 113204.1426, running SE = 204494437.5152
+2022-12-04 20:12:23,657 - main - DEBUG - Batch 200: running loss = 24.3571, running AE = 235905.6113, running SE = 454308358.8678
+2022-12-04 20:12:38,309 - main - DEBUG - Batch 300: running loss = 35.9240, running AE = 351793.6631, running SE = 667296732.8383
+2022-12-04 20:12:53,921 - main - DEBUG - Batch 400: running loss = 48.1239, running AE = 457418.5234, running SE = 864184003.0231
+2022-12-04 20:13:09,923 - main - DEBUG - Batch 500: running loss = 60.3569, running AE = 564424.6401, running SE = 1045826556.8968
+2022-12-04 20:13:26,781 - main - DEBUG - Batch 600: running loss = 72.4231, running AE = 671802.8179, running SE = 1224044648.1954
+2022-12-04 20:13:44,538 - main - DEBUG - Batch 700: running loss = 84.7924, running AE = 780842.9946, running SE = 1429938353.5196
+2022-12-04 20:14:02,725 - main - DEBUG - Batch 800: running loss = 97.0666, running AE = 903096.0303, running SE = 1651699278.1004
+2022-12-04 20:14:21,710 - main - DEBUG - Batch 900: running loss = 109.2476, running AE = 1023728.4189, running SE = 1898763531.2054
+2022-12-04 20:14:40,743 - main - DEBUG - Batch 1000: running loss = 121.2532, running AE = 1147794.4497, running SE = 2131551218.3694
+2022-12-04 20:15:00,624 - main - DEBUG - Batch 1100: running loss = 133.3937, running AE = 1253040.2231, running SE = 2310215815.3583
+2022-12-04 20:15:21,518 - main - DEBUG - Batch 1200: running loss = 145.6584, running AE = 1359372.7212, running SE = 2496263796.6268
+2022-12-04 20:15:43,264 - main - DEBUG - Batch 1300: running loss = 157.7901, running AE = 1483372.1665, running SE = 2749478849.4158
+2022-12-04 20:16:06,347 - main - DEBUG - Batch 1400: running loss = 169.8007, running AE = 1592204.3906, running SE = 2939414037.1783
+2022-12-04 20:16:30,840 - main - DEBUG - Batch 1500: running loss = 182.0242, running AE = 1687506.7520, running SE = 3083249918.9796
+2022-12-04 20:16:55,825 - main - DEBUG - Batch 1600: running loss = 193.9484, running AE = 1790542.8296, running SE = 3258423115.2251
+2022-12-04 20:17:20,766 - main - DEBUG - Batch 1700: running loss = 206.0417, running AE = 1889266.4272, running SE = 3413485817.0479
+2022-12-04 20:17:45,721 - main - DEBUG - Batch 1800: running loss = 218.1762, running AE = 1999303.8501, running SE = 3606717517.8233
+2022-12-04 20:18:10,565 - main - DEBUG - Batch 1900: running loss = 230.8323, running AE = 2118766.0889, running SE = 3829214747.0050
+2022-12-04 20:18:35,497 - main - DEBUG - Batch 2000: running loss = 243.2974, running AE = 2234564.5615, running SE = 4035313166.2590
+2022-12-04 20:19:00,467 - main - DEBUG - Batch 2100: running loss = 255.4375, running AE = 2342851.6660, running SE = 4232563307.5086
+2022-12-04 20:19:25,455 - main - DEBUG - Batch 2200: running loss = 267.8147, running AE = 2445852.0410, running SE = 4390880216.6523
+2022-12-04 20:19:28,691 - main - INFO - Epoch 15 - train: epoch loss = 0.1217, MAE = 1112.1999, MSE = 1412.4697
+2022-12-04 20:19:28,692 - main - INFO - validating...
+2022-12-04 20:19:54,646 - main - DEBUG - Batch 100: running loss = 8.4616, running AE = 270840.2607, running SE = 967884862.7217
+2022-12-04 20:20:20,830 - main - DEBUG - Batch 200: running loss = 15.4968, running AE = 586396.0928, running SE = 2093081978.9073
+2022-12-04 20:20:47,068 - main - DEBUG - Batch 300: running loss = 25.1270, running AE = 821917.2720, running SE = 2811611622.1175
+2022-12-04 20:21:13,455 - main - DEBUG - Batch 400: running loss = 36.6782, running AE = 1130583.1382, running SE = 4270791357.3030
+2022-12-04 20:21:40,119 - main - DEBUG - Batch 500: running loss = 41.5449, running AE = 1562677.1304, running SE = 6384540112.0008
+2022-12-04 20:22:06,277 - main - DEBUG - Batch 600: running loss = 49.9900, running AE = 1842297.9639, running SE = 7437663448.4578
+2022-12-04 20:22:32,907 - main - DEBUG - Batch 700: running loss = 66.2063, running AE = 2158427.7422, running SE = 9564986555.7904
+2022-12-04 20:22:59,532 - main - DEBUG - Batch 800: running loss = 77.5321, running AE = 2359963.8960, running SE = 10146931497.5470
+2022-12-04 20:23:26,247 - main - DEBUG - Batch 900: running loss = 91.1281, running AE = 2699385.2886, running SE = 11482268855.6563
+2022-12-04 20:23:52,652 - main - DEBUG - Batch 1000: running loss = 99.0205, running AE = 3040113.4600, running SE = 12828256241.5817
+2022-12-04 20:24:05,645 - main - INFO - Epoch 15 - val: epoch loss = 0.0985, MAE = 3018.7474, MSE = 3550.9234
+2022-12-04 20:24:05,646 - main - INFO - Epoch 16/2000
+2022-12-04 20:24:05,647 - main - INFO - ----------------------------
+2022-12-04 20:24:05,647 - main - INFO - training...
+2022-12-04 20:24:19,594 - main - DEBUG - Batch 100: running loss = 12.0157, running AE = 114256.4692, running SE = 208585089.5106
+2022-12-04 20:24:34,804 - main - DEBUG - Batch 200: running loss = 23.9188, running AE = 226338.0229, running SE = 405749266.1112
+2022-12-04 20:24:49,893 - main - DEBUG - Batch 300: running loss = 35.8696, running AE = 334237.9058, running SE = 584094901.0870
+2022-12-04 20:25:04,860 - main - DEBUG - Batch 400: running loss = 47.6948, running AE = 442729.4922, running SE = 778371080.2137
+2022-12-04 20:25:21,055 - main - DEBUG - Batch 500: running loss = 60.3054, running AE = 559720.0571, running SE = 991262733.4696
+2022-12-04 20:25:37,594 - main - DEBUG - Batch 600: running loss = 72.4730, running AE = 683921.7720, running SE = 1226042088.1971
+2022-12-04 20:25:54,978 - main - DEBUG - Batch 700: running loss = 84.6655, running AE = 780225.2539, running SE = 1372587278.2044
+2022-12-04 20:26:13,313 - main - DEBUG - Batch 800: running loss = 97.0746, running AE = 888992.2432, running SE = 1563952197.7039
+2022-12-04 20:26:31,002 - main - DEBUG - Batch 900: running loss = 109.1246, running AE = 998919.5581, running SE = 1748166564.5749
+2022-12-04 20:26:50,522 - main - DEBUG - Batch 1000: running loss = 121.7152, running AE = 1100408.3652, running SE = 1916441608.4102
+2022-12-04 20:27:10,470 - main - DEBUG - Batch 1100: running loss = 133.5555, running AE = 1203734.5083, running SE = 2081889940.2035
+2022-12-04 20:27:31,186 - main - DEBUG - Batch 1200: running loss = 145.5962, running AE = 1313013.7949, running SE = 2261503609.6094
+2022-12-04 20:27:53,298 - main - DEBUG - Batch 1300: running loss = 157.7460, running AE = 1405650.0039, running SE = 2409477219.8244
+2022-12-04 20:28:16,685 - main - DEBUG - Batch 1400: running loss = 169.6014, running AE = 1527582.1987, running SE = 2624738086.8055
+2022-12-04 20:28:41,899 - main - DEBUG - Batch 1500: running loss = 181.8124, running AE = 1646440.9868, running SE = 2867786604.8368
+2022-12-04 20:29:06,857 - main - DEBUG - Batch 1600: running loss = 194.3384, running AE = 1764715.4634, running SE = 3083930000.3514
+2022-12-04 20:29:31,896 - main - DEBUG - Batch 1700: running loss = 206.8668, running AE = 1872766.5337, running SE = 3273603547.5787
+2022-12-04 20:29:56,942 - main - DEBUG - Batch 1800: running loss = 218.9683, running AE = 1981575.1548, running SE = 3484313365.2014
+2022-12-04 20:30:21,907 - main - DEBUG - Batch 1900: running loss = 230.8509, running AE = 2082939.2354, running SE = 3658276950.2596
+2022-12-04 20:30:47,011 - main - DEBUG - Batch 2000: running loss = 243.2581, running AE = 2205340.6104, running SE = 3888700058.7851
+2022-12-04 20:31:13,113 - main - DEBUG - Batch 2100: running loss = 255.6286, running AE = 2309498.3545, running SE = 4063057549.4021
+2022-12-04 20:31:39,889 - main - DEBUG - Batch 2200: running loss = 267.8824, running AE = 2415981.1748, running SE = 4247390569.8093
+2022-12-04 20:31:43,171 - main - INFO - Epoch 16 - train: epoch loss = 0.1217, MAE = 1100.4602, MSE = 1391.2638
+2022-12-04 20:31:43,172 - main - INFO - validating...
+2022-12-04 20:32:09,370 - main - DEBUG - Batch 100: running loss = 8.4627, running AE = 271166.9609, running SE = 969822682.3416
+2022-12-04 20:32:36,014 - main - DEBUG - Batch 200: running loss = 15.4994, running AE = 587102.5073, running SE = 2097700813.5473
+2022-12-04 20:33:04,727 - main - DEBUG - Batch 300: running loss = 25.1303, running AE = 822888.5771, running SE = 2817559678.6825
+2022-12-04 20:33:31,587 - main - DEBUG - Batch 400: running loss = 36.6817, running AE = 1131642.7412, running SE = 4277068126.6608
+2022-12-04 20:33:57,827 - main - DEBUG - Batch 500: running loss = 41.5505, running AE = 1564169.4346, running SE = 6394627376.1159
+2022-12-04 20:34:24,249 - main - DEBUG - Batch 600: running loss = 49.9968, running AE = 1844064.0146, running SE = 7449697332.9459
+2022-12-04 20:34:50,721 - main - DEBUG - Batch 700: running loss = 66.2118, running AE = 2160020.4185, running SE = 9574919435.1646
+2022-12-04 20:35:17,182 - main - DEBUG - Batch 800: running loss = 77.5379, running AE = 2361644.8623, running SE = 10157310431.0794
+2022-12-04 20:35:43,606 - main - DEBUG - Batch 900: running loss = 91.1335, running AE = 2701004.4424, running SE = 11491911544.5091
+2022-12-04 20:36:09,938 - main - DEBUG - Batch 1000: running loss = 99.0272, running AE = 3041979.8540, running SE = 12840133251.9237
+2022-12-04 20:36:22,915 - main - INFO - Epoch 16 - val: epoch loss = 0.0985, MAE = 3020.6400, MSE = 3552.6334
+2022-12-04 20:36:22,916 - main - INFO - Epoch 17/2000
+2022-12-04 20:36:22,917 - main - INFO - ----------------------------
+2022-12-04 20:36:22,918 - main - INFO - training...
+2022-12-04 20:36:37,053 - main - DEBUG - Batch 100: running loss = 12.2963, running AE = 101602.2607, running SE = 160316067.8412
+2022-12-04 20:36:52,552 - main - DEBUG - Batch 200: running loss = 24.5798, running AE = 209398.3833, running SE = 338767024.3722
+2022-12-04 20:37:07,076 - main - DEBUG - Batch 300: running loss = 36.7471, running AE = 331939.7397, running SE = 573073198.9228
+2022-12-04 20:37:22,686 - main - DEBUG - Batch 400: running loss = 49.1381, running AE = 437887.6445, running SE = 758437942.1148
+2022-12-04 20:37:39,888 - main - DEBUG - Batch 500: running loss = 61.3035, running AE = 547417.9478, running SE = 942693376.5091
+2022-12-04 20:37:56,924 - main - DEBUG - Batch 600: running loss = 73.2716, running AE = 670617.3384, running SE = 1201693042.3623
+2022-12-04 20:38:14,129 - main - DEBUG - Batch 700: running loss = 85.3696, running AE = 773077.6909, running SE = 1362430105.7118
+2022-12-04 20:38:32,687 - main - DEBUG - Batch 800: running loss = 97.5500, running AE = 883009.5864, running SE = 1543044508.8279
+2022-12-04 20:38:51,444 - main - DEBUG - Batch 900: running loss = 110.1231, running AE = 997201.4126, running SE = 1770608715.3412
+2022-12-04 20:39:10,904 - main - DEBUG - Batch 1000: running loss = 122.6278, running AE = 1091877.2305, running SE = 1927511676.4509
+2022-12-04 20:39:31,250 - main - DEBUG - Batch 1100: running loss = 134.5898, running AE = 1206961.6738, running SE = 2125033545.2185
+2022-12-04 20:39:52,271 - main - DEBUG - Batch 1200: running loss = 146.6483, running AE = 1315812.5112, running SE = 2297807956.2762
+2022-12-04 20:40:15,012 - main - DEBUG - Batch 1300: running loss = 158.9197, running AE = 1423296.6362, running SE = 2481351877.0693
+2022-12-04 20:40:38,902 - main - DEBUG - Batch 1400: running loss = 170.6722, running AE = 1534184.0117, running SE = 2668273015.5833
+2022-12-04 20:41:04,010 - main - DEBUG - Batch 1500: running loss = 182.3809, running AE = 1632029.9531, running SE = 2808433926.0612
+2022-12-04 20:41:29,075 - main - DEBUG - Batch 1600: running loss = 194.3141, running AE = 1740351.3867, running SE = 2986142662.8115
+2022-12-04 20:41:54,145 - main - DEBUG - Batch 1700: running loss = 206.4557, running AE = 1840190.9795, running SE = 3152974174.9400
+2022-12-04 20:42:19,335 - main - DEBUG - Batch 1800: running loss = 218.5103, running AE = 1943221.3354, running SE = 3327360533.2978
+2022-12-04 20:42:44,470 - main - DEBUG - Batch 1900: running loss = 231.1208, running AE = 2047359.9111, running SE = 3497067534.3409
+2022-12-04 20:43:09,654 - main - DEBUG - Batch 2000: running loss = 243.2130, running AE = 2171989.4136, running SE = 3729421944.1268
+2022-12-04 20:43:34,755 - main - DEBUG - Batch 2100: running loss = 255.8130, running AE = 2287081.3804, running SE = 3958391758.1112
+2022-12-04 20:43:59,850 - main - DEBUG - Batch 2200: running loss = 267.7895, running AE = 2391777.4614, running SE = 4128650102.5618
+2022-12-04 20:44:03,114 - main - INFO - Epoch 17 - train: epoch loss = 0.1217, MAE = 1086.1102, MSE = 1368.5907
+2022-12-04 20:44:03,115 - main - INFO - validating...
+2022-12-04 20:44:29,058 - main - DEBUG - Batch 100: running loss = 8.4611, running AE = 270677.6240, running SE = 966921596.1485
+2022-12-04 20:44:55,452 - main - DEBUG - Batch 200: running loss = 15.4955, running AE = 586044.5112, running SE = 2090786115.3757
+2022-12-04 20:45:21,598 - main - DEBUG - Batch 300: running loss = 25.1253, running AE = 821433.8213, running SE = 2808655446.2900
+2022-12-04 20:45:47,829 - main - DEBUG - Batch 400: running loss = 36.6765, running AE = 1130055.7354, running SE = 4267673019.5468
+2022-12-04 20:46:13,884 - main - DEBUG - Batch 500: running loss = 41.5421, running AE = 1561934.4277, running SE = 6379527242.0805
+2022-12-04 20:46:40,235 - main - DEBUG - Batch 600: running loss = 49.9867, running AE = 1841419.0444, running SE = 7431683407.8403
+2022-12-04 20:47:06,986 - main - DEBUG - Batch 700: running loss = 66.2035, running AE = 2157636.7148, running SE = 9560053539.4732
+2022-12-04 20:47:33,646 - main - DEBUG - Batch 800: running loss = 77.5292, running AE = 2359128.9028, running SE = 10141777798.7368
+2022-12-04 20:48:00,255 - main - DEBUG - Batch 900: running loss = 91.1254, running AE = 2698581.0596, running SE = 11477483099.1665
+2022-12-04 20:48:26,802 - main - DEBUG - Batch 1000: running loss = 99.0172, running AE = 3039186.1748, running SE = 12822359834.0099
+2022-12-04 20:48:39,858 - main - INFO - Epoch 17 - val: epoch loss = 0.0985, MAE = 3017.8070, MSE = 3550.0741
+2022-12-04 20:48:39,859 - main - INFO - Epoch 18/2000
+2022-12-04 20:48:39,859 - main - INFO - ----------------------------
+2022-12-04 20:48:39,860 - main - INFO - training...
+2022-12-04 20:48:54,717 - main - DEBUG - Batch 100: running loss = 11.9155, running AE = 110976.9189, running SE = 213908044.5624
+2022-12-04 20:49:09,670 - main - DEBUG - Batch 200: running loss = 24.0300, running AE = 220423.8052, running SE = 421751831.1688
+2022-12-04 20:49:25,953 - main - DEBUG - Batch 300: running loss = 36.1319, running AE = 321472.8374, running SE = 594802840.7826
+2022-12-04 20:49:42,143 - main - DEBUG - Batch 400: running loss = 48.5296, running AE = 429159.9385, running SE = 783739775.1311
+2022-12-04 20:49:59,171 - main - DEBUG - Batch 500: running loss = 60.4614, running AE = 532194.6030, running SE = 942248021.9020
+2022-12-04 20:50:16,991 - main - DEBUG - Batch 600: running loss = 73.1275, running AE = 639860.6753, running SE = 1150411164.3911
+2022-12-04 20:50:34,968 - main - DEBUG - Batch 700: running loss = 85.4333, running AE = 747089.9956, running SE = 1342848130.2178
+2022-12-04 20:50:53,810 - main - DEBUG - Batch 800: running loss = 98.2806, running AE = 868048.6543, running SE = 1583959903.6329
+2022-12-04 20:51:12,923 - main - DEBUG - Batch 900: running loss = 110.0772, running AE = 973168.4004, running SE = 1764346018.5028
+2022-12-04 20:51:32,394 - main - DEBUG - Batch 1000: running loss = 122.0015, running AE = 1082307.3779, running SE = 1936444475.3150
+2022-12-04 20:51:53,299 - main - DEBUG - Batch 1100: running loss = 134.0536, running AE = 1183409.1577, running SE = 2112622341.1094
+2022-12-04 20:52:14,603 - main - DEBUG - Batch 1200: running loss = 146.1519, running AE = 1297435.9067, running SE = 2306179429.9981
+2022-12-04 20:52:37,325 - main - DEBUG - Batch 1300: running loss = 158.4266, running AE = 1397368.4868, running SE = 2473788384.9037
+2022-12-04 20:53:02,029 - main - DEBUG - Batch 1400: running loss = 170.5372, running AE = 1505374.0605, running SE = 2644868360.1672
+2022-12-04 20:53:27,131 - main - DEBUG - Batch 1500: running loss = 182.5263, running AE = 1623448.4707, running SE = 2867219910.4935
+2022-12-04 20:53:52,298 - main - DEBUG - Batch 1600: running loss = 194.4409, running AE = 1727302.8584, running SE = 3027915727.9776
+2022-12-04 20:54:17,577 - main - DEBUG - Batch 1700: running loss = 206.4621, running AE = 1846452.6616, running SE = 3236624445.4979
+2022-12-04 20:54:42,603 - main - DEBUG - Batch 1800: running loss = 218.7504, running AE = 1975022.0405, running SE = 3501071658.0563
+2022-12-04 20:55:07,727 - main - DEBUG - Batch 1900: running loss = 231.2418, running AE = 2080540.9004, running SE = 3680608928.2733
+2022-12-04 20:55:32,875 - main - DEBUG - Batch 2000: running loss = 243.6594, running AE = 2196946.1968, running SE = 3913567260.9225
+2022-12-04 20:55:57,997 - main - DEBUG - Batch 2100: running loss = 255.8356, running AE = 2303992.3823, running SE = 4094862447.1013
+2022-12-04 20:56:23,114 - main - DEBUG - Batch 2200: running loss = 267.8892, running AE = 2411444.0571, running SE = 4271769521.8609
+2022-12-04 20:56:26,377 - main - INFO - Epoch 18 - train: epoch loss = 0.1217, MAE = 1097.5946, MSE = 1394.2834
+2022-12-04 20:56:26,378 - main - INFO - validating...
+2022-12-04 20:56:52,624 - main - DEBUG - Batch 100: running loss = 8.4616, running AE = 270817.9629, running SE = 967752723.3060
+2022-12-04 20:57:19,099 - main - DEBUG - Batch 200: running loss = 15.4966, running AE = 586347.9785, running SE = 2092767707.0426
+2022-12-04 20:57:45,540 - main - DEBUG - Batch 300: running loss = 25.1267, running AE = 821851.0747, running SE = 2811206702.8077
+2022-12-04 20:58:12,034 - main - DEBUG - Batch 400: running loss = 36.6780, running AE = 1130510.9268, running SE = 4270364191.5887
+2022-12-04 20:58:38,274 - main - DEBUG - Batch 500: running loss = 41.5445, running AE = 1562575.5181, running SE = 6383854161.8085
+2022-12-04 20:59:04,719 - main - DEBUG - Batch 600: running loss = 49.9896, running AE = 1842177.7324, running SE = 7436845257.9921
+2022-12-04 20:59:31,174 - main - DEBUG - Batch 700: running loss = 66.2059, running AE = 2158319.5356, running SE = 9564311518.0699
+2022-12-04 20:59:57,579 - main - DEBUG - Batch 800: running loss = 77.5317, running AE = 2359849.6499, running SE = 10146226084.2091
+2022-12-04 21:00:23,920 - main - DEBUG - Batch 900: running loss = 91.1278, running AE = 2699275.2529, running SE = 11481613793.6466
+2022-12-04 21:00:50,269 - main - DEBUG - Batch 1000: running loss = 99.0201, running AE = 3039986.5830, running SE = 12827449083.6994
+2022-12-04 21:01:03,217 - main - INFO - Epoch 18 - val: epoch loss = 0.0985, MAE = 3018.6187, MSE = 3550.8071
+2022-12-04 21:01:03,217 - main - INFO - Epoch 19/2000
+2022-12-04 21:01:03,218 - main - INFO - ----------------------------
+2022-12-04 21:01:03,219 - main - INFO - training...
+2022-12-04 21:01:17,426 - main - DEBUG - Batch 100: running loss = 11.9782, running AE = 110416.4941, running SE = 173152290.2972
+2022-12-04 21:01:31,780 - main - DEBUG - Batch 200: running loss = 23.9270, running AE = 215824.7100, running SE = 356530922.1475
+2022-12-04 21:01:47,175 - main - DEBUG - Batch 300: running loss = 35.6646, running AE = 327740.2046, running SE = 548696498.9436
+2022-12-04 21:02:03,754 - main - DEBUG - Batch 400: running loss = 47.9864, running AE = 427047.8315, running SE = 699508127.1218
+2022-12-04 21:02:20,160 - main - DEBUG - Batch 500: running loss = 60.4827, running AE = 533887.7788, running SE = 908846809.1963
+2022-12-04 21:02:37,427 - main - DEBUG - Batch 600: running loss = 72.9356, running AE = 642357.6670, running SE = 1100535837.0000
+2022-12-04 21:02:55,408 - main - DEBUG - Batch 700: running loss = 85.0533, running AE = 750874.9824, running SE = 1281808310.4803
+2022-12-04 21:03:13,683 - main - DEBUG - Batch 800: running loss = 96.7503, running AE = 869768.9517, running SE = 1496132275.5155
+2022-12-04 21:03:32,841 - main - DEBUG - Batch 900: running loss = 108.9382, running AE = 983301.3228, running SE = 1712448176.5565
+2022-12-04 21:03:52,584 - main - DEBUG - Batch 1000: running loss = 120.8614, running AE = 1073772.4541, running SE = 1846372347.8424
+2022-12-04 21:04:12,352 - main - DEBUG - Batch 1100: running loss = 133.2414, running AE = 1168944.4058, running SE = 2003831349.6675
+2022-12-04 21:04:33,055 - main - DEBUG - Batch 1200: running loss = 145.5689, running AE = 1277569.5356, running SE = 2190394485.3803
+2022-12-04 21:04:55,176 - main - DEBUG - Batch 1300: running loss = 158.1483, running AE = 1412590.2095, running SE = 2480101647.3496
+2022-12-04 21:05:19,041 - main - DEBUG - Batch 1400: running loss = 170.3772, running AE = 1532896.0586, running SE = 2745304861.0050
+2022-12-04 21:05:43,614 - main - DEBUG - Batch 1500: running loss = 182.4276, running AE = 1655136.3247, running SE = 2962171373.1663
+2022-12-04 21:06:08,524 - main - DEBUG - Batch 1600: running loss = 194.5464, running AE = 1778134.7300, running SE = 3195489099.2419
+2022-12-04 21:06:33,562 - main - DEBUG - Batch 1700: running loss = 206.4521, running AE = 1882825.5205, running SE = 3367401322.0281
+2022-12-04 21:06:58,840 - main - DEBUG - Batch 1800: running loss = 219.0205, running AE = 2013214.7676, running SE = 3623215828.0742
+2022-12-04 21:07:23,894 - main - DEBUG - Batch 1900: running loss = 231.2470, running AE = 2127151.3062, running SE = 3831226230.3299
+2022-12-04 21:07:48,982 - main - DEBUG - Batch 2000: running loss = 243.3704, running AE = 2248224.2285, running SE = 4079669129.7332
+2022-12-04 21:08:14,179 - main - DEBUG - Batch 2100: running loss = 255.4567, running AE = 2350174.2954, running SE = 4254940542.0718
+2022-12-04 21:08:39,205 - main - DEBUG - Batch 2200: running loss = 267.7275, running AE = 2460253.2705, running SE = 4441499572.0110
+2022-12-04 21:08:42,469 - main - INFO - Epoch 19 - train: epoch loss = 0.1217, MAE = 1117.8118, MSE = 1420.0969
+2022-12-04 21:08:42,470 - main - INFO - validating...
+2022-12-04 21:09:08,465 - main - DEBUG - Batch 100: running loss = 8.4612, running AE = 270705.5410, running SE = 967086883.2564
+2022-12-04 21:09:34,757 - main - DEBUG - Batch 200: running loss = 15.4957, running AE = 586104.9160, running SE = 2091180468.2039
+2022-12-04 21:10:01,217 - main - DEBUG - Batch 300: running loss = 25.1256, running AE = 821516.8486, running SE = 2809162993.1214
+2022-12-04 21:10:27,776 - main - DEBUG - Batch 400: running loss = 36.6768, running AE = 1130146.3115, running SE = 4268208328.1232
+2022-12-04 21:10:54,375 - main - DEBUG - Batch 500: running loss = 41.5426, running AE = 1562062.0400, running SE = 6380388399.8261
+2022-12-04 21:11:20,882 - main - DEBUG - Batch 600: running loss = 49.9872, running AE = 1841570.0615, running SE = 7432710687.9667
+2022-12-04 21:11:47,363 - main - DEBUG - Batch 700: running loss = 66.2040, running AE = 2157772.6338, running SE = 9560900819.0274
+2022-12-04 21:12:13,758 - main - DEBUG - Batch 800: running loss = 77.5297, running AE = 2359272.3643, running SE = 10142662860.2339
+2022-12-04 21:12:40,136 - main - DEBUG - Batch 900: running loss = 91.1259, running AE = 2698719.2354, running SE = 11478304896.6792
+2022-12-04 21:13:06,555 - main - DEBUG - Batch 1000: running loss = 99.0178, running AE = 3039345.4888, running SE = 12823372314.0115
+2022-12-04 21:13:19,591 - main - INFO - Epoch 19 - val: epoch loss = 0.0985, MAE = 3017.9685, MSE = 3550.2199
+2022-12-04 21:13:19,592 - main - INFO - Epoch 20/2000
+2022-12-04 21:13:19,594 - main - INFO - ----------------------------
+2022-12-04 21:13:19,595 - main - INFO - training...
+2022-12-04 21:13:34,313 - main - DEBUG - Batch 100: running loss = 12.0527, running AE = 118865.3667, running SE = 227015088.3650
+2022-12-04 21:13:49,079 - main - DEBUG - Batch 200: running loss = 23.7462, running AE = 230323.7588, running SE = 419324091.8067
+2022-12-04 21:14:05,317 - main - DEBUG - Batch 300: running loss = 36.0979, running AE = 346226.7773, running SE = 638669214.5870
+2022-12-04 21:14:21,733 - main - DEBUG - Batch 400: running loss = 48.5580, running AE = 455266.5020, running SE = 821944980.4590
+2022-12-04 21:14:38,157 - main - DEBUG - Batch 500: running loss = 60.5535, running AE = 565973.4751, running SE = 1010865906.9213
+2022-12-04 21:14:55,542 - main - DEBUG - Batch 600: running loss = 72.7584, running AE = 670234.5029, running SE = 1170321004.2822
+2022-12-04 21:15:13,236 - main - DEBUG - Batch 700: running loss = 84.8733, running AE = 803102.0054, running SE = 1433110403.7766
+2022-12-04 21:15:31,964 - main - DEBUG - Batch 800: running loss = 96.7763, running AE = 914918.5508, running SE = 1626893920.6049
+2022-12-04 21:15:51,656 - main - DEBUG - Batch 900: running loss = 108.9312, running AE = 1040497.7290, running SE = 1855433061.5726
+2022-12-04 21:16:10,967 - main - DEBUG - Batch 1000: running loss = 120.9594, running AE = 1154111.5825, running SE = 2060071492.1029
+2022-12-04 21:16:31,667 - main - DEBUG - Batch 1100: running loss = 132.7769, running AE = 1264362.3291, running SE = 2263669928.6550
+2022-12-04 21:16:52,517 - main - DEBUG - Batch 1200: running loss = 144.7790, running AE = 1383637.9072, running SE = 2477491408.4270
+2022-12-04 21:17:15,134 - main - DEBUG - Batch 1300: running loss = 157.2282, running AE = 1505688.1660, running SE = 2705347901.5746
+2022-12-04 21:17:38,379 - main - DEBUG - Batch 1400: running loss = 169.7115, running AE = 1606044.6240, running SE = 2892529046.8542
+2022-12-04 21:18:03,292 - main - DEBUG - Batch 1500: running loss = 182.0175, running AE = 1717062.6592, running SE = 3083123675.9790
+2022-12-04 21:18:28,241 - main - DEBUG - Batch 1600: running loss = 194.1328, running AE = 1818771.7954, running SE = 3254367234.6995
+2022-12-04 21:18:53,254 - main - DEBUG - Batch 1700: running loss = 206.4570, running AE = 1945496.7290, running SE = 3536011524.0202
+2022-12-04 21:19:18,333 - main - DEBUG - Batch 1800: running loss = 218.6334, running AE = 2055795.0332, running SE = 3740267153.3826
+2022-12-04 21:19:43,323 - main - DEBUG - Batch 1900: running loss = 230.8496, running AE = 2158818.5708, running SE = 3922494791.9719
+2022-12-04 21:20:08,439 - main - DEBUG - Batch 2000: running loss = 243.3661, running AE = 2265055.4834, running SE = 4092205498.5783
+2022-12-04 21:20:33,489 - main - DEBUG - Batch 2100: running loss = 255.6158, running AE = 2377569.3545, running SE = 4287790598.3259
+2022-12-04 21:20:58,503 - main - DEBUG - Batch 2200: running loss = 267.8261, running AE = 2488273.0830, running SE = 4479568804.4864
+2022-12-04 21:21:01,764 - main - INFO - Epoch 20 - train: epoch loss = 0.1217, MAE = 1129.5019, MSE = 1425.2835
+2022-12-04 21:21:01,765 - main - INFO - validating...
+2022-12-04 21:21:27,968 - main - DEBUG - Batch 100: running loss = 8.4630, running AE = 271239.9878, running SE = 970256346.0467
+2022-12-04 21:21:54,254 - main - DEBUG - Batch 200: running loss = 15.5000, running AE = 587260.4946, running SE = 2098734895.9146
+2022-12-04 21:22:20,824 - main - DEBUG - Batch 300: running loss = 25.1310, running AE = 823105.7554, running SE = 2818891263.4830
+2022-12-04 21:22:47,404 - main - DEBUG - Batch 400: running loss = 36.6825, running AE = 1131879.6670, running SE = 4278473793.3692
+2022-12-04 21:23:13,830 - main - DEBUG - Batch 500: running loss = 41.5518, running AE = 1564503.2148, running SE = 6396886540.6524
+2022-12-04 21:23:40,436 - main - DEBUG - Batch 600: running loss = 49.9983, running AE = 1844459.0146, running SE = 7452392372.1661
+2022-12-04 21:24:07,203 - main - DEBUG - Batch 700: running loss = 66.2131, running AE = 2160377.8989, running SE = 9577145197.2794
+2022-12-04 21:24:33,743 - main - DEBUG - Batch 800: running loss = 77.5392, running AE = 2362022.0708, running SE = 10159636403.8016
+2022-12-04 21:25:00,382 - main - DEBUG - Batch 900: running loss = 91.1347, running AE = 2701367.8354, running SE = 11494073494.0281
+2022-12-04 21:25:26,757 - main - DEBUG - Batch 1000: running loss = 99.0287, running AE = 3042398.5439, running SE = 12842795384.7822
+2022-12-04 21:25:39,739 - main - INFO - Epoch 20 - val: epoch loss = 0.0985, MAE = 3021.0645, MSE = 3553.0165
+2022-12-04 21:25:39,758 - main - INFO - Saved the model at epoch 20.
+2022-12-04 21:25:39,759 - main - INFO - Epoch 21/2000
+2022-12-04 21:25:39,759 - main - INFO - ----------------------------
+2022-12-04 21:25:39,760 - main - INFO - training...
+2022-12-04 21:25:54,304 - main - DEBUG - Batch 100: running loss = 11.8714, running AE = 93923.7441, running SE = 131338131.2073
+2022-12-04 21:26:09,218 - main - DEBUG - Batch 200: running loss = 23.7513, running AE = 195190.4585, running SE = 290397785.4324
+2022-12-04 21:26:25,126 - main - DEBUG - Batch 300: running loss = 35.8417, running AE = 304282.6021, running SE = 465538251.7369
+2022-12-04 21:26:41,349 - main - DEBUG - Batch 400: running loss = 47.9160, running AE = 414019.9707, running SE = 644680273.5989
+2022-12-04 21:26:58,505 - main - DEBUG - Batch 500: running loss = 59.9820, running AE = 518260.6279, running SE = 816275038.9470
+2022-12-04 21:27:15,809 - main - DEBUG - Batch 600: running loss = 72.0074, running AE = 631972.3403, running SE = 1004874395.9680
+2022-12-04 21:27:35,793 - main - DEBUG - Batch 700: running loss = 84.5480, running AE = 734382.4165, running SE = 1172105401.1329
+2022-12-04 21:27:54,400 - main - DEBUG - Batch 800: running loss = 96.3828, running AE = 856342.3828, running SE = 1413667222.7612
+2022-12-04 21:28:13,320 - main - DEBUG - Batch 900: running loss = 108.8908, running AE = 961807.1919, running SE = 1592061075.9292
+2022-12-04 21:28:32,763 - main - DEBUG - Batch 1000: running loss = 121.3631, running AE = 1087068.6616, running SE = 1894180193.4071
+2022-12-04 21:28:53,298 - main - DEBUG - Batch 1100: running loss = 133.2525, running AE = 1194188.6064, running SE = 2077018749.6864
+2022-12-04 21:29:14,537 - main - DEBUG - Batch 1200: running loss = 145.2121, running AE = 1302815.3691, running SE = 2258457050.1843
+2022-12-04 21:29:37,243 - main - DEBUG - Batch 1300: running loss = 157.8270, running AE = 1427259.0488, running SE = 2488070658.8426
+2022-12-04 21:30:01,167 - main - DEBUG - Batch 1400: running loss = 170.0117, running AE = 1549932.0264, running SE = 2710082533.8770
+2022-12-04 21:30:26,167 - main - DEBUG - Batch 1500: running loss = 182.2124, running AE = 1652278.6450, running SE = 2871183345.8223
+2022-12-04 21:30:51,265 - main - DEBUG - Batch 1600: running loss = 194.5923, running AE = 1776482.7656, running SE = 3105202460.1996
+2022-12-04 21:31:16,343 - main - DEBUG - Batch 1700: running loss = 206.7591, running AE = 1892080.7417, running SE = 3327338024.9791
+2022-12-04 21:31:41,366 - main - DEBUG - Batch 1800: running loss = 218.7503, running AE = 2018758.9082, running SE = 3558046980.9488
+2022-12-04 21:32:06,499 - main - DEBUG - Batch 1900: running loss = 231.0841, running AE = 2115687.6177, running SE = 3714081746.2763
+2022-12-04 21:32:31,513 - main - DEBUG - Batch 2000: running loss = 243.1549, running AE = 2222355.3110, running SE = 3884334913.4880
+2022-12-04 21:32:56,483 - main - DEBUG - Batch 2100: running loss = 255.5420, running AE = 2351454.8633, running SE = 4127499174.1951
+2022-12-04 21:33:21,504 - main - DEBUG - Batch 2200: running loss = 267.6198, running AE = 2467864.3892, running SE = 4338968722.8313
+2022-12-04 21:33:24,758 - main - INFO - Epoch 21 - train: epoch loss = 0.1217, MAE = 1120.4294, MSE = 1403.4742
+2022-12-04 21:33:24,759 - main - INFO - validating...
+2022-12-04 21:33:50,734 - main - DEBUG - Batch 100: running loss = 8.4627, running AE = 271165.5137, running SE = 969814080.5599
+2022-12-04 21:34:16,958 - main - DEBUG - Batch 200: running loss = 15.4994, running AE = 587099.4595, running SE = 2097680910.6181
+2022-12-04 21:34:43,189 - main - DEBUG - Batch 300: running loss = 25.1303, running AE = 822884.3228, running SE = 2817533654.9546
+2022-12-04 21:35:09,581 - main - DEBUG - Batch 400: running loss = 36.6817, running AE = 1131638.1089, running SE = 4277040726.5137
+2022-12-04 21:35:35,778 - main - DEBUG - Batch 500: running loss = 41.5505, running AE = 1564163.0688, running SE = 6394584737.1748
+2022-12-04 21:36:02,117 - main - DEBUG - Batch 600: running loss = 49.9967, running AE = 1844056.4570, running SE = 7449646193.1435
+2022-12-04 21:36:28,535 - main - DEBUG - Batch 700: running loss = 66.2118, running AE = 2160013.5947, running SE = 9574877429.5794
+2022-12-04 21:36:54,475 - main - DEBUG - Batch 800: running loss = 77.5379, running AE = 2361637.6396, running SE = 10157266415.4246
+2022-12-04 21:37:18,830 - main - DEBUG - Batch 900: running loss = 91.1335, running AE = 2700997.4976, running SE = 11491870827.3231
+2022-12-04 21:37:45,445 - main - DEBUG - Batch 1000: running loss = 99.0271, running AE = 3041971.8535, running SE = 12840082893.8473
+2022-12-04 21:37:58,557 - main - INFO - Epoch 21 - val: epoch loss = 0.0985, MAE = 3020.6319, MSE = 3552.6261
+2022-12-04 21:37:58,558 - main - INFO - Epoch 22/2000
+2022-12-04 21:37:58,558 - main - INFO - ----------------------------
+2022-12-04 21:37:58,559 - main - INFO - training...
+2022-12-04 21:38:13,094 - main - DEBUG - Batch 100: running loss = 12.1947, running AE = 117199.2939, running SE = 216194397.5229
+2022-12-04 21:38:28,621 - main - DEBUG - Batch 200: running loss = 24.0574, running AE = 230144.9937, running SE = 417730662.7345
+2022-12-04 21:38:44,557 - main - DEBUG - Batch 300: running loss = 36.1684, running AE = 333010.8833, running SE = 585080868.1630
+2022-12-04 21:39:01,359 - main - DEBUG - Batch 400: running loss = 48.1091, running AE = 428413.3726, running SE = 725704622.4261
+2022-12-04 21:39:18,951 - main - DEBUG - Batch 500: running loss = 60.1041, running AE = 547660.3389, running SE = 943334956.1140
+2022-12-04 21:39:36,948 - main - DEBUG - Batch 600: running loss = 72.3990, running AE = 659910.7939, running SE = 1152990088.3849
+2022-12-04 21:39:55,130 - main - DEBUG - Batch 700: running loss = 84.2521, running AE = 766602.1626, running SE = 1327606359.4178
+2022-12-04 21:40:14,258 - main - DEBUG - Batch 800: running loss = 96.6250, running AE = 887048.5747, running SE = 1561929597.4149
+2022-12-04 21:40:33,604 - main - DEBUG - Batch 900: running loss = 108.9675, running AE = 993654.0083, running SE = 1726924176.3389
+2022-12-04 21:40:53,844 - main - DEBUG - Batch 1000: running loss = 121.1204, running AE = 1103473.5928, running SE = 1914145303.3105
+2022-12-04 21:41:14,878 - main - DEBUG - Batch 1100: running loss = 133.4406, running AE = 1220814.2915, running SE = 2134235086.2016
+2022-12-04 21:41:36,450 - main - DEBUG - Batch 1200: running loss = 145.8169, running AE = 1326344.5400, running SE = 2317727110.6851
+2022-12-04 21:41:58,846 - main - DEBUG - Batch 1300: running loss = 157.7931, running AE = 1431861.9126, running SE = 2486571918.7767
+2022-12-04 21:42:22,834 - main - DEBUG - Batch 1400: running loss = 170.0031, running AE = 1536861.7998, running SE = 2681343357.5675
+2022-12-04 21:42:47,581 - main - DEBUG - Batch 1500: running loss = 182.0987, running AE = 1639018.9082, running SE = 2842863199.7959
+2022-12-04 21:43:12,661 - main - DEBUG - Batch 1600: running loss = 194.2537, running AE = 1732580.1729, running SE = 2988743656.9036
+2022-12-04 21:43:37,750 - main - DEBUG - Batch 1700: running loss = 206.0288, running AE = 1835860.7070, running SE = 3164621458.0468
+2022-12-04 21:44:02,864 - main - DEBUG - Batch 1800: running loss = 218.3847, running AE = 1947542.3838, running SE = 3365314846.7058
+2022-12-04 21:44:27,967 - main - DEBUG - Batch 1900: running loss = 231.0680, running AE = 2064219.1201, running SE = 3586880254.2764
+2022-12-04 21:44:53,053 - main - DEBUG - Batch 2000: running loss = 243.2198, running AE = 2169647.6885, running SE = 3753849010.9257
+2022-12-04 21:45:18,182 - main - DEBUG - Batch 2100: running loss = 255.2749, running AE = 2287987.1021, running SE = 3957441181.8082
+2022-12-04 21:45:43,295 - main - DEBUG - Batch 2200: running loss = 267.7508, running AE = 2398250.1616, running SE = 4153375328.8783
+2022-12-04 21:45:46,567 - main - INFO - Epoch 22 - train: epoch loss = 0.1217, MAE = 1090.2767, MSE = 1373.9248
+2022-12-04 21:45:46,568 - main - INFO - validating...
+2022-12-04 21:46:12,433 - main - DEBUG - Batch 100: running loss = 8.4632, running AE = 271302.9531, running SE = 970630484.8343
+2022-12-04 21:46:38,623 - main - DEBUG - Batch 200: running loss = 15.5005, running AE = 587396.6167, running SE = 2099626198.1024
+2022-12-04 21:47:04,812 - main - DEBUG - Batch 300: running loss = 25.1317, running AE = 823292.8892, running SE = 2820039162.3036
+2022-12-04 21:47:31,066 - main - DEBUG - Batch 400: running loss = 36.6832, running AE = 1132083.8232, running SE = 4279685662.0307
+2022-12-04 21:47:57,321 - main - DEBUG - Batch 500: running loss = 41.5529, running AE = 1564790.8760, running SE = 6398834434.6889
+2022-12-04 21:48:23,767 - main - DEBUG - Batch 600: running loss = 49.9996, running AE = 1844799.3779, running SE = 7454715600.7241
+2022-12-04 21:48:50,079 - main - DEBUG - Batch 700: running loss = 66.2141, running AE = 2160685.9585, running SE = 9579064461.1084
+2022-12-04 21:49:16,295 - main - DEBUG - Batch 800: running loss = 77.5404, running AE = 2362347.1621, running SE = 10161642392.2214
+2022-12-04 21:49:42,666 - main - DEBUG - Batch 900: running loss = 91.1358, running AE = 2701681.0205, running SE = 11495938312.4871
+2022-12-04 21:50:08,953 - main - DEBUG - Batch 1000: running loss = 99.0300, running AE = 3042759.4009, running SE = 12845091541.5461
+2022-12-04 21:50:21,848 - main - INFO - Epoch 22 - val: epoch loss = 0.0985, MAE = 3021.4304, MSE = 3553.3469
+2022-12-04 21:50:21,848 - main - INFO - Epoch 23/2000
+2022-12-04 21:50:21,849 - main - INFO - ----------------------------
+2022-12-04 21:50:21,850 - main - INFO - training...
+2022-12-04 21:50:36,030 - main - DEBUG - Batch 100: running loss = 12.1682, running AE = 107564.6455, running SE = 178123379.1841
+2022-12-04 21:50:51,133 - main - DEBUG - Batch 200: running loss = 24.2480, running AE = 214620.8979, running SE = 384233199.0568
+2022-12-04 21:51:06,423 - main - DEBUG - Batch 300: running loss = 36.6605, running AE = 334541.1172, running SE = 641401462.4245
+2022-12-04 21:51:22,077 - main - DEBUG - Batch 400: running loss = 48.6229, running AE = 437415.5117, running SE = 818814763.3147
+2022-12-04 21:51:38,648 - main - DEBUG - Batch 500: running loss = 60.9310, running AE = 534606.3174, running SE = 985775850.4059
+2022-12-04 21:51:56,250 - main - DEBUG - Batch 600: running loss = 73.0626, running AE = 643387.8232, running SE = 1165870037.1751
+2022-12-04 21:52:14,927 - main - DEBUG - Batch 700: running loss = 85.0082, running AE = 745128.6787, running SE = 1319444354.1430
+2022-12-04 21:52:33,105 - main - DEBUG - Batch 800: running loss = 97.5714, running AE = 863199.9409, running SE = 1589052669.4974
+2022-12-04 21:52:52,408 - main - DEBUG - Batch 900: running loss = 109.5238, running AE = 975149.1289, running SE = 1760937680.0890
+2022-12-04 21:53:12,326 - main - DEBUG - Batch 1000: running loss = 121.3845, running AE = 1080324.5200, running SE = 1928155953.5179
+2022-12-04 21:53:33,136 - main - DEBUG - Batch 1100: running loss = 133.8151, running AE = 1175154.0635, running SE = 2123259092.0830
+2022-12-04 21:53:54,921 - main - DEBUG - Batch 1200: running loss = 146.0769, running AE = 1283489.0400, running SE = 2317142183.7309
+2022-12-04 21:54:18,158 - main - DEBUG - Batch 1300: running loss = 158.3157, running AE = 1400083.8413, running SE = 2539976129.9029
+2022-12-04 21:54:42,141 - main - DEBUG - Batch 1400: running loss = 170.5868, running AE = 1518360.5806, running SE = 2754019083.8569
+2022-12-04 21:55:07,333 - main - DEBUG - Batch 1500: running loss = 182.3507, running AE = 1622456.8462, running SE = 2910579551.3769
+2022-12-04 21:55:32,662 - main - DEBUG - Batch 1600: running loss = 194.9675, running AE = 1731216.9121, running SE = 3103821048.9490
+2022-12-04 21:55:57,840 - main - DEBUG - Batch 1700: running loss = 207.3227, running AE = 1837739.8164, running SE = 3308105599.5335
+2022-12-04 21:56:22,975 - main - DEBUG - Batch 1800: running loss = 219.3449, running AE = 1946829.2925, running SE = 3480640878.8787
+2022-12-04 21:56:48,049 - main - DEBUG - Batch 1900: running loss = 231.4023, running AE = 2064665.6079, running SE = 3706405747.0439
+2022-12-04 21:57:13,222 - main - DEBUG - Batch 2000: running loss = 243.7180, running AE = 2171385.0083, running SE = 3895528050.4524
+2022-12-04 21:57:38,268 - main - DEBUG - Batch 2100: running loss = 255.8865, running AE = 2288994.4111, running SE = 4102335269.0818
+2022-12-04 21:58:03,459 - main - DEBUG - Batch 2200: running loss = 268.0021, running AE = 2390314.7480, running SE = 4259850070.6492
+2022-12-04 21:58:06,722 - main - INFO - Epoch 23 - train: epoch loss = 0.1217, MAE = 1089.9979, MSE = 1395.8289
+2022-12-04 21:58:06,723 - main - INFO - validating...
+2022-12-04 21:58:32,681 - main - DEBUG - Batch 100: running loss = 8.4627, running AE = 271153.2056, running SE = 969741125.0680
+2022-12-04 21:58:58,857 - main - DEBUG - Batch 200: running loss = 15.4993, running AE = 587072.7207, running SE = 2097506025.0968
+2022-12-04 21:59:25,133 - main - DEBUG - Batch 300: running loss = 25.1301, running AE = 822847.5869, running SE = 2817308615.6964
+2022-12-04 21:59:51,521 - main - DEBUG - Batch 400: running loss = 36.6816, running AE = 1131598.0264, running SE = 4276802874.1526
+2022-12-04 22:00:17,811 - main - DEBUG - Batch 500: running loss = 41.5503, running AE = 1564107.0825, running SE = 6394206966.6756
+2022-12-04 22:00:44,280 - main - DEBUG - Batch 600: running loss = 49.9965, running AE = 1843990.1138, running SE = 7449194829.1072
+2022-12-04 22:01:10,715 - main - DEBUG - Batch 700: running loss = 66.2116, running AE = 2159953.7646, running SE = 9574507513.4724
+2022-12-04 22:01:36,791 - main - DEBUG - Batch 800: running loss = 77.5377, running AE = 2361574.4478, running SE = 10156879565.5484
+2022-12-04 22:02:02,975 - main - DEBUG - Batch 900: running loss = 91.1333, running AE = 2700936.6460, running SE = 11491512177.5562
+2022-12-04 22:02:28,993 - main - DEBUG - Batch 1000: running loss = 99.0269, running AE = 3041901.6484, running SE = 12839639164.0331
+2022-12-04 22:02:41,836 - main - INFO - Epoch 23 - val: epoch loss = 0.0985, MAE = 3020.5608, MSE = 3552.5623
+2022-12-04 22:02:41,837 - main - INFO - Epoch 24/2000
+2022-12-04 22:02:41,838 - main - INFO - ----------------------------
+2022-12-04 22:02:41,838 - main - INFO - training...
+2022-12-04 22:02:56,002 - main - DEBUG - Batch 100: running loss = 12.1620, running AE = 102397.9688, running SE = 178970883.2775
+2022-12-04 22:03:11,283 - main - DEBUG - Batch 200: running loss = 24.5011, running AE = 216766.3447, running SE = 430470471.4788
+2022-12-04 22:03:26,291 - main - DEBUG - Batch 300: running loss = 37.0364, running AE = 311428.7759, running SE = 593365805.6275
+2022-12-04 22:03:41,944 - main - DEBUG - Batch 400: running loss = 49.2607, running AE = 420594.3008, running SE = 771920693.3542
+2022-12-04 22:03:58,197 - main - DEBUG - Batch 500: running loss = 61.0569, running AE = 535233.0571, running SE = 970148724.4718
+2022-12-04 22:04:15,289 - main - DEBUG - Batch 600: running loss = 73.3430, running AE = 649942.7227, running SE = 1176954245.8787
+2022-12-04 22:04:33,744 - main - DEBUG - Batch 700: running loss = 85.3117, running AE = 761921.8833, running SE = 1365103634.7293
+2022-12-04 22:04:51,998 - main - DEBUG - Batch 800: running loss = 97.4519, running AE = 866938.3271, running SE = 1536980938.8971
+2022-12-04 22:05:11,326 - main - DEBUG - Batch 900: running loss = 109.3866, running AE = 965617.7554, running SE = 1688900070.9134
+2022-12-04 22:05:30,786 - main - DEBUG - Batch 1000: running loss = 121.7080, running AE = 1063556.6729, running SE = 1833588935.4744
+2022-12-04 22:05:51,090 - main - DEBUG - Batch 1100: running loss = 133.8415, running AE = 1178833.2563, running SE = 2027514550.5472
+2022-12-04 22:06:11,810 - main - DEBUG - Batch 1200: running loss = 145.6423, running AE = 1276837.9302, running SE = 2172060497.0372
+2022-12-04 22:06:34,489 - main - DEBUG - Batch 1300: running loss = 158.0286, running AE = 1387382.3569, running SE = 2364611753.4176
+2022-12-04 22:06:58,914 - main - DEBUG - Batch 1400: running loss = 169.9428, running AE = 1503791.6260, running SE = 2556028286.6232
+2022-12-04 22:07:23,778 - main - DEBUG - Batch 1500: running loss = 182.2217, running AE = 1623782.3745, running SE = 2791158313.7979
+2022-12-04 22:07:48,844 - main - DEBUG - Batch 1600: running loss = 194.4379, running AE = 1745527.4189, running SE = 3031477102.9770
+2022-12-04 22:08:14,026 - main - DEBUG - Batch 1700: running loss = 206.7163, running AE = 1853421.7861, running SE = 3219021774.7817
+2022-12-04 22:08:39,125 - main - DEBUG - Batch 1800: running loss = 219.1297, running AE = 1962141.9287, running SE = 3423267697.8097
+2022-12-04 22:09:04,272 - main - DEBUG - Batch 1900: running loss = 231.2856, running AE = 2070756.2041, running SE = 3612497630.9586
+2022-12-04 22:09:29,390 - main - DEBUG - Batch 2000: running loss = 243.5546, running AE = 2181765.6890, running SE = 3805622389.0257
+2022-12-04 22:09:54,630 - main - DEBUG - Batch 2100: running loss = 255.4839, running AE = 2298831.2241, running SE = 4015580187.8962
+2022-12-04 22:10:19,814 - main - DEBUG - Batch 2200: running loss = 267.7729, running AE = 2412206.4692, running SE = 4209073544.3970
+2022-12-04 22:10:23,075 - main - INFO - Epoch 24 - train: epoch loss = 0.1217, MAE = 1097.5019, MSE = 1384.0111
+2022-12-04 22:10:23,076 - main - INFO - validating...
+2022-12-04 22:10:49,237 - main - DEBUG - Batch 100: running loss = 8.4611, running AE = 270669.6377, running SE = 966874434.9254
+2022-12-04 22:11:15,529 - main - DEBUG - Batch 200: running loss = 15.4954, running AE = 586027.3984, running SE = 2090674621.4080
+2022-12-04 22:11:41,973 - main - DEBUG - Batch 300: running loss = 25.1252, running AE = 821410.2500, running SE = 2808511696.9922
+2022-12-04 22:12:08,592 - main - DEBUG - Batch 400: running loss = 36.6764, running AE = 1130030.0762, running SE = 4267521661.9388
+2022-12-04 22:12:34,909 - main - DEBUG - Batch 500: running loss = 41.5419, running AE = 1561899.2192, running SE = 6379292288.4247
+2022-12-04 22:13:01,546 - main - DEBUG - Batch 600: running loss = 49.9865, running AE = 1841377.4189, running SE = 7431403337.3837
+2022-12-04 22:13:27,933 - main - DEBUG - Batch 700: running loss = 66.2034, running AE = 2157599.6040, running SE = 9559827144.3350
+2022-12-04 22:13:54,407 - main - DEBUG - Batch 800: running loss = 77.5291, running AE = 2359089.5732, running SE = 10141540437.2154
+2022-12-04 22:14:20,835 - main - DEBUG - Batch 900: running loss = 91.1253, running AE = 2698543.2764, running SE = 11477264555.7154
+2022-12-04 22:14:46,925 - main - DEBUG - Batch 1000: running loss = 99.0170, running AE = 3039142.3481, running SE = 12822086140.3424
+2022-12-04 22:14:59,827 - main - INFO - Epoch 24 - val: epoch loss = 0.0985, MAE = 3017.7627, MSE = 3550.0347
+2022-12-04 22:14:59,827 - main - INFO - Epoch 25/2000
+2022-12-04 22:14:59,828 - main - INFO - ----------------------------
+2022-12-04 22:14:59,829 - main - INFO - training...
+2022-12-04 22:15:14,830 - main - DEBUG - Batch 100: running loss = 12.8211, running AE = 111679.3994, running SE = 225053766.7012
+2022-12-04 22:15:30,405 - main - DEBUG - Batch 200: running loss = 24.9829, running AE = 222643.1597, running SE = 420724260.2399
+2022-12-04 22:15:46,811 - main - DEBUG - Batch 300: running loss = 37.1375, running AE = 323926.4517, running SE = 579508729.0385
+2022-12-04 22:16:03,207 - main - DEBUG - Batch 400: running loss = 49.1842, running AE = 439588.6592, running SE = 786389287.9826
+2022-12-04 22:16:21,266 - main - DEBUG - Batch 500: running loss = 61.4440, running AE = 544355.8633, running SE = 970742314.5688
+2022-12-04 22:16:39,604 - main - DEBUG - Batch 600: running loss = 73.8111, running AE = 647359.8633, running SE = 1132703575.6671
+2022-12-04 22:16:57,457 - main - DEBUG - Batch 700: running loss = 86.1229, running AE = 754941.4424, running SE = 1346995049.0101
+2022-12-04 22:17:16,849 - main - DEBUG - Batch 800: running loss = 98.2825, running AE = 867501.6055, running SE = 1566071866.1709
+2022-12-04 22:17:36,279 - main - DEBUG - Batch 900: running loss = 110.4634, running AE = 987781.7319, running SE = 1773671178.8491
+2022-12-04 22:17:55,872 - main - DEBUG - Batch 1000: running loss = 122.4100, running AE = 1113785.2520, running SE = 2020508824.8073
+2022-12-04 22:18:15,911 - main - DEBUG - Batch 1100: running loss = 134.1606, running AE = 1225232.3301, running SE = 2200001005.7131
+2022-12-04 22:18:37,483 - main - DEBUG - Batch 1200: running loss = 146.2872, running AE = 1316322.7173, running SE = 2344048585.6330
+2022-12-04 22:19:00,417 - main - DEBUG - Batch 1300: running loss = 158.5724, running AE = 1420658.0728, running SE = 2519375215.6983
+2022-12-04 22:19:24,092 - main - DEBUG - Batch 1400: running loss = 170.5987, running AE = 1533390.4644, running SE = 2711410522.3848
+2022-12-04 22:19:49,085 - main - DEBUG - Batch 1500: running loss = 182.4449, running AE = 1642717.4487, running SE = 2900031033.6621
+2022-12-04 22:20:14,617 - main - DEBUG - Batch 1600: running loss = 194.9127, running AE = 1776898.5146, running SE = 3155830798.0454
+2022-12-04 22:20:40,079 - main - DEBUG - Batch 1700: running loss = 206.7421, running AE = 1888084.0029, running SE = 3368099967.6963
+2022-12-04 22:21:07,387 - main - DEBUG - Batch 1800: running loss = 219.1448, running AE = 1997419.9126, running SE = 3543455620.1524
+2022-12-04 22:21:32,107 - main - DEBUG - Batch 1900: running loss = 231.5671, running AE = 2100378.6875, running SE = 3712587147.5431
+2022-12-04 22:21:57,128 - main - DEBUG - Batch 2000: running loss = 243.7414, running AE = 2220892.6719, running SE = 3931319529.0385
+2022-12-04 22:22:22,225 - main - DEBUG - Batch 2100: running loss = 255.8001, running AE = 2338595.6333, running SE = 4149785552.8321
+2022-12-04 22:22:47,136 - main - DEBUG - Batch 2200: running loss = 267.7627, running AE = 2460393.6602, running SE = 4381060450.2462
+2022-12-04 22:22:50,366 - main - INFO - Epoch 25 - train: epoch loss = 0.1217, MAE = 1118.2538, MSE = 1410.5842
+2022-12-04 22:22:50,367 - main - INFO - validating...
+2022-12-04 22:23:16,116 - main - DEBUG - Batch 100: running loss = 8.4599, running AE = 270318.4912, running SE = 964763563.3590
+2022-12-04 22:23:42,051 - main - DEBUG - Batch 200: running loss = 15.4926, running AE = 585261.4160, running SE = 2085641435.1626
+2022-12-04 22:24:08,258 - main - DEBUG - Batch 300: running loss = 25.1216, running AE = 820354.8110, running SE = 2802032657.2734
+2022-12-04 22:24:35,261 - main - DEBUG - Batch 400: running loss = 36.6725, running AE = 1128878.1689, running SE = 4260690231.2368
+2022-12-04 22:25:01,655 - main - DEBUG - Batch 500: running loss = 41.5358, running AE = 1560274.6182, running SE = 6368304889.8857
+2022-12-04 22:25:28,427 - main - DEBUG - Batch 600: running loss = 49.9792, running AE = 1839453.7476, running SE = 7418295980.1494
+2022-12-04 22:25:56,891 - main - DEBUG - Batch 700: running loss = 66.1973, running AE = 2155868.9058, running SE = 9549022133.7790
+2022-12-04 22:26:24,413 - main - DEBUG - Batch 800: running loss = 77.5228, running AE = 2357262.3784, running SE = 10130254570.0442
+2022-12-04 22:26:52,129 - main - DEBUG - Batch 900: running loss = 91.1194, running AE = 2696783.6226, running SE = 11466789902.6457
+2022-12-04 22:27:18,022 - main - DEBUG - Batch 1000: running loss = 99.0098, running AE = 3037112.5312, running SE = 12809176671.3922
+2022-12-04 22:27:30,823 - main - INFO - Epoch 25 - val: epoch loss = 0.0985, MAE = 3015.7038, MSE = 3548.1745
+2022-12-04 22:27:30,823 - main - INFO - Epoch 26/2000
+2022-12-04 22:27:30,824 - main - INFO - ----------------------------
+2022-12-04 22:27:30,825 - main - INFO - training...
+2022-12-04 22:27:52,075 - main - DEBUG - Batch 100: running loss = 12.1114, running AE = 93181.0220, running SE = 140716202.9458
+2022-12-04 22:28:13,210 - main - DEBUG - Batch 200: running loss = 24.1407, running AE = 190657.3979, running SE = 286404393.2806
+2022-12-04 22:28:35,333 - main - DEBUG - Batch 300: running loss = 36.1614, running AE = 291375.1753, running SE = 463765328.9848
+2022-12-04 22:28:58,315 - main - DEBUG - Batch 400: running loss = 48.3288, running AE = 410430.8770, running SE = 681552644.0936
+2022-12-04 22:29:20,470 - main - DEBUG - Batch 500: running loss = 60.5115, running AE = 512015.4897, running SE = 854077496.2623
+2022-12-04 22:29:45,051 - main - DEBUG - Batch 600: running loss = 72.5970, running AE = 622127.3936, running SE = 1069137427.6921
+2022-12-04 22:30:09,149 - main - DEBUG - Batch 700: running loss = 84.6829, running AE = 737764.2573, running SE = 1273958847.7735
+2022-12-04 22:30:32,001 - main - DEBUG - Batch 800: running loss = 96.7260, running AE = 854453.2314, running SE = 1485826797.3443
+2022-12-04 22:30:54,202 - main - DEBUG - Batch 900: running loss = 109.2703, running AE = 976710.6543, running SE = 1736785261.4426
+2022-12-04 22:31:15,671 - main - DEBUG - Batch 1000: running loss = 121.0926, running AE = 1083860.9668, running SE = 1904801724.3850
+2022-12-04 22:31:38,666 - main - DEBUG - Batch 1100: running loss = 133.6599, running AE = 1191879.0259, running SE = 2079130081.6914
+2022-12-04 22:32:01,467 - main - DEBUG - Batch 1200: running loss = 145.8717, running AE = 1307746.7676, running SE = 2307640469.1872
+2022-12-04 22:32:25,083 - main - DEBUG - Batch 1300: running loss = 157.7596, running AE = 1430129.7124, running SE = 2527904961.7847
+2022-12-04 22:32:50,802 - main - DEBUG - Batch 1400: running loss = 170.0250, running AE = 1549351.8760, running SE = 2767971893.0001
+2022-12-04 22:33:16,616 - main - DEBUG - Batch 1500: running loss = 182.0936, running AE = 1660642.9023, running SE = 2960571768.6751
+2022-12-04 22:33:41,776 - main - DEBUG - Batch 1600: running loss = 194.4042, running AE = 1774756.7964, running SE = 3158156311.5791
+2022-12-04 22:34:09,335 - main - DEBUG - Batch 1700: running loss = 207.1522, running AE = 1885019.6543, running SE = 3351945690.8351
+2022-12-04 22:34:39,116 - main - DEBUG - Batch 1800: running loss = 219.5354, running AE = 1987972.6816, running SE = 3519533782.8374
+2022-12-04 22:35:06,686 - main - DEBUG - Batch 1900: running loss = 231.5701, running AE = 2088553.3359, running SE = 3681152505.9355
+2022-12-04 22:35:33,958 - main - DEBUG - Batch 2000: running loss = 243.5403, running AE = 2197188.2642, running SE = 3849774939.6369
+2022-12-04 22:36:01,053 - main - DEBUG - Batch 2100: running loss = 255.8562, running AE = 2308226.9111, running SE = 4033576356.6946
+2022-12-04 22:36:28,158 - main - DEBUG - Batch 2200: running loss = 267.8559, running AE = 2404448.3008, running SE = 4182511379.7037
+2022-12-04 22:36:31,731 - main - INFO - Epoch 26 - train: epoch loss = 0.1217, MAE = 1093.0212, MSE = 1378.8115
+2022-12-04 22:36:31,732 - main - INFO - validating...
+2022-12-04 22:37:00,564 - main - DEBUG - Batch 100: running loss = 8.4616, running AE = 270841.6177, running SE = 967892959.8992
+2022-12-04 22:37:29,372 - main - DEBUG - Batch 200: running loss = 15.4968, running AE = 586399.3164, running SE = 2093103272.0247
+2022-12-04 22:37:59,066 - main - DEBUG - Batch 300: running loss = 25.1270, running AE = 821921.6050, running SE = 2811638465.3062
+2022-12-04 22:38:28,602 - main - DEBUG - Batch 400: running loss = 36.6782, running AE = 1130587.9302, running SE = 4270820073.4017
+2022-12-04 22:38:57,342 - main - DEBUG - Batch 500: running loss = 41.5449, running AE = 1562684.9507, running SE = 6384595965.0672
+2022-12-04 22:39:24,316 - main - DEBUG - Batch 600: running loss = 49.9900, running AE = 1842307.2939, running SE = 7437730498.1121
+2022-12-04 22:39:50,770 - main - DEBUG - Batch 700: running loss = 66.2063, running AE = 2158436.5220, running SE = 9565046890.7583
+2022-12-04 22:40:25,004 - main - DEBUG - Batch 800: running loss = 77.5321, running AE = 2359972.9512, running SE = 10146993347.7805
+2022-12-04 22:40:53,659 - main - DEBUG - Batch 900: running loss = 91.1281, running AE = 2699394.1196, running SE = 11482328385.9055
+2022-12-04 22:41:22,014 - main - DEBUG - Batch 1000: running loss = 99.0205, running AE = 3040123.3296, running SE = 12828324461.5750
+2022-12-04 22:41:35,273 - main - INFO - Epoch 26 - val: epoch loss = 0.0985, MAE = 3018.7576, MSE = 3550.9333
+2022-12-04 22:41:35,274 - main - INFO - Epoch 27/2000
+2022-12-04 22:41:35,275 - main - INFO - ----------------------------
+2022-12-04 22:41:35,276 - main - INFO - training...
+2022-12-04 22:41:50,224 - main - DEBUG - Batch 100: running loss = 12.3183, running AE = 115792.6763, running SE = 198489816.8092
+2022-12-04 22:42:08,069 - main - DEBUG - Batch 200: running loss = 23.7841, running AE = 244737.5889, running SE = 423751531.9247
+2022-12-04 22:42:26,231 - main - DEBUG - Batch 300: running loss = 36.0445, running AE = 351738.6860, running SE = 604062326.6690
+2022-12-04 22:42:45,082 - main - DEBUG - Batch 400: running loss = 48.4046, running AE = 465137.8032, running SE = 800994169.0733
+2022-12-04 22:43:03,986 - main - DEBUG - Batch 500: running loss = 60.4666, running AE = 578925.5332, running SE = 1018818312.3020
+2022-12-04 22:43:22,993 - main - DEBUG - Batch 600: running loss = 72.7328, running AE = 677867.5293, running SE = 1174730742.4945
+2022-12-04 22:43:42,067 - main - DEBUG - Batch 700: running loss = 85.1487, running AE = 782471.6406, running SE = 1358288479.7470
+2022-12-04 22:44:01,757 - main - DEBUG - Batch 800: running loss = 97.4465, running AE = 900987.4805, running SE = 1581389930.5150
+2022-12-04 22:44:22,635 - main - DEBUG - Batch 900: running loss = 109.6090, running AE = 1003300.9824, running SE = 1753727428.5706
+2022-12-04 22:44:44,715 - main - DEBUG - Batch 1000: running loss = 121.5635, running AE = 1116647.1587, running SE = 1949526270.9352
+2022-12-04 22:45:06,638 - main - DEBUG - Batch 1100: running loss = 133.5585, running AE = 1234166.1030, running SE = 2152983927.9861
+2022-12-04 22:45:29,834 - main - DEBUG - Batch 1200: running loss = 145.4038, running AE = 1338040.9229, running SE = 2312117791.8980
+2022-12-04 22:45:54,045 - main - DEBUG - Batch 1300: running loss = 158.2467, running AE = 1466548.3960, running SE = 2562516375.0303
+2022-12-04 22:46:18,801 - main - DEBUG - Batch 1400: running loss = 170.5365, running AE = 1586455.4487, running SE = 2803964112.7264
+2022-12-04 22:46:43,737 - main - DEBUG - Batch 1500: running loss = 182.5639, running AE = 1694963.1533, running SE = 3003492124.5536
+2022-12-04 22:47:08,753 - main - DEBUG - Batch 1600: running loss = 195.2783, running AE = 1814747.0088, running SE = 3231769125.9678
+2022-12-04 22:47:33,750 - main - DEBUG - Batch 1700: running loss = 207.0989, running AE = 1920064.0820, running SE = 3388418676.3162
+2022-12-04 22:47:58,791 - main - DEBUG - Batch 1800: running loss = 219.1865, running AE = 2011750.0859, running SE = 3522310419.8532
+2022-12-04 22:48:23,820 - main - DEBUG - Batch 1900: running loss = 231.3747, running AE = 2121899.5142, running SE = 3722548328.4663
+2022-12-04 22:48:48,954 - main - DEBUG - Batch 2000: running loss = 243.6973, running AE = 2236762.6377, running SE = 3925079595.3513
+2022-12-04 22:49:14,151 - main - DEBUG - Batch 2100: running loss = 255.9482, running AE = 2345819.2559, running SE = 4115921956.3466
+2022-12-04 22:49:39,629 - main - DEBUG - Batch 2200: running loss = 267.7303, running AE = 2458575.6289, running SE = 4308008273.0362
+2022-12-04 22:49:42,889 - main - INFO - Epoch 27 - train: epoch loss = 0.1217, MAE = 1118.6672, MSE = 1400.4505
+2022-12-04 22:49:42,890 - main - INFO - validating...
+2022-12-04 22:50:08,557 - main - DEBUG - Batch 100: running loss = 8.4612, running AE = 270716.6675, running SE = 967152834.2980
+2022-12-04 22:50:34,576 - main - DEBUG - Batch 200: running loss = 15.4958, running AE = 586129.1748, running SE = 2091339026.9392
+2022-12-04 22:51:01,023 - main - DEBUG - Batch 300: running loss = 25.1257, running AE = 821550.1523, running SE = 2809366854.1650
+2022-12-04 22:51:27,599 - main - DEBUG - Batch 400: running loss = 36.6769, running AE = 1130182.7109, running SE = 4268423781.9102
+2022-12-04 22:51:48,970 - main - INFO - Saved the best model at epoch 27.

@@ -1,0 +1,41 @@
+2022-09-21 13:09:41,892 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:09:44,179 - main - INFO - Epoch 1/10
+2022-09-21 13:09:44,179 - main - INFO - ----------------------------
+2022-09-21 13:09:44,180 - main - INFO - training...
+2022-09-21 13:22:55,985 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:25:09,469 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:25:11,442 - main - INFO - Epoch 1/10
+2022-09-21 13:25:11,442 - main - INFO - ----------------------------
+2022-09-21 13:25:11,442 - main - INFO - training...
+2022-09-21 13:30:11,494 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:30:13,014 - main - INFO - Epoch 1/10
+2022-09-21 13:30:13,014 - main - INFO - ----------------------------
+2022-09-21 13:30:13,014 - main - INFO - training...
+2022-09-21 13:38:37,395 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 16965.7758, running SE = 2916057.2344
+2022-09-21 13:41:29,874 - main - INFO - Epoch 1 - train: epoch loss = 0.0000, MAE = 159.1166, MSE = 161.1262
+2022-09-21 13:41:29,875 - main - INFO - validating...
+2022-09-21 13:46:11,418 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:46:58,052 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:46:59,526 - main - INFO - Epoch 1/10
+2022-09-21 13:46:59,527 - main - INFO - ----------------------------
+2022-09-21 13:46:59,527 - main - INFO - training...
+2022-09-21 13:48:21,033 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 14426.7278, running SE = 2110608.5352
+2022-09-21 13:48:48,855 - main - INFO - Epoch 1 - train: epoch loss = 0.0000, MAE = 134.8752, MSE = 136.7458
+2022-09-21 13:48:48,856 - main - INFO - validating...
+2022-09-21 13:56:51,353 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:56:53,189 - main - INFO - Epoch 1/10
+2022-09-21 13:56:53,190 - main - INFO - ----------------------------
+2022-09-21 13:56:53,190 - main - INFO - training...
+2022-09-21 13:58:12,887 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 16007.6737, running SE = 2596385.3428
+2022-09-21 13:58:39,632 - main - INFO - Epoch 1 - train: epoch loss = 0.0000, MAE = 150.0097, MSE = 151.9783
+2022-09-21 13:58:39,634 - main - INFO - validating...
+2022-09-21 14:13:13,456 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 14:15:23,613 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 14:17:32,182 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 14:17:34,076 - main - INFO - Epoch 1/10
+2022-09-21 14:17:34,076 - main - INFO - ----------------------------
+2022-09-21 14:17:34,076 - main - INFO - training...
+2022-09-21 14:18:56,203 - main - DEBUG - Batch 100: running loss = 0.0002, running AE = 16536.2681, running SE = 2768885.9160
+2022-09-21 14:19:23,003 - main - INFO - Epoch 1 - train: epoch loss = 0.0000, MAE = 155.3228, MSE = 157.1922
+2022-09-21 14:19:23,003 - main - INFO - validating...
+2022-09-21 14:30:23,439 - main - INFO - CSRNet-Epochs-10_BatchSize-128_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1

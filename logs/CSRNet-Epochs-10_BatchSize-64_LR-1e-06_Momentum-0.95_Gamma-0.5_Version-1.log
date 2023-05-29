@@ -1,0 +1,5 @@
+2022-09-21 13:06:20,052 - main - INFO - CSRNet-Epochs-10_BatchSize-64_LR-1e-06_Momentum-0.95_Gamma-0.5_Version-1
+2022-09-21 13:06:22,535 - main - INFO - Epoch 1/10
+2022-09-21 13:06:22,536 - main - INFO - ----------------------------
+2022-09-21 13:06:22,537 - main - INFO - training...
+2022-09-21 13:09:20,284 - main - INFO - Saved the best model at epoch 1.
