@@ -2,9 +2,15 @@
 
 A robust, PyTorch-based framework for vehicle detection, density estimation, and semantic segmentation in congested traffic environments. By combining regression-based density maps (utilizing both MCNN and CSRNet backbones) with explicit foreground semantic segmentation masks, this project accurately localizes, tracks, and counts vehicles even under heavy occlusion and highly dynamic lighting conditions.
 
+* **Citation Link**
+Soumi Das, Palaiahnakote Shivakumara, Umapada Pal, and Raghavendra Ramachandra. "Gaussian 
+Kernels Based Network for Multiple License Plate Number Detection in Day-Night Images." International 
+Conference on Document Analysis and Recognition (ICDAR), pp. 70–87. Springer, 2023.
+
 ---
 
 ## ## System Architecture & Key Features
+<img width="462" height="173" alt="Proposed Architecture" src="https://github.com/user-attachments/assets/3fe5032c-a8ab-4ae1-99f2-ed7a8eb28ab1" />
 
 * **Multi-Column CNN (MCNN)**: Utilizes varying filter sizes ($9 \times 9$, $7 \times 7$, $5 \times 5$) across multiple columns to capture multi-scale vehicle features, adapting smoothly to variations in vehicle sizes caused by perspective distortion.
 * **Dilated CNN (CSRNet)**: Deploys dilated convolutional layers to expand the network's receptive field without losing spatial resolution, making it highly effective for dense and highly congested urban traffic zones.
@@ -150,3 +156,11 @@ $$\sigma_i = \beta \bar{d}_i$$
 The total inferred vehicle count $N$ inside any target matrix is extracted seamlessly by integrating over the continuous surface plane of the predicted density map $P$:
 
 $$N = \sum_{x=1}^{W} \sum_{y=1}^{H} P(x, y)$$
+
+---
+
+## ## Outputs
+<img width="359" height="272" alt="Sample1_Output" src="https://github.com/user-attachments/assets/6b004bd2-e7cc-4526-90ef-958c9c608401" />
+<img width="356" height="310" alt="Sample2_Output" src="https://github.com/user-attachments/assets/d3b3b717-c9e7-4db8-b8d6-8f2a7fbcb46f" />
+<img width="227" height="285" alt="Sample3_Output" src="https://github.com/user-attachments/assets/c48c54f4-ec0c-4ec7-af4d-504678778a38" />
+
